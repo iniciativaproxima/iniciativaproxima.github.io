@@ -1,1 +1,1 @@
-[Proxima Symposium websote](https://iniciativaproxima.github.io).
+[Proxima Symposium website](https://iniciativaproxima.github.io).
