@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sponsor-Exhibit
-description: Lorem ipsum dolor est
+description: adopt a student. support social education.
 image: assets/images/pic06.jpg
 nav-menu: true
 ---
