@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: About us
 description: nois
 image: assets/images/pic01.jpg
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Symposium Program</h1>
+			<h1>About us</h1>
 		</header>
 
 <!-- Content -->
