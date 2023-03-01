@@ -1,7 +1,7 @@
 ---
 title: Venue and travel
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Visit Porto Alegre in Brazil! The symposium will be held at Centro Cultural UFRGS'
 image: assets/images/venue-travel.jpg
 nav-menu: true
 ---
