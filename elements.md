@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sponsor-Exhibit
+title: Symposium Program
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
