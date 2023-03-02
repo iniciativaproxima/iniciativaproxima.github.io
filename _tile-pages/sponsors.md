@@ -1,5 +1,5 @@
 ---
-layout: tiles-page
+layout: tile-page
 title: Sponsor-Exhibit
 description: adopt a student. support social education.
 image: assets/images/pic06.jpg

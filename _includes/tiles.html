@@ -1,7 +1,7 @@
 {% if 'posts' == site.tiles-source %}
     {% assign tiles = site.posts %}
-{% elsif 'tiles-page' == site.tiles-source %}
-    {% assign tiles = site.tiles-pages %}
+{% elsif 'tile-page' == site.tiles-source %}
+    {% assign tiles = site.tile-pages %}
 {% elsif 'pages' == site.tiles-source %}
     {% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false" %}
 {% endif %}
