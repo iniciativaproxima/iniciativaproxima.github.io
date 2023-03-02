@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: about
 title: About us
 description: nois
 image: assets/images/pic01.jpg
