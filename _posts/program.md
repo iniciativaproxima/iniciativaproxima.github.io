@@ -1,5 +1,5 @@
 ---
-layout: tile-page
+layout: post
 title: Symposium Program
 description: Talks, roundtables, coffee breaks!
 image: assets/images/pic01.jpg
