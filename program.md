@@ -293,24 +293,38 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>9:30 - 10:15 am</td>
-				<td>?</td>
-				<td>?</td>
+				<td>9:30-10 am</td>
+				<td>PI</td>
+				<td>Talk title</td>
 			</tr>
 			<tr>
-				<td>10:15 - 10:45 am</td>
+				<td>10-10:30 am</td>
+				<td>PI</td>
+				<td>Talk title</td>
+			</tr>
+			<tr>
+				<td>10:30-11 am</td>
+				<td>PI</td>
+				<td>Talk title</td>
+			</tr>
+			<tr>
+				<td>11-11:30 am</td>
 				<td>-</td>
-				<td>Coffee Break</td>
+				<td>Cofee Break (Room X)</td>
 			</tr>
 			<tr>
-				<td>10:45-12 pm</td>
-				<td>?</td>
-				<td>Mentoring?</td>
+				<td>11:30-11:45 am</td>
+				<td>Student</td>
+				<td>Talk title</td>
+			</tr>
+			<tr>
+				<td>11:45-12 pm</td>
+				<td>Student</td>
+				<td>Talk title</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
-
 <h4>Networking Lunch at X (Room X)</h4>
 
 <h4>Session X (Room X)</h4>
