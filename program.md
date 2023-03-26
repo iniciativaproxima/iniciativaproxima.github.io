@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: Symposium Program
-description: Talks, roundtables, coffee breaks!
+description: Talks. Posters. Networking sessions!
 image: assets/images/pic01.jpg
 ---
 
