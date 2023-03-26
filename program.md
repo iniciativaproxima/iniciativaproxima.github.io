@@ -12,7 +12,7 @@ image: assets/images/pic01.jpg
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Program - Proxima Symposium 2023</h1>
+			<h1>Symposium Program</h1>
 			<h3>3 Days. Talks. Posters. Networking Sessions.</h3>
 		</header>
 
@@ -300,7 +300,6 @@ image: assets/images/pic01.jpg
 				<td>10:15 - 10:45 am</td>
 				<td>-</td>
 				<td>Coffee Break</td>
-				<td>Break Area</td>
 			</tr>
 			<tr>
 				<td>10:45-12 pm</td>
@@ -397,6 +396,6 @@ image: assets/images/pic01.jpg
 
 <h4>6:15-7:45pm: Poster Session 2 + Happy Hour (Room X)</h4>
 
+</div>
 </section>
-
 </div>
