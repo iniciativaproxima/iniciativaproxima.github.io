@@ -281,7 +281,7 @@ nav-menu: true
 <hr class="major" />
 
 <h3>Day 3: Wednesday, December 13</h3>
-<h4>Workshop (Room X)</h4>
+<h4>Session X (Room X)</h4>
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -325,6 +325,7 @@ nav-menu: true
 		</tbody>
 	</table>
 </div>
+
 <h4>Networking Lunch at X (Room X)</h4>
 
 <h4>Session X (Room X)</h4>
