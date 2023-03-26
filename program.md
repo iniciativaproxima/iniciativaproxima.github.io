@@ -12,7 +12,8 @@ image: assets/images/pic01.jpg
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>3 Days. Talks. Posters. Networking Sessions.</h1>
+			<h1>Program - Proxima Symposium 2023</h1>
+			<h3>3 Days. Talks. Posters. Networking Sessions.</h1>
 		</header>
 
 <!-- Content -->
@@ -53,7 +54,7 @@ image: assets/images/pic01.jpg
 
 
 <!-- Program -->
-<h3>[Day 1] Monday, December 11</h3>
+<h3>Day 1: Monday, December 11</h3>
 <h4>Opening Session</h4>
 <div class="table-wrapper">
 	<table>
@@ -75,6 +76,139 @@ image: assets/images/pic01.jpg
 		</tbody>
 	</table>
 </div>
+
+<h4>Session X</h4>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Who</th>
+				<th>What</th>
+				<th>Room</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>2-2:30 pm</td>
+				<td>PI</td>
+				<td>Talk title, testing a very long talk title testing a very long talk title testing a very long talk title testing a very long talk title </td>
+				<td>Main</td>
+			</tr>
+			<tr>
+				<td>2:30-3 pm</td>
+				<td>PI</td>
+				<td>Talk title</td>
+				<td>Main</td>
+			</tr>
+			<tr>
+				<td>3-3:15 pm</td>
+				<td>Student</td>
+				<td>Talk title</td>
+				<td>Main</td>
+			</tr>
+			<tr>
+				<td>3:15-3:30 pm</td>
+				<td>Student</td>
+				<td>Talk title</td>
+				<td>Main</td>
+			</tr>
+			<tr>
+				<td>3:30-3:45 pm</td>
+				<td>-</td>
+				<td>Session summary and Q&A</td>
+				<td>Main</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<h4>3:45-4:30pm: Coffee Break in the X room</h4>
+
+<h4>Session X</h4>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Who</th>
+				<th>What</th>
+				<th>Room</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>4:30-4:45 pm</td>
+				<td>Student</td>
+				<td>Talk title</td>
+				<td>Main</td>
+			</tr>
+			<tr>
+				<td>4:45-5 pm</td>
+				<td>Student</td>
+				<td>Talk title</td>
+				<td>Main</td>
+			</tr>
+			<tr>
+				<td>5-5:30 pm</td>
+				<td>PI</td>
+				<td>Talk title</td>
+				<td>Main</td>
+			</tr>
+			<tr>
+				<td>5:30-6 pm</td>
+				<td>PI</td>
+				<td>Talk title</td>
+				<td>Main</td>
+			</tr>
+			<tr>
+				<td>6-6:15 pm</td>
+				<td>-</td>
+				<td>Session summary and Q&A</td>
+				<td>Main</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<h4>6:15-7:45pm: Poster Session 1 + Happy Hour in the X room</h4>
+
+<h3>Day 2: Tuesday, December 12</h3>
+<h4>Workshop</h4>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Who</th>
+				<th>What</th>
+				<th>Room</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>9:30 - 10:15 am</td>
+				<td>?</td>
+				<td>?</td>
+				<td>Main</td>
+			</tr>
+			<tr>
+				<td>10:15 - 10:45 am</td>
+				<td>-</td>
+				<td>Coffee Break</td>
+				<td>Break Area</td>
+			</tr>
+			<tr>
+				<td>10:45-12 pm</td>
+				<td>?</td>
+				<td>Mentoring?</td>
+				<td>Main</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<h4>Networking Lunch at X</h4>
 
 <h4>Session X</h4>
 <div class="table-wrapper">
@@ -122,6 +256,55 @@ image: assets/images/pic01.jpg
 	</table>
 </div>
 
+<h4>3:45-4:30pm: Coffee Break in the X room</h4>
+
+<h4>Session X</h4>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Who</th>
+				<th>What</th>
+				<th>Room</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>4:30-4:45 pm</td>
+				<td>Student</td>
+				<td>Talk title</td>
+				<td>Main</td>
+			</tr>
+			<tr>
+				<td>4:45-5 pm</td>
+				<td>Student</td>
+				<td>Talk title</td>
+				<td>Main</td>
+			</tr>
+			<tr>
+				<td>5-5:30 pm</td>
+				<td>PI</td>
+				<td>Talk title</td>
+				<td>Main</td>
+			</tr>
+			<tr>
+				<td>5:30-6 pm</td>
+				<td>PI</td>
+				<td>Talk title</td>
+				<td>Main</td>
+			</tr>
+			<tr>
+				<td>6-6:15 pm</td>
+				<td>-</td>
+				<td>Session summary and Q&A</td>
+				<td>Main</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<h4>6:15-7:45pm: Poster Session 2 + Happy Hour in the X room</h4>
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
