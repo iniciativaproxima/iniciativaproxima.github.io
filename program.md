@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Symposium Program
-description: Talks. Posters. Networking sessions.
+description: 3 Days. Talks. Posters. Networking Sessions.
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -12,10 +12,10 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
+		<!-- <header class="major">
 			<h1>Symposium Program</h1>
 			<h3>3 Days. Talks. Posters. Networking Sessions.</h3>
-		</header>
+		</header> -->
 
 <!-- Content -->
 <!-- <h2 id="content">Sample Content</h2>
