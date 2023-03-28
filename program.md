@@ -68,8 +68,8 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>1:45-2 pm</td>
-				<td>Introductory remarks</td>
 				<td>Scientific Committee</td>
+				<td>Introductory remarks</td>
 			</tr>
 		</tbody>
 	</table>
