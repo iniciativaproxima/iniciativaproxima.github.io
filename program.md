@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Symposium Program
 description: Talks. Posters. Networking sessions.
 image: assets/images/pic01.jpg

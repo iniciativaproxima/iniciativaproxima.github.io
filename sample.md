@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: about
 title: sample content
 description: Talks, roundtables, coffee breaks!
 image: assets/images/pic01.jpg
