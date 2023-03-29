@@ -20,10 +20,12 @@ nav-menu: true
 <h2 id="content">Mission</h2>
 
 <blockquote>
-Scientists with the desire to connect young Brazilian researchers with the opportunity to go further.
-Our core motivation is to empower a new generation of young talented researchers in Brazil. We understand that science must reflect the diversity of the world we live in. As such, the Proxima team seeks to connect you with world-renowned speakers  through a series of seminars covering broad topics in research. 
-As it happened in the 2019 SBS edition, we hope that the 2023 Proxima Symposium may help those interested in jumpstarting a career in international research by promoting interactions between speakers and participants throughout the days of the event.
+Mission: Scientists with the desire to connect young Brazilian researchers with the opportunity to go further.
 </blockquote>
+
+<p>Our core motivation is to empower a new generation of young talented researchers in Brazil. We understand that science must reflect the diversity of the world we live in. As such, the Proxima team seeks to connect you with world-renowned speakers  through a series of seminars covering broad topics in research.</p>
+
+<p>As it happened in the 2019 SBS edition, we hope that the 2023 Proxima Symposium may help those interested in jumpstarting a career in international research by promoting interactions between speakers and participants throughout the days of the event.</p>
 
 <hr class="major" />
 
