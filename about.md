@@ -33,20 +33,20 @@ nav-menu: true
 
 	<h2 id="team">Proxima Team</h2>
 	<div class="row 200%">
-		<div class="6u 12u$(medium)">
-			<div class="row 50% uniform">
-				<div class="4u"><blockquote><h2>Steering Committee</h2></blockquote></div>
-			</div>
+	<div class="6u 12u$(medium)">
+		<div class="row 50% uniform">
+			<div class="4u"><blockquote><h2>Steering Committee</h2></blockquote></div>
+		</div>
 
-			<div class="6u$ 12u$(medium)">
-				<div class="box alt">
-					<div class="row 50% uniform">
-						<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span> Eduardo Rigon Zimmer </div>
-						<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /> Marcelo O. Dietrich </span> Yale University </div>
-					</div>
+		<div class="6u$ 12u$(medium)">
+			<div class="box alt">
+				<div class="row 50% uniform">
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span> Eduardo Rigon Zimmer </div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /> Marcelo O. Dietrich </span> Yale University </div>
 				</div>
 			</div>
 		</div>
+	</div>
 	</div>
 
 	<hr class="major" />
