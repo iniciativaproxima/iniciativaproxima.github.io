@@ -31,17 +31,12 @@ nav-menu: true
 
 	<hr class="major" />
 
-	<h2 id="team">Proxima Team</h2>
+	<h3 id="team">Proxima Team</h2>
+	ToDo: crop pictures so they are all the same size
 
 
+	<h2>Steering Committee</h2>
 	<div class="row 200%">
-		<div class="6u 12u$(medium)">
-			<div class="row 50% uniform">
-				<blockquote><h2>Steering Committee</h2></blockquote>
-				<!-- <div class="4u"></div> -->
-			</div>
-		</div>
-
 		<div class="6u$ 12u$(medium)">
 			<div class="box alt">
 				<div class="row 50% uniform">
@@ -57,12 +52,14 @@ nav-menu: true
 
 	<div class="row 200%">
 		<div class="6u 12u$(medium)">
-			<div class="row 50% uniform">
-					<div class="4u"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span> Luis R. Saraiva </div>
-					<div class="4u"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span> Mychael Lourenço </div>
-					<div class="4u"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span> Tatiana Luft </div>
-					<div class="4u"><span class="image fit"><img src="{% link assets/images/people/valentina.jpg %}" alt="" /></span> Valentina Parma </div>
-					<!-- Break -->
+			<div class="box alt">
+				<div class="row 50% uniform">
+						<div class="4u"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span> Luis R. Saraiva </div>
+						<div class="4u"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span> Mychael Lourenço </div>
+						<div class="4u"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span> Tatiana Luft </div>
+						<div class="4u"><span class="image fit"><img src="{% link assets/images/people/valentina.jpg %}" alt="" /></span> Valentina Parma </div>
+						<!-- Break -->
+				</div>
 			</div>
 		</div>
 	</div>
