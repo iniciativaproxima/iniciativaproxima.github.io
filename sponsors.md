@@ -1,9 +1,10 @@
 ---
 layout: about
 title: Sponsor-Exhibit
-description: adopt a student. support social education.
+description: Adopt a student. Support social education.
 image: assets/images/pic06.jpg
 nav-menu: true
 ---
-
+<div id="main" class="alt">
 Update.
+</div>
