@@ -32,10 +32,14 @@ nav-menu: true
 	<hr class="major" />
 
 	<h2 id="team">Proxima Team</h2>
+
+
 	<div class="row 200%">
-	<div class="6u 12u$(medium)">
-		<div class="row 50% uniform">
-			<div class="4u"><blockquote><h2>Steering Committee</h2></blockquote></div>
+		<div class="6u 12u$(medium)">
+			<div class="row 50% uniform">
+				<blockquote><h2>Steering Committee</h2></blockquote><
+				<!-- <div class="4u"></div> -->
+			</div>
 		</div>
 
 		<div class="6u$ 12u$(medium)">
@@ -47,24 +51,23 @@ nav-menu: true
 			</div>
 		</div>
 	</div>
-	</div>
 
 	<hr class="major" />
+	<blockquote><h2>Scientific Committee</h2></blockquote><
 
 	<div class="row 200%">
 		<div class="6u 12u$(medium)">
 			<div class="row 50% uniform">
-				<div class="4u"><h2>Scientific Committee</h2></div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span> Name </div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
+					<!-- Break -->
 			</div>
 
 			<div class="6u$ 12u$(medium)">
 				<div class="box alt">
 					<div class="row 50% uniform">
 						<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span> Name </div>
-						<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
-						<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
-						<!-- Break -->
-						<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
 					</div>
 				</div>
 			</div>
@@ -72,20 +75,23 @@ nav-menu: true
 	</div>
 
 	<hr class="major" />
+	<blockquote><h2>Trainee Committee</h2></blockquote><
 
 	<div class="row 200%">
 		<div class="6u 12u$(medium)">
-			<div class="row 50% uniform">
-				<div class="4u"><h2>Trainee Committee</h2></div>
+			<div class="box alt">
+				<div class="row 50% uniform">
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span> Name </div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
+					<!-- Break -->
+				</div>
 			</div>
+		</div>
 
 			<div class="6u$ 12u$(medium)">
 				<div class="box alt">
 					<div class="row 50% uniform">
-						<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span> Name </div>
-						<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
-						<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
-						<!-- Break -->
 						<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
 						<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
 						<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
