@@ -34,8 +34,11 @@ nav-menu: true
 	<h2 id="team">Proxima Team</h2>
 	<div class="row 200%">
 		<div class="6u 12u$(medium)">
-			<h3>Steering Committee</h3>
-		</div>
+			<div class="row 50% uniform">
+				<div class="4u"><blockquote> <h2>Steering Committee</h2> </blockquote> </div>
+				<div class="4u"><blockquote> <h2>Scientific Committee</h2> </blockquote> </div>
+				<div class="4u"><blockquote> <h2>Trainee Committee</h2> </blockquote> </div>
+			</div>
 
 		<div class="6u$ 12u$(medium)">
 			<div class="box alt">
