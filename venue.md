@@ -76,12 +76,17 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Things to do in Porto Alegre</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		<p>add picture, intro text and address for each location.</p>
+		<p>Orla do Guaíba</p>
+		<p>Porto Alegre Botanical Garden</p>
+		<p>Parque da Redenção</p>
+		<p>Parque Moinhos de Vento (Parcão)</p>
+		<p>Public Market</p>
+		<p>Casa de Cultura Mario Quintana</p>
+		<p>Fundacao Ibere Camargo</p>
+		<p>Praça da Alfândega</p>
 	</div>
 </section>
 
