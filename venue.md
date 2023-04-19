@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Venue and travel
-description: Visit Porto Alegre in Brazil. The symposium will be held at Centro Cultural UFRGS.
+description: Visit Porto Alegre in Brazil.
 image: assets/images/venue-travel.jpg
 nav-menu: true
 ---
