@@ -32,7 +32,7 @@ nav-menu: true
 	<hr class="major" />
 
 	<h3 id="team">Proxima Team</h2>
-	ToDo: crop pictures so they are all the same size
+	<p>ToDo: crop pictures so they are all the same size</p>
 
 
 	<h2>Steering Committee</h2>
@@ -40,8 +40,8 @@ nav-menu: true
 		<div class="6u$ 12u$(medium)">
 			<div class="box alt">
 				<div class="row 50% uniform">
-					<div class="4u"><span class="image fit"><img src="{% link assets/images/people/eduardo.png %}" alt="" /></span> Eduardo Rigon Zimmer </div>
-					<div class="4u"><span class="image fit"><img src="{% link assets/images/people/dietrich.png %}" alt="" /> Marcelo O. Dietrich </span> Yale University </div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/people/eduardo.png %}" alt="" /></span> Eduardo Rigon Zimmer (UFRGS) </div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/people/dietrich.png %}" alt="" /></span> Marcelo O. Dietrich (Yale University) </div>
 				</div>
 			</div>
 		</div>
@@ -54,11 +54,17 @@ nav-menu: true
 		<div class="6u 12u$(medium)">
 			<div class="box alt">
 				<div class="row 50% uniform">
-						<div class="4u"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span> Luis R. Saraiva </div>
-						<div class="4u"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span> Mychael Lourenço </div>
-						<div class="4u"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span> Tatiana Luft </div>
-						<div class="4u"><span class="image fit"><img src="{% link assets/images/people/valentina.jpg %}" alt="" /></span> Valentina Parma </div>
+						<div class="4u"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span> Luis R. Saraiva (Sidra Medicine)</div>
+						<div class="4u"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span> Mychael Lourenço (UFRJ) </div>
+						<div class="4u"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span> Tatiana Luft (UFRGS) </div>
 						<!-- Break -->
+				</div>
+			</div>
+		</div>
+		<div class="6u 12u$(medium)">
+			<div class="box alt">
+				<div class="row 50% uniform">
+						<div class="4u"><span class="image fit"><img src="{% link assets/images/people/valentina.jpg %}" alt="" /></span> Valentina Parma (Monell Chemical Senses Center) </div>
 				</div>
 			</div>
 		</div>
@@ -71,9 +77,9 @@ nav-menu: true
 		<div class="6u 12u$(medium)">
 			<div class="box alt">
 				<div class="row 50% uniform">
-					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span> Name </div>
-					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
-					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span> Ana Cristina Roginski (ASU) </div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Gustavo Madeira Santana (Yale) </div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Jorley Santos da Silva (UFBA) </div>
 					<!-- Break -->
 				</div>
 			</div>
@@ -82,9 +88,9 @@ nav-menu: true
 		<div class="6u$ 12u$(medium)">
 			<div class="box alt">
 				<div class="row 50% uniform">
-					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
-					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
-					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Name </div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Marcelo Zimmer (Yale) </div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Mariana Ritter Rau (UFRGS) </div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Rafael Dai Pra (Yale) </div>
 				</div>
 			</div>
 		</div>
