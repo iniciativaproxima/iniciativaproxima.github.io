@@ -35,7 +35,7 @@ nav-menu: true
 	<div class="row 200%">
 		<div class="6u 12u$(medium)">
 			<div class="row 50% uniform">
-				<div class="4u"><blockquote> <h2>Steering Committee</h2> </blockquote> </div>
+				<div class="4u"><h2>Steering Committee</h2></div>
 			</div>
 
 		<div class="6u$ 12u$(medium)">
@@ -53,7 +53,7 @@ nav-menu: true
 	<div class="row 200%">
 		<div class="6u 12u$(medium)">
 			<div class="row 50% uniform">
-				<div class="4u"><blockquote> <h2>Scientific Committee</h2> </blockquote> </div>
+				<div class="4u"><h2>Scientific Committee</h2></div>
 			</div>
 
 		<div class="6u$ 12u$(medium)">
@@ -74,7 +74,7 @@ nav-menu: true
 	<div class="row 200%">
 		<div class="6u 12u$(medium)">
 			<div class="row 50% uniform">
-				<div class="4u"><blockquote> <h2>Trainee Committee</h2> </blockquote> </div>
+				<div class="4u"><h2>Trainee Committee</h2></div>
 			</div>
 
 		<div class="6u$ 12u$(medium)">
