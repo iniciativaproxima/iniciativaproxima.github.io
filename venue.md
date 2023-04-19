@@ -28,11 +28,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Main venus: Centro Cultural UFRGS</h3>
+					<h3>Main venue: Centro Cultural UFRGS</h3>
 				</header>
-				<p>333 Eng. Luiz Englert Street. Farroupilha, Porto Alegre, Brazil.</p>
+				<p>Small intro text.</p>
+				<p>333 Eng. Luiz Englert Street, Porto Alegre, Brazil.</p>
 				<ul class="actions">
-					<li><a href="https://www.ufrgs.br/difusaocultural/centrocultural/" class="button">Learn more</a></li>
+					<li><a href="https://www.ufrgs.br/difusaocultural/centrocultural/" class="button" target="_blank" rel="noopener noreferrer">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
