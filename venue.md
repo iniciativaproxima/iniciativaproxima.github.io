@@ -31,7 +31,7 @@ nav-menu: true
 					<h3>Main venue: Centro Cultural UFRGS</h3>
 				</header>
 				<p>Small intro text.</p>
-				<p>333 Eng. Luiz Englert Street, Porto Alegre, Brazil.</p>
+				<p><b>Address:</b> 333 Eng. Luiz Englert Street, Porto Alegre, Brazil.</p>
 				<ul class="actions">
 					<li><a href="https://www.ufrgs.br/difusaocultural/centrocultural/" class="button" target="_blank" rel="noopener noreferrer">Learn more</a></li>
 				</ul>
@@ -48,8 +48,8 @@ nav-menu: true
 					<h3>Getting to Porto Alegre by Air</h3>
 				</header>
 				<p>Porto Alegre is easily accessible by plane, bus or car. <a href="https://www.aeroportoportoalegre.net/en/" target="_blank" rel="noopener noreferrer">Salgado Filho Porto Alegre International Airport (POA)</a> is the airport serving Porto Alegre and surrounding cities. POA airport is located only 10 Km away from downtown and it is easily accessible by taxi or ride sharing apps.</p>
-				<p>Terminal 1: Av. Severo Dulius, 90.010 – Porto Alegre – RS
-				<br>Terminal 2: Av.dos Estados, 747 – Porto Alegre – RS</p>
+				<p><b>Terminal 1:</b> Av. Severo Dulius, 90.010 – Porto Alegre – RS
+				<br><b>Terminal 2:</b> Av.dos Estados, 747 – Porto Alegre – RS</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
@@ -66,7 +66,7 @@ nav-menu: true
 					<h3>Getting to Porto Alegre by Bus</h3>
 				</header>
 				<p>For those traveling by bus, your destination will be the <a href="https://www.rodoviaria-poa.com.br/" target="_blank" rel="noopener noreferrer">Porto Alegre Bus Station</a>. Porto Alegre Bus Station is among the three major bus stations in Brazil. The terminal is known throughout Latin America for offering international lines and routes across the country. The Station is easily accessible by bus, taxi or ride sharing apps.</p>
-				<p>Address: Largo Vespasiano Júlio Veppo, 70 - Centro Histórico, Porto Alegre - RS.</p>
+				<p><b>Address:</b> Largo Vespasiano Júlio Veppo, 70 - Centro Histórico, Porto Alegre - RS.</p>
 			</div>
 		</div>
 	</section>
