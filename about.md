@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About us
-description: nois
-image: assets/images/pic01.jpg
+description: Inspiring and empowering the next generation of scientists.
+image: assets/images/porto-alegre.jpg
 nav-menu: true
 ---
 
