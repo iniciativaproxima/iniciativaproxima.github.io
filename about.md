@@ -31,7 +31,7 @@ nav-menu: true
 
 	<hr class="major" />
 
-	<h3 id="team">Proxima Team</h3>
+	<h1 id="team">Proxima Team</h1>
 	<p>ToDo: crop pictures so they are all the same size</p>
 
 
@@ -40,7 +40,7 @@ nav-menu: true
 		<div class="6u$ 12u$(medium)">
 			<div class="box alt">
 				<div class="row 50% uniform">
-					<div class="4u"><span class="image fit"><img src="{% link assets/images/people/eduardo.png %}" alt="" /></span> Eduardo Rigon Zimmer (UFRGS) </div>
+					<div class="4u"><a href="https://zimmer-lab.org/" class="button" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/eduardo.png %}" alt="" /></span> Eduardo Rigon Zimmer (UFRGS) </a></div>
 					<div class="4u"><span class="image fit"><img src="{% link assets/images/people/dietrich.png %}" alt="" /></span> Marcelo O. Dietrich (Yale University) </div>
 				</div>
 			</div>
