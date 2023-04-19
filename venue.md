@@ -45,10 +45,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Getting to Porto Alegre</h3>
+					<h3>Getting to Porto Alegre by Air</h3>
 				</header>
-				<p>Porto Alegre is easily accessible by plane, bus or car. <a href="https://www.aeroportoportoalegre.net/en/" target="_blank" rel="noopener noreferrer">Salgado Filho Porto Alegre International Airport (POA)</a> is the airport serving Porto Alegre and surrounding cities. POA airport is located only 10 Km away from downtown and it is easily accessible by taxi or ride sharing apps. </p>
-				<p>For those traveling by bus, your destination will be the <a href="https://www.rodoviaria-poa.com.br/" target="_blank" rel="noopener noreferrer">Porto Alegre Bus Station</a>. Porto Alegre Bus Station is among the three major bus stations in Brazil. The terminal is known throughout Latin America for offering international lines and routes across the country. The Station is easily accessible by bus, taxi or ride sharing apps.</p>
+				<p>Porto Alegre is easily accessible by plane, bus or car. <a href="https://www.aeroportoportoalegre.net/en/" target="_blank" rel="noopener noreferrer">Salgado Filho Porto Alegre International Airport (POA)</a> is the airport serving Porto Alegre and surrounding cities. POA airport is located only 10 Km away from downtown and it is easily accessible by taxi or ride sharing apps.</p>
+				<p>Terminal 1: Av. Severo Dulius, 90.010 – Porto Alegre – RS
+				<br>Terminal 2: Av.dos Estados, 747 – Porto Alegre – RS</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
@@ -62,12 +63,10 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Getting to Porto Alegre by Bus</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>For those traveling by bus, your destination will be the <a href="https://www.rodoviaria-poa.com.br/" target="_blank" rel="noopener noreferrer">Porto Alegre Bus Station</a>. Porto Alegre Bus Station is among the three major bus stations in Brazil. The terminal is known throughout Latin America for offering international lines and routes across the country. The Station is easily accessible by bus, taxi or ride sharing apps.</p>
+				<p>Address: Largo Vespasiano Júlio Veppo, 70 - Centro Histórico, Porto Alegre - RS.</p>
 			</div>
 		</div>
 	</section>
