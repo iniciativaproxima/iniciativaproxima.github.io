@@ -40,7 +40,7 @@ nav-menu: true
 		<div class="6u$ 12u$(medium)">
 			<div class="box alt">
 				<div class="row 50% uniform">
-					<div class="4u"><a href="https://zimmer-lab.org/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/eduardo.png %}" alt="" /></span> Eduardo Rigon Zimmer (UFRGS) </a></div>
+					<div class="4u"><a href="https://zimmer-lab.org/" class="picbutton" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/eduardo.png %}" alt="" /></span> Eduardo Rigon Zimmer (UFRGS) </a></div>
 					<div class="4u"><span class="image fit"><img src="{% link assets/images/people/dietrich.png %}" alt="" /></span> Marcelo O. Dietrich (Yale University) </div>
 				</div>
 			</div>

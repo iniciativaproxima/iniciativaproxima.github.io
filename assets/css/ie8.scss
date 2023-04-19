@@ -23,6 +23,17 @@
 		}
 	}
 
+	.picbutton {
+		border: solid 0px !important;
+
+		&.next {
+			padding-right: 1.75em;
+
+			&:before, &:after {
+				display: none;
+			}
+		}
+	}
 /* Tiles */
 
 	.tiles {
