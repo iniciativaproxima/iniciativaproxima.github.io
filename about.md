@@ -31,8 +31,32 @@ nav-menu: true
 
 	<hr class="major" />
 
-	<h2 id="team">Team</h2>
-	<h3>Steering Committee</h3>
+	<h2 id="team">Proxima Team</h2>
+	<div class="row 200%">
+		<div class="6u 12u$(medium)">
+			<h3>Steering Committee</h3>
+		</div>
+
+		<div class="6u$ 12u$(medium)">
+			<div class="box alt">
+				<div class="row 50% uniform">
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+					<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
+					<!-- Break -->
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+					<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+					<!-- Break -->
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
+					<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
 	<div class="box alt">
 		<div class="box alt">
 			<div class="row 50% uniform">
