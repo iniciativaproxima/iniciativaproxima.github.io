@@ -168,12 +168,12 @@ nav-menu: true
 
 <hr class="major" />
 
-<a href="#daytwo" class="button special big scrolly">Day 2: Tuesday, December 12</a>
+<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 2: Tuesday, December 12</a>
 
 <br>
 <br>
 
-<h4 id="#daytwo">Workshop (Room X)</h4>
+<h4>Workshop (Room X)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -293,14 +293,14 @@ nav-menu: true
 
 <hr class="major" />
 
-<a href="#dthree" class="button special big scrolly">Day 3: Wednesday, December 13</a>
+<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 3: Wednesday, December 13</a>
 
 <br>
 <br>
 
 <h4>Session X (Room X)</h4>
 
-<div class="table-wrapper" id="dthree">
+<div class="table-wrapper">
 	<table>
 		<thead>
 			<tr>
