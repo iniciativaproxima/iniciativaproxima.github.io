@@ -58,9 +58,9 @@ nav-menu: true
 
 <br>
 
-<h4>Opening Session (Room X)</h4>
+<h4 id="#dayone">Opening Session (Room X)</h4>
 
-<div class="table-wrapper" id="#dayone">
+<div class="table-wrapper" >
 	<table>
 		<thead>
 			<tr>
@@ -171,9 +171,9 @@ nav-menu: true
 
 <br>
 
-<h4>Workshop (Room X)</h4>
+<h4 id="#daytwo">Workshop (Room X)</h4>
 
-<div class="table-wrapper" id="#daytwo">
+<div class="table-wrapper">
 	<table>
 		<thead>
 			<tr>
