@@ -54,12 +54,12 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Program -->
-<a href="#dayone" class="button special big scrolly">Day 1: Monday, December 11</a>
+<a href="" class="button special big" onclick="return false;" style="cursor:pointer">Day 1: Monday, December 11</a>
 
 <br>
 <br>
 
-<h4 id="#dayone">Opening Session (Room X)</h4>
+<h4>Opening Session (Room X)</h4>
 
 <div class="table-wrapper" >
 	<table>
