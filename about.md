@@ -80,7 +80,7 @@ nav-menu: true
 			<div class="box alt">
 				<div class="row 50% uniform">
 					<div class="4u"><a href="https://search.asu.edu/profile/4082413 " target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/ana.tiff %}" alt="" /></span>Ana Cristina Roginski (ASU)</a></div>
-					<div class="4u"><a href="https://gumadeiras.com" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/gustavo.jpg %}" alt="" /></span>Gustavo Madeira Santana (Yale)</a></div>
+					<div class="4u"><a href="https://gumadeiras.com" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/gustavo.jpg %}" alt="" /></span>Gustavo Madeira Santana (Yale University)</a></div>
 					<div class="4u"><a href="https://www.linkedin.com/in/jorley-santos-66435211a/ " target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/jorley.jpeg %}" alt="" /></span>Jorley Santos da Silva (UFBA)</a></div>
 					<!-- Break -->
 				</div>
@@ -90,9 +90,9 @@ nav-menu: true
 		<div class="6u$ 12u$(medium)">
 			<div class="box alt">
 				<div class="row 50% uniform">
-					<div class="4u"><a href="https://medicine.yale.edu/profile/marcelo-zimmer/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/empty.jpg %}" alt="" /></span>Marcelo Zimmer (Yale)</a></div>
+					<div class="4u"><a href="https://medicine.yale.edu/profile/marcelo-zimmer/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/empty.jpg %}" alt="" /></span>Marcelo Zimmer (Yale University)</a></div>
 					<div class="4u"><a href="https://www.linkedin.com/in/raubiotec/ " target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/mariana.jpeg %}" alt="" /></span>Mariana Ritter Rau (UFRGS)</a></div>
-					<div class="4u"><a href="https://rafaeldaipra.github.io/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/rafael.jpeg %}" alt="" /></span>Rafael Dai Pra (Yale)</a></div>
+					<div class="4u"><a href="https://rafaeldaipra.github.io/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/rafael.jpeg %}" alt="" /></span>Rafael Dai Pra (Yale University)</a></div>
 				</div>
 			</div>
 		</div>
