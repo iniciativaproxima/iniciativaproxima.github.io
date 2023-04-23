@@ -57,6 +57,7 @@ nav-menu: true
 <a href="#dayone" class="button special big scrolly">Day 1: Monday, December 11</a>
 
 <br>
+<br>
 
 <h4 id="#dayone">Opening Session (Room X)</h4>
 
@@ -169,6 +170,7 @@ nav-menu: true
 
 <a href="#daytwo" class="button special big scrolly">Day 2: Tuesday, December 12</a>
 
+<br>
 <br>
 
 <h4 id="#daytwo">Workshop (Room X)</h4>
@@ -293,6 +295,7 @@ nav-menu: true
 
 <a href="#dthree" class="button special big scrolly">Day 3: Wednesday, December 13</a>
 
+<br>
 <br>
 
 <h4>Session X (Room X)</h4>
