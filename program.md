@@ -54,7 +54,7 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Program -->
-<a href="#done" class="button special big">Day 1: Monday, December 11</a>
+<a href="#done" class="button special big">Day 1: Monday, December 11</a><br>
 
 <h4>Opening Session (Room X)</h4>
 
@@ -165,7 +165,7 @@ nav-menu: true
 
 <hr class="major" />
 
-<a href="#dtwo" class="button special big">Day 2: Tuesday, December 12</a>
+<a href="#dtwo" class="button special big">Day 2: Tuesday, December 12</a><br>
 
 <h4>Workshop (Room X)</h4>
 
@@ -287,7 +287,7 @@ nav-menu: true
 
 <hr class="major" />
 
-<a href="#dthree" class="button special big">Day 3: Wednesday, December 13</a>
+<a href="#dthree" class="button special big">Day 3: Wednesday, December 13</a><br>
 
 <h4>Session X (Room X)</h4>
 
