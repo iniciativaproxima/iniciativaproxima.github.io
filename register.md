@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Call for Abstracts and Registration</h1>
+			<h1>Registration & Call for Abstracts</h1>
 		</header>
 
 	<!-- Content -->
