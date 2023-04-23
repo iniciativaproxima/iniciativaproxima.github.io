@@ -118,7 +118,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>3:45-4:30pm: Coffee Break (Room X)</h4>
+<h3>3:45-4:30pm: Coffee Break (Room X)</h3>
 
 <h4>Session X (Room X)</h4>
 
@@ -161,7 +161,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>6:15-7:45pm: Poster Session 1 + Happy Hour (Room X)</h4>
+<h3>6:15-7:45pm: Poster Session 1 + Happy Hour (Room X)</h3>
 
 <hr class="major" />
 
@@ -198,7 +198,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>Networking Lunch at X (Room X)</h4>
+<h3>Networking Lunch at X (Room X)</h3>
 
 <h4>Session X (Room X)</h4>
 
@@ -241,7 +241,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>3:45-4:30pm: Coffee Break (Room X)</h4>
+<h3>3:45-4:30pm: Coffee Break (Room X)</h3>
 
 <h4>Session X (Room X)</h4>
 <div class="table-wrapper">
@@ -283,7 +283,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>6:15-7:45pm: Poster Session 2 + Happy Hour (Room X)</h4>
+<h3>6:15-7:45pm: Poster Session 2 + Happy Hour (Room X)</h3>
 
 <hr class="major" />
 
@@ -335,7 +335,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>Networking Lunch at X (Room X)</h4>
+<h3>Networking Lunch at X (Room X)</h3>
 
 <h4>Session X (Room X)</h4>
 <div class="table-wrapper">
@@ -377,7 +377,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>3:45-4:30pm: Coffee Break (Room X)</h4>
+<h3>3:45-4:30pm: Coffee Break (Room X)</h3>
 
 <h4>Session X (Room X)</h4>
 <div class="table-wrapper">
@@ -419,7 +419,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>6:15-7:45pm: Poster Session 2 + Happy Hour (Room X)</h4>
+<h3>6:15-7:45pm: Poster Session 2 + Happy Hour (Room X)</h3>
 
 </div>
 </section>
