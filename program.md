@@ -54,9 +54,11 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Program -->
-<a href="#one" class="button next scrolly">Day 1: Monday, December 11</a>
+<a href="#done" class="button special big">Day 1: Monday, December 11</a>
+
 <h4>Opening Session (Room X)</h4>
-<div class="table-wrapper" id="#one">
+
+<div class="table-wrapper" id="#done">
 	<table>
 		<thead>
 			<tr>
@@ -76,6 +78,7 @@ nav-menu: true
 </div>
 
 <h4>Session X (Room X)</h4>
+
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -115,9 +118,10 @@ nav-menu: true
 	</table>
 </div>
 
-<h4>3:45-4:30pm: Coffee Break (Room X)</h4>
+<h3>3:45-4:30pm: Coffee Break (Room X)</h4>
 
 <h4>Session X (Room X)</h4>
+
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -157,13 +161,15 @@ nav-menu: true
 	</table>
 </div>
 
-<h4>6:15-7:45pm: Poster Session 1 + Happy Hour (Room X)</h4>
+<h3>6:15-7:45pm: Poster Session 1 + Happy Hour (Room X)</h4>
 
 <hr class="major" />
 
-<h2>Day 2: Tuesday, December 12</h2>
+<a href="#dtwo" class="button special big">Day 2: Tuesday, December 12</a>
+
 <h4>Workshop (Room X)</h4>
-<div class="table-wrapper">
+
+<div class="table-wrapper" id="#dtwo">
 	<table>
 		<thead>
 			<tr>
@@ -192,9 +198,10 @@ nav-menu: true
 	</table>
 </div>
 
-<h4>Networking Lunch at X (Room X)</h4>
+<h3>Networking Lunch at X (Room X)</h4>
 
 <h4>Session X (Room X)</h4>
+
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -234,7 +241,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h4>3:45-4:30pm: Coffee Break (Room X)</h4>
+<h3>3:45-4:30pm: Coffee Break (Room X)</h4>
 
 <h4>Session X (Room X)</h4>
 <div class="table-wrapper">
@@ -276,13 +283,15 @@ nav-menu: true
 	</table>
 </div>
 
-<h4>6:15-7:45pm: Poster Session 2 + Happy Hour (Room X)</h4>
+<h3>6:15-7:45pm: Poster Session 2 + Happy Hour (Room X)</h4>
 
 <hr class="major" />
 
-<h3>Day 3: Wednesday, December 13</h3>
+<a href="#dthree" class="button special big">Day 3: Wednesday, December 13</a>
+
 <h4>Session X (Room X)</h4>
-<div class="table-wrapper">
+
+<div class="table-wrapper" id="dthree">
 	<table>
 		<thead>
 			<tr>
@@ -326,7 +335,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h4>Networking Lunch at X (Room X)</h4>
+<h3>Networking Lunch at X (Room X)</h4>
 
 <h4>Session X (Room X)</h4>
 <div class="table-wrapper">
@@ -368,7 +377,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h4>3:45-4:30pm: Coffee Break (Room X)</h4>
+<h3>3:45-4:30pm: Coffee Break (Room X)</h4>
 
 <h4>Session X (Room X)</h4>
 <div class="table-wrapper">
@@ -410,7 +419,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h4>6:15-7:45pm: Poster Session 2 + Happy Hour (Room X)</h4>
+<h3>6:15-7:45pm: Poster Session 2 + Happy Hour (Room X)</h4>
 
 </div>
 </section>
