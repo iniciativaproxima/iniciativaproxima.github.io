@@ -54,7 +54,7 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Program -->
-<a href="#dayone" class="button special big">Day 1: Monday, December 11</a>
+<a href="#dayone" class="button special big scrolly">Day 1: Monday, December 11</a>
 
 <br>
 
@@ -167,7 +167,7 @@ nav-menu: true
 
 <hr class="major" />
 
-<a href="#daytwo" class="button special big">Day 2: Tuesday, December 12</a>
+<a href="#daytwo" class="button special big scrolly">Day 2: Tuesday, December 12</a>
 
 <br>
 
@@ -291,7 +291,7 @@ nav-menu: true
 
 <hr class="major" />
 
-<a href="#dthree" class="button special big">Day 3: Wednesday, December 13</a>
+<a href="#dthree" class="button special big scrolly">Day 3: Wednesday, December 13</a>
 
 <br>
 
