@@ -37,7 +37,7 @@ nav-menu: true
 
 	<h2 id="team">Proxima Symposium Team</h2>
 
-	<h3>Steering Committee</h3>
+	<h2>Steering Committee</h2>
 	<div class="row 200%">
 		<div class="6u$ 12u$(medium)">
 			<div class="box alt">
@@ -50,7 +50,7 @@ nav-menu: true
 	</div>
 
 	<hr class="major" />
-	<h3>Scientific Committee</h3>
+	<h2>Scientific Committee</h2>
 
 	<div class="row 200%">
 		<div class="6u 12u$(medium)">
@@ -73,7 +73,7 @@ nav-menu: true
 	</div>
 
 	<hr class="major" />
-	<h3>Trainee Committee</h3>
+	<h2>Trainee Committee</h2>
 
 	<div class="row 200%">
 		<div class="6u 12u$(medium)">
