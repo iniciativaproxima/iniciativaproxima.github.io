@@ -90,7 +90,7 @@ nav-menu: true
 		<div class="6u$ 12u$(medium)">
 			<div class="box alt">
 				<div class="row 50% uniform">
-					<div class="4u"><a href="https://medicine.yale.edu/profile/marcelo-zimmer/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/empty.jpg %}" alt="" /></span>Marcelo Zimmer (Yale University)</a></div>
+					<div class="4u"><a href="https://medicine.yale.edu/profile/marcelo-zimmer/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/marcelo.jpg %}" alt="" /></span>Marcelo Zimmer (Yale University)</a></div>
 					<div class="4u"><a href="https://www.linkedin.com/in/raubiotec/ " target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/mariana.jpeg %}" alt="" /></span>Mariana Ritter Rau (UFRGS)</a></div>
 					<div class="4u"><a href="https://rafaeldaipra.github.io/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/rafael.jpeg %}" alt="" /></span>Rafael Dai Pra (Yale University)</a></div>
 				</div>
