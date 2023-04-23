@@ -22,8 +22,10 @@ nav-menu: true
 	
 	<h3>We are thankful for the support from:</h3>
 	
-	<blockquote><h3>Yale Office of International Affairs</h3></blockquote>
-	<blockquote><h3>Yale Office of International Affairs</h3></blockquote>
+	<ul>
+		<li><h3>Yale Office of International Affairs</h3></li>
+		<li><h3>Yale Council on Latin American and Iberian Studies</h3></li>
+	</ul>
 
 
 	</div>
