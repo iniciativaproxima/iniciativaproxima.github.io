@@ -1,7 +1,7 @@
 ---
 layout: about
-title: sample content
-description: Talks, roundtables, coffee breaks!
+title: Impact & Previous Editions
+description: We are commited to creating opportunities for young talents.
 image: assets/images/pic01.jpg
 ---
 
@@ -12,7 +12,7 @@ image: assets/images/pic01.jpg
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Symposium Program</h1>
+			<h1>Impact</h1>
 		</header>
 
 <!-- Content -->
@@ -43,6 +43,10 @@ image: assets/images/pic01.jpg
 </div>
 
 <hr class="major" />
+
+<header class="major">
+	<h1>Previous Editions</h1>
+</header>
 
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
