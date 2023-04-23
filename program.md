@@ -54,7 +54,8 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Program -->
-<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 1: Monday, December 11</a>
+<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 1</a>
+<h4>Monday, December 11</h4>
 
 <br>
 <br>
