@@ -28,6 +28,7 @@ nav-menu: true
 	</ul>
 
 
+	<h4>Come back soon for more information on how to support the Proxima Symposium.</h4>
 	</div>
 </section>
 </div>

@@ -29,7 +29,7 @@ nav-menu: true
 
 	<p>As it happened in the 2019 SBS edition, we hope that the 2023 Proxima Symposium may help those interested in jumpstarting a career in international research by promoting interactions between speakers and participants throughout the days of the event.</p>
 
-	<blockquote>We are commited to creating opportunities for young talents. See our impact and previous editions of the symposium.</blockquote>
+	<blockquote>We are commited to creating opportunities for young talents. Read about our impact and previous editions of the symposium.</blockquote>
 	
 	<a href="/impact.html" class="button next">Impact & Previous Editions</a>
 
