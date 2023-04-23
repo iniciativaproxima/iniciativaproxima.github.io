@@ -54,8 +54,7 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Program -->
-<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 1</a>
-<h4>Monday, December 11</h4>
+<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 1: Monday</a>
 
 <br>
 <br>
@@ -169,7 +168,7 @@ nav-menu: true
 
 <hr class="major" />
 
-<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 2: Tuesday, December 12</a>
+<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 2: Tuesday</a>
 
 <br>
 <br>
@@ -294,7 +293,7 @@ nav-menu: true
 
 <hr class="major" />
 
-<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 3: Wednesday, December 13</a>
+<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 3: Wednesday</a>
 
 <br>
 <br>
