@@ -29,9 +29,11 @@ nav-menu: true
 
 	<p>As it happened in the 2019 SBS edition, we hope that the 2023 Proxima Symposium may help those interested in jumpstarting a career in international research by promoting interactions between speakers and participants throughout the days of the event.</p>
 
+	<blockquote>We are commited to creating opportunities for young talents. See our impact and previous editions of the symposium. <a href="" class="button special next" onclick="return false;" style="cursor:default">previous editions</a></blockquote>
+
 	<hr class="major" />
 
-	<h1 id="team">Proxima Symposium Team</h1>
+	<h2 id="team">Proxima Symposium Team</h1>
 
 	<h2>Steering Committee</h2>
 	<div class="row 200%">
@@ -52,9 +54,9 @@ nav-menu: true
 		<div class="6u 12u$(medium)">
 			<div class="box alt">
 				<div class="row 50% uniform">
-						<div class="4u"><a href="https://www.sidra.org/research/our-research/principal-investigators/luis-r-saraiva-phd " target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/saraiva.png %}" alt="" /></span>Luis R. Saraiva (Sidra Medicine)</a></div>
-						<div class="4u"><a href="www.lourencolab.org/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/empty.png %}" alt="" /></span>Mychael Lourenço (UFRJ)</a></div>
-						<div class="4u"><a href="https://professor.ufrgs.br/tatianaluft/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/luft.png %}" alt="" /></span>Tatiana Luft (UFRGS)</a></div>
+						<div class="4u"><a href="https://www.sidra.org/research/our-research/principal-investigators/luis-r-saraiva-phd " target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span>Luis R. Saraiva (Sidra Medicine)</a></div>
+						<div class="4u"><a href="www.lourencolab.org/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/empty.jpg %}" alt="" /></span>Mychael Lourenço (UFRJ)</a></div>
+						<div class="4u"><a href="https://professor.ufrgs.br/tatianaluft/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/luft.jpeg %}" alt="" /></span>Tatiana Luft (UFRGS)</a></div>
 						<!-- Break -->
 				</div>
 			</div>
@@ -62,7 +64,7 @@ nav-menu: true
 		<div class="6u 12u$(medium)">
 			<div class="box alt">
 				<div class="row 50% uniform">
-						<div class="4u"><a href="https://monell.org/valentina-parma/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/valentina.png %}" alt="" /></span>Valentina Parma (Monell Chemical Senses Center)</a></div>
+						<div class="4u"><a href="https://monell.org/valentina-parma/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/valentina.jpg %}" alt="" /></span>Valentina Parma (Monell Chemical Senses Center)</a></div>
 				</div>
 			</div>
 		</div>
@@ -75,9 +77,9 @@ nav-menu: true
 		<div class="6u 12u$(medium)">
 			<div class="box alt">
 				<div class="row 50% uniform">
-					<div class="4u"><a href="https://search.asu.edu/profile/4082413 " target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/ana.png %}" alt="" /></span>Ana Cristina Roginski (ASU)</a></div>
-					<div class="4u"><a href="https://gumadeiras.com" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/gustavo.png %}" alt="" /></span>Gustavo Madeira Santana (Yale)</a></div>
-					<div class="4u"><a href="https://www.linkedin.com/in/jorley-santos-66435211a/ " target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/jorley.png %}" alt="" /></span>Jorley Santos da Silva (UFBA)</a></div>
+					<div class="4u"><a href="https://search.asu.edu/profile/4082413 " target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/ana.tiff %}" alt="" /></span>Ana Cristina Roginski (ASU)</a></div>
+					<div class="4u"><a href="https://gumadeiras.com" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/gustavo.jpg %}" alt="" /></span>Gustavo Madeira Santana (Yale)</a></div>
+					<div class="4u"><a href="https://www.linkedin.com/in/jorley-santos-66435211a/ " target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/jorley.jpeg %}" alt="" /></span>Jorley Santos da Silva (UFBA)</a></div>
 					<!-- Break -->
 				</div>
 			</div>
@@ -86,14 +88,13 @@ nav-menu: true
 		<div class="6u$ 12u$(medium)">
 			<div class="box alt">
 				<div class="row 50% uniform">
-					<div class="4u"><a href="https://medicine.yale.edu/profile/marcelo-zimmer/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/empty.png %}" alt="" /></span>Marcelo Zimmer (Yale)</a></div>
-					<div class="4u"><a href="https://www.linkedin.com/in/raubiotec/ " target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/mariana.png %}" alt="" /></span>Mariana Ritter Rau (UFRGS)</a></div>
-					<div class="4u"><a href="https://rafaeldaipra.github.io/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/rafael.png %}" alt="" /></span>Rafael Dai Pra (Yale)</a></div>
+					<div class="4u"><a href="https://medicine.yale.edu/profile/marcelo-zimmer/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/empty.jpg %}" alt="" /></span>Marcelo Zimmer (Yale)</a></div>
+					<div class="4u"><a href="https://www.linkedin.com/in/raubiotec/ " target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/mariana.jpeg %}" alt="" /></span>Mariana Ritter Rau (UFRGS)</a></div>
+					<div class="4u"><a href="https://rafaeldaipra.github.io/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/rafael.jpeg %}" alt="" /></span>Rafael Dai Pra (Yale)</a></div>
 				</div>
 			</div>
 		</div>
 	</div>
-
 
 </div>
 </section>
