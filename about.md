@@ -31,7 +31,7 @@ nav-menu: true
 
 	<blockquote>We are commited to creating opportunities for young talents. Read about our impact and previous editions of the symposium.</blockquote>
 	
-	<a href="/impact.html" class="button next">Impact & Previous Editions</a>
+	<a href="/impact.html" class="button">Impact & Previous Editions</a>
 
 	<hr class="major" />
 
