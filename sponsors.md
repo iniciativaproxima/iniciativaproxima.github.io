@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>We are supported by our sponsors.</h1>
+			<h1>We are supported by our sponsors</h1>
 		</header>
 
 	<!-- Content -->
@@ -21,13 +21,16 @@ nav-menu: true
 	<p>Iniciativa Proxima and the Proxima Symposium is entirely supported by sponsors and donations.</p>
 	
 	<h3>We are thankful for the support from:</h3>
-	
+
 	<ul>
-		<li><h3>Yale Office of International Affairs</h3></li>
-		<li><h3>Yale Council on Latin American and Iberian Studies</h3></li>
+		<li><h3><a href="https://world.yale.edu/about/office-international-affairs" target="_blank" rel="noopener noreferrer">Yale Office of International Affairs</a></h3></li>
+		<li><h3><a href="https://clais.macmillan.yale.edu" target="_blank" rel="noopener noreferrer">Yale Council on Latin American and Iberian Studies</a></h3></li>
 	</ul>
 
 
 	</div>
 </section>
 </div>
+
+
+<a href="https://www.ufrgs.br/difusaocultural/centrocultural/" class="button" >
