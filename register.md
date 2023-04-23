@@ -3,7 +3,7 @@ layout: page
 title: Registration
 description: Adopt a student. Support social education.
 image: assets/images/pic06.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
