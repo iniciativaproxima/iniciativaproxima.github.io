@@ -31,9 +31,7 @@ nav-menu: true
 
 	<hr class="major" />
 
-	<h1 id="team">Proxima Team</h1>
-	<p>ToDo: crop pictures so they are all the same size</p>
-
+	<h1 id="team">Proxima Symposium Team</h1>
 
 	<h2>Steering Committee</h2>
 	<div class="row 200%">
@@ -41,7 +39,7 @@ nav-menu: true
 			<div class="box alt">
 				<div class="row 50% uniform">
 					<div class="4u"><a href="https://zimmer-lab.org/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/eduardo.png %}" alt="" /></span>Eduardo Rigon Zimmer (UFRGS)</a></div>
-					<div class="4u"><a href="https://zimmer-lab.org/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/dietrich.png %}" alt="" /></span>Marcelo O. Dietrich (Yale University)</a></div>
+					<div class="4u"><a href="www.dietrich-lab.org" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/dietrich.png %}" alt="" /></span>Marcelo O. Dietrich (Yale University)</a></div>
 				</div>
 			</div>
 		</div>
