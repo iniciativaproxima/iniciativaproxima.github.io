@@ -54,9 +54,9 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Program -->
-<h3>Day 1: Monday, December 11</h3>
+<a href="#one" class="button next scrolly">Day 1: Monday, December 11</a>
 <h4>Opening Session (Room X)</h4>
-<div class="table-wrapper">
+<div class="table-wrapper" id="#one">
 	<table>
 		<thead>
 			<tr>
@@ -161,7 +161,7 @@ nav-menu: true
 
 <hr class="major" />
 
-<h3>Day 2: Tuesday, December 12</h3>
+<h2>Day 2: Tuesday, December 12</h2>
 <h4>Workshop (Room X)</h4>
 <div class="table-wrapper">
 	<table>
