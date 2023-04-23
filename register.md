@@ -17,9 +17,8 @@ nav-menu: true
 		</header>
 
 	<!-- Content -->
-	<p><a href="http://iniciativa-proxima.org/" target="_blank" rel="noopener noreferrer">Iniciativa Proxima</a> and the Proxima Symposium is entirely supported by sponsors and donations.</p>
 	
-	<h3>Registration will open in May. Come back soon for more information.</h3>
+	<h3>Registrations will open in May. Come back soon for more information.</h3>
 	</div>
 </section>
 </div>
