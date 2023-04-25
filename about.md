@@ -81,8 +81,19 @@ nav-menu: true
 					<!-- Break -->
 					<div class="3u"><a href="https://www.linkedin.com/in/raubiotec/ " target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/mariana.jpeg %}" alt="" /></span>Mariana Ritter Rau (UFRGS)</a></div>
 					<div class="3u"><a href="https://rafaeldaipra.github.io/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/rafael.jpeg %}" alt="" /></span>Rafael Dai Pra (Yale University)</a></div>
-					<div class="3u"></div>
-					<div class="3u"></div>
+					<div class="3u"><span></span></div>
+					<div class="3u"><span></span></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="row 200%">
+		<div class="12u 12u$(medium)">
+			<div class="box alt">
+				<div class="row 100% uniform">
+					<div class="3u"><a href="https://www.linkedin.com/in/raubiotec/ " target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/mariana.jpeg %}" alt="" /></span>Mariana Ritter Rau (UFRGS)</a></div>
+					<div class="3u"><a href="https://rafaeldaipra.github.io/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/rafael.jpeg %}" alt="" /></span>Rafael Dai Pra (Yale University)</a></div>
 				</div>
 			</div>
 		</div>
