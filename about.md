@@ -41,11 +41,11 @@ nav-menu: true
 
 	<h2>Steering Committee</h2>
 	<div class="row 200%">
-		<div class="4u$ 12u$(medium)">
+		<div class="12u$ 12u$(medium)">
 			<div class="box alt">
 				<div class="row 100% uniform">
-					<div class="2u"><a href="https://zimmer-lab.org/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/eduardo.png %}" alt="" /></span>Eduardo Rigon Zimmer (UFRGS)</a></div>
-					<div class="2u"><a href="https://www.dietrich-lab.org" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/dietrich.png %}" alt="" /></span>Marcelo O. Dietrich (Yale University)</a></div>
+					<div class="3u"><a href="https://zimmer-lab.org/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/eduardo.png %}" alt="" /></span>Eduardo Rigon Zimmer (UFRGS)</a></div>
+					<div class="3u"><a href="https://www.dietrich-lab.org" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/dietrich.png %}" alt="" /></span>Marcelo O. Dietrich (Yale University)</a></div>
 				</div>
 			</div>
 		</div>
@@ -55,13 +55,13 @@ nav-menu: true
 	<h2>Scientific Committee</h2>
 
 	<div class="row 200%">
-		<div class="8u 12u$(medium)">
+		<div class="12u 12u$(medium)">
 			<div class="box alt">
 				<div class="row 100% uniform">
-						<div class="2u"><a href="https://www.sidra.org/research/our-research/principal-investigators/luis-r-saraiva-phd " target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span>Luis R. Saraiva (Sidra Medicine)</a></div>
-						<div class="2u"><a href="https://www.lourencolab.org/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/mychael.jpg %}" alt="" /></span>Mychael Lourenço (UFRJ)</a></div>
-						<div class="2u"><a href="https://professor.ufrgs.br/tatianaluft/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/luft.jpeg %}" alt="" /></span>Tatiana Luft (UFRGS)</a></div>
-						<div class="2u"><a href="https://monell.org/valentina-parma/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/valentina.jpg %}" alt="" /></span>Valentina Parma (Monell Chemical Senses Center)</a></div>
+						<div class="3u"><a href="https://www.sidra.org/research/our-research/principal-investigators/luis-r-saraiva-phd " target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span>Luis R. Saraiva (Sidra Medicine)</a></div>
+						<div class="3u"><a href="https://www.lourencolab.org/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/mychael.jpg %}" alt="" /></span>Mychael Lourenço (UFRJ)</a></div>
+						<div class="3u"><a href="https://professor.ufrgs.br/tatianaluft/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/luft.jpeg %}" alt="" /></span>Tatiana Luft (UFRGS)</a></div>
+						<div class="3u"><a href="https://monell.org/valentina-parma/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/valentina.jpg %}" alt="" /></span>Valentina Parma (Monell Chemical Senses Center)</a></div>
 				</div>
 			</div>
 		</div>
@@ -71,16 +71,16 @@ nav-menu: true
 	<h2>Trainee Committee</h2>
 
 	<div class="row 200%">
-		<div class="8u 12u$(medium)">
+		<div class="12u 12u$(medium)">
 			<div class="box alt">
 				<div class="row 100% uniform">
-					<div class="2u"><a href="https://search.asu.edu/profile/4082413 " target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/ana.tiff %}" alt="" /></span>Ana Cristina Roginski (ASU)</a></div>
-					<div class="2u"><a href="https://gumadeiras.com" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/gustavo.jpg %}" alt="" /></span>Gustavo Madeira Santana (Yale University)</a></div>
-					<div class="2u"><a href="https://www.linkedin.com/in/jorley-santos-66435211a/ " target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/jorley.jpeg %}" alt="" /></span>Jorley Santos da Silva (UFBA)</a></div>
-					<div class="2u"><a href="https://medicine.yale.edu/profile/marcelo-zimmer/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/marcelo.jpg %}" alt="" /></span>Marcelo Zimmer (Yale University)</a></div>
+					<div class="3u"><a href="https://search.asu.edu/profile/4082413 " target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/ana.tiff %}" alt="" /></span>Ana Cristina Roginski (ASU)</a></div>
+					<div class="3u"><a href="https://gumadeiras.com" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/gustavo.jpg %}" alt="" /></span>Gustavo Madeira Santana (Yale University)</a></div>
+					<div class="3u"><a href="https://www.linkedin.com/in/jorley-santos-66435211a/ " target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/jorley.jpeg %}" alt="" /></span>Jorley Santos da Silva (UFBA)</a></div>
+					<div class="3u"><a href="https://medicine.yale.edu/profile/marcelo-zimmer/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/marcelo.jpg %}" alt="" /></span>Marcelo Zimmer (Yale University)</a></div>
 					<!-- Break -->
-					<div class="2u"><a href="https://www.linkedin.com/in/raubiotec/ " target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/mariana.jpeg %}" alt="" /></span>Mariana Ritter Rau (UFRGS)</a></div>
-					<div class="2u"><a href="https://rafaeldaipra.github.io/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/rafael.jpeg %}" alt="" /></span>Rafael Dai Pra (Yale University)</a></div>
+					<div class="3u"><a href="https://www.linkedin.com/in/raubiotec/ " target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/mariana.jpeg %}" alt="" /></span>Mariana Ritter Rau (UFRGS)</a></div>
+					<div class="3u"><a href="https://rafaeldaipra.github.io/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/rafael.jpeg %}" alt="" /></span>Rafael Dai Pra (Yale University)</a></div>
 				</div>
 			</div>
 		</div>
