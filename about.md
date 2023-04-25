@@ -53,7 +53,7 @@ nav-menu: true
 	<h2>Scientific Committee</h2>
 
 	<div class="row 200%">
-		<div class="6u 12u$(medium)">
+		<!-- <div class="6u 12u$(medium)"> -->
 			<div class="box alt">
 				<div class="row 50% uniform">
 						<div class="4u"><a href="https://www.sidra.org/research/our-research/principal-investigators/luis-r-saraiva-phd " target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span>Luis R. Saraiva (Sidra Medicine)</a></div>
@@ -62,14 +62,14 @@ nav-menu: true
 						<!-- Break -->
 				</div>
 			</div>
-		</div>
-		<div class="6u 12u$(medium)">
+		<!-- </div> -->
+		<!-- <div class="6u 12u$(medium)"> -->
 			<div class="box alt">
 				<div class="row 50% uniform">
 						<div class="4u"><a href="https://monell.org/valentina-parma/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/valentina.jpg %}" alt="" /></span>Valentina Parma (Monell Chemical Senses Center)</a></div>
 				</div>
 			</div>
-		</div>
+		<!-- </div> -->
 	</div>
 
 	<hr class="major" />
