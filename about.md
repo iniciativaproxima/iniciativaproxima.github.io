@@ -53,9 +53,9 @@ nav-menu: true
 	<h2>Scientific Committee</h2>
 
 	<div class="row 200%">
-		<div class="6u 16u$(medium)">
+		<div class="8u 16u$(medium)">
 			<div class="box alt">
-				<div class="row 50% uniform">
+				<div class="row 100% uniform">
 						<div class="4u"><a href="https://www.sidra.org/research/our-research/principal-investigators/luis-r-saraiva-phd " target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/saraiva.jpg %}" alt="" /></span>Luis R. Saraiva (Sidra Medicine)</a></div>
 						<div class="4u"><a href="https://www.lourencolab.org/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/mychael.jpg %}" alt="" /></span>Mychael Lourenço (UFRJ)</a></div>
 						<div class="4u"><a href="https://professor.ufrgs.br/tatianaluft/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="{% link assets/images/people/luft.jpeg %}" alt="" /></span>Tatiana Luft (UFRGS)</a></div>
