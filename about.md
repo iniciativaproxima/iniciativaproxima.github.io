@@ -78,11 +78,6 @@ nav-menu: true
 					<div class="3u"><a href="https://gumadeiras.com" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/gustavo.jpg %}" alt="" /></span>Gustavo Madeira Santana (Yale University)</a></div>
 					<div class="3u"><a href="https://www.linkedin.com/in/jorley-santos-66435211a/ " target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/jorley.jpeg %}" alt="" /></span>Jorley Santos da Silva (UFBA)</a></div>
 					<div class="3u"><a href="https://medicine.yale.edu/profile/marcelo-zimmer/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/marcelo.jpg %}" alt="" /></span>Marcelo Zimmer (Yale University)</a></div>
-					<!-- Break -->
-					<div class="3u"><a href="https://www.linkedin.com/in/raubiotec/ " target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/mariana.jpeg %}" alt="" /></span>Mariana Ritter Rau (UFRGS)</a></div>
-					<div class="3u"><a href="https://rafaeldaipra.github.io/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/rafael.jpeg %}" alt="" /></span>Rafael Dai Pra (Yale University)</a></div>
-					<div class="3u"><span></span></div>
-					<div class="3u"><span></span></div>
 				</div>
 			</div>
 		</div>
