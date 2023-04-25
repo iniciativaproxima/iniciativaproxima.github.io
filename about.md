@@ -40,7 +40,7 @@ nav-menu: true
 	</header>
 
 	<h2>Steering Committee</h2>
-	<div class="row 200%">
+	<div class="row 100%">
 		<!-- <div class="8u$ 12u$(medium)"> -->
 			<div class="box alt">
 				<div class="row 100% uniform">
@@ -54,7 +54,7 @@ nav-menu: true
 	<hr class="major" />
 	<h2>Scientific Committee</h2>
 
-	<div class="row 200%">
+	<div class="row 100%">
 		<!-- <div class="8u 12u$(medium)"> -->
 			<div class="box alt">
 				<div class="row 100% uniform">
@@ -70,7 +70,7 @@ nav-menu: true
 	<hr class="major" />
 	<h2>Trainee Committee</h2>
 
-	<div class="row 200%">
+	<div class="row 100%">
 		<!-- <div class="8u 12u$(medium)"> -->
 			<div class="box alt">
 				<div class="row 100% uniform">
