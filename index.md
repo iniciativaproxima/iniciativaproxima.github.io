@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Inspiring and empowering the next generation of scientists.
+title: Proxima Symposium
 landing-title: 'Inspiring and empowering the next generation of scientists.'
 description: null
 image: null
