@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Inspiring and empowering the next generation of scientists.
 landing-title: 'Inspiring and empowering the next generation of scientists.'
 description: null
 image: null
