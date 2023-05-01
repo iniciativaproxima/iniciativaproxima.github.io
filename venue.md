@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Main venue: Centro Cultural UFRGS</h3>
 				</header>
-				<p>Small intro text.</p>
+				<p>Located in a historic building on the central campus - the former Institute of Industrial Chemistry - fully restored, the Cultural Center has multiple environments, each identified with names of Brazilian trees, which constitute an ideal infrastructure to house the vibrant culture in the university.</p>
 				<p><b>Address:</b> 333 Eng. Luiz Englert Street, Porto Alegre, Brazil.</p>
 				<ul class="actions">
 					<li><a href="https://www.ufrgs.br/difusaocultural/centrocultural/" class="button" target="_blank" rel="noopener noreferrer">Learn more</a></li>
