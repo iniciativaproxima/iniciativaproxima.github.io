@@ -388,7 +388,7 @@ nav-menu: true
 <h3>3:45-4:30 pm: Coffee Break (Room TBD)</h3>
 <h3>4:45-5 pm: Group Photo (Location TBD)</h3>
 <h3>5-6:30 pm: Roundtable Discussion (Room TBD)</h3>
-<h3>6:30-6:45 pm: Closing Remakrs (Room TBD)</h3>
+<h3>6:30-6:45 pm: Closing Remarks (Room TBD)</h3>
 
 </div>
 </section>
