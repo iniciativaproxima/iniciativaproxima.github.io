@@ -34,7 +34,7 @@ nav-menu: true
 	We have been organizing international meetings in Biological and Biomedical Sciences since 2013 in Brazil. We hope that the 2023 Proxima Symposium may help those interested in jumpstarting a career in international research by promoting interactions between speakers and participants throughout the days of the event.
 	</p>
 	
-	<h3>The event is comprised of:</h3>
+	<h3>The Symposium is comprised of:</h3>
 
 	<ul>
 		<li> Scientific talks by Principal Investigators: Invited speakers from the field of biological and biomedical sciences to share their most recent work and career trajectory with the students.</li>
