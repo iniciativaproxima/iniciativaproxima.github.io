@@ -26,9 +26,11 @@ nav-menu: true
 	</blockquote>
 
 	<p>Our core motivation is to empower a new generation of young talented researchers in Brazil. We understand that science must reflect the diversity of the world we live in. As such, the Proxima team seeks to connect you with world-renowned speakers  through a series of seminars covering broad topics in research.
-		<br>
+		<br/>
+		<br/>
 	The Proxima Symposium is an international symposium organized by Brazilian scientists that aim to strengthen the scientific community in Brazil and Latin America and foster a local culture of gathering young scientists to discuss current state-of-the-art research in biological and biomedical sciences. The interactive format of the symposium stimulates students who aim to pursue a career abroad to be in close contact with the invited scientists.
-		<br>
+		<br/>
+		<br/>
 	We have been organizing international meetings in Biological and Biomedical Sciences since 2013 in Brazil. We hope that the 2023 Proxima Symposium may help those interested in jumpstarting a career in international research by promoting interactions between speakers and participants throughout the days of the event.
 	</p>
 	
