@@ -25,9 +25,22 @@ nav-menu: true
 	<h2>Vision</h2> By supporting and training young talented scientists, we seek to reduce opportunity and achievement gaps in Brazil and foster the next generation of science leaders for the betterment of our societies and local communities.
 	</blockquote>
 
-	<p>Our core motivation is to empower a new generation of young talented researchers in Brazil. We understand that science must reflect the diversity of the world we live in. As such, the Proxima team seeks to connect you with world-renowned speakers  through a series of seminars covering broad topics in research.</p>
+	<p>Our core motivation is to empower a new generation of young talented researchers in Brazil. We understand that science must reflect the diversity of the world we live in. As such, the Proxima team seeks to connect you with world-renowned speakers  through a series of seminars covering broad topics in research.
+		<br>
+	The Proxima Symposium is an international symposium organized by Brazilian scientists that aim to strengthen the scientific community in Brazil and Latin America and foster a local culture of gathering young scientists to discuss current state-of-the-art research in biological and biomedical sciences. The interactive format of the symposium stimulates students who aim to pursue a career abroad to be in close contact with the invited scientists.
+		<br>
+	We have been organizing international meetings in Biological and Biomedical Sciences since 2013 in Brazil. We hope that the 2023 Proxima Symposium may help those interested in jumpstarting a career in international research by promoting interactions between speakers and participants throughout the days of the event.
+	</p>
+	
+	<h3>The event is comprised of:</h3>
 
-	<p>As it happened in the 2019 SBS edition, we hope that the 2023 Proxima Symposium may help those interested in jumpstarting a career in international research by promoting interactions between speakers and participants throughout the days of the event.</p>
+	<ul>
+		<li> Scientific talks by Principal Investigators: Invited speakers from the field of biological and biomedical sciences to share their most recent work and career trajectory with the students.</li>
+		<li> Short talks by selected students: These talks by undergraduate and graduate students allow them to present their work and discuss their findings with renowned scientists. An abstract call will be made upon registration, and submitted abstracts will be reviewed by a board of reviewers.</li>
+		<li>Poster sessions: Students will also have the opportunity to present their research in poster format.</li>
+		<li>Workshops focused on skill development: Students will have interactive sessions on career development and science communication.</li>
+		<li>Networking sessions: an opportunity for students to interact directly with invited speakers during lunch and dinners.</li>
+	</ul>
 
 	<blockquote>We are commited to creating opportunities for young talents. Read about our impact and previous editions of the symposium.</blockquote>
 	
