@@ -51,6 +51,7 @@ nav-menu: true
 		<li>Ken Loh (Yale University, USA)</li>
 		<li>Mariana Byndloss (Vanderbilt University, USA)</li>
 		<li>Matthew Carter (Williams College, USA)</li>
+		<li>Matthew Suttor (Yale University, USA)</li>
 		<li>Misha Ahrens (Janelia Research Campus, USA)</li>
 		<li>Nathan Upham (Arizona State University, USA)</li>
 		<li>Tamas Horvath (Yale University, USA)</li>
@@ -67,7 +68,7 @@ nav-menu: true
 <br>
 <br>
 
-<h4>Opening Session (Room X)</h4>
+<h4>Opening Session (Room TBD)</h4>
 
 <div class="table-wrapper" >
 	<table>
@@ -88,7 +89,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h4>Session X (Room X)</h4>
+<h4>Scientific Talks (Room TBD)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -103,22 +104,22 @@ nav-menu: true
 			<tr>
 				<td>2-2:30 pm</td>
 				<td>PI</td>
-				<td>Talk title, testing a very long talk title testing a very long talk title testing a very long talk title testing a very long talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>2:30-3 pm</td>
 				<td>PI</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>3-3:15 pm</td>
 				<td>Student</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>3:15-3:30 pm</td>
 				<td>Student</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>3:30-3:45 pm</td>
@@ -129,9 +130,9 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>3:45-4:30pm: Coffee Break (Room X)</h3>
+<h3>3:45-4:30 pm: Coffee Break (Room TBD)</h3>
 
-<h4>Session X (Room X)</h4>
+<h4>Scientific Talks (Room TBD)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -146,25 +147,20 @@ nav-menu: true
 			<tr>
 				<td>4:30-4:45 pm</td>
 				<td>Student</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>4:45-5 pm</td>
 				<td>Student</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>5-5:30 pm</td>
 				<td>PI</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>5:30-6 pm</td>
-				<td>PI</td>
-				<td>Talk title</td>
-			</tr>
-			<tr>
-				<td>6-6:15 pm</td>
+				<td>5:30-5:45 pm</td>
 				<td>-</td>
 				<td>Session summary and Q&A</td>
 			</tr>
@@ -172,7 +168,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>6:15-7:45pm: Poster Session 1 + Happy Hour (Room X)</h3>
+<h3>5:45-7:00 pm: Poster Session 1 + Happy Hour (Room TBD)</h3>
 
 <hr class="major" />
 
@@ -181,7 +177,7 @@ nav-menu: true
 <br>
 <br>
 
-<h4>Workshop (Room X)</h4>
+<h4>Workshop (Room TBD)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -194,27 +190,27 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>9:30 - 10:15 am</td>
-				<td>?</td>
-				<td>?</td>
+				<td>9:30-10:15 am</td>
+				<td>Matthew Suttor</td>
+				<td>Workshop on Art & Creativity</td>
 			</tr>
 			<tr>
-				<td>10:15 - 10:45 am</td>
+				<td>10:15-10:45 am</td>
 				<td>-</td>
 				<td>Coffee Break</td>
 			</tr>
 			<tr>
 				<td>10:45-12 pm</td>
-				<td>?</td>
-				<td>Mentoring?</td>
+				<td>-</td>
+				<td>Mentoring session with speakers</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-<h3>Networking Lunch at X (Room X)</h3>
+<h3>12-2 pm: Lunch</h3>
 
-<h4>Session X (Room X)</h4>
+<h4>Scientific Talks (Room TBD)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -229,22 +225,22 @@ nav-menu: true
 			<tr>
 				<td>2-2:30 pm</td>
 				<td>PI</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>2:30-3 pm</td>
 				<td>PI</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>3-3:15 pm</td>
 				<td>Student</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>3:15-3:30 pm</td>
 				<td>Student</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>3:30-3:45 pm</td>
@@ -255,9 +251,9 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>3:45-4:30pm: Coffee Break (Room X)</h3>
+<h3>3:45-4:30 pm: Coffee Break (Room TBD)</h3>
 
-<h4>Session X (Room X)</h4>
+<h4>Scientific Talks (Room TBD)</h4>
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -271,25 +267,20 @@ nav-menu: true
 			<tr>
 				<td>4:30-4:45 pm</td>
 				<td>Student</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>4:45-5 pm</td>
 				<td>Student</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>5-5:30 pm</td>
 				<td>PI</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>5:30-6 pm</td>
-				<td>PI</td>
-				<td>Talk title</td>
-			</tr>
-			<tr>
-				<td>6-6:15 pm</td>
+				<td>5:30-5:45 pm</td>
 				<td>-</td>
 				<td>Session summary and Q&A</td>
 			</tr>
@@ -297,7 +288,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>6:15-7:45pm: Poster Session 2 + Happy Hour (Room X)</h3>
+<h3>5:45-7 pm: Poster Session 2 + Happy Hour (Room TBD)</h3>
 
 <hr class="major" />
 
@@ -306,7 +297,7 @@ nav-menu: true
 <br>
 <br>
 
-<h4>Session X (Room X)</h4>
+<h4>Scientific Talks (Room TBD)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -321,40 +312,40 @@ nav-menu: true
 			<tr>
 				<td>9:30-10 am</td>
 				<td>PI</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>10-10:30 am</td>
 				<td>PI</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>10:30-11 am</td>
 				<td>PI</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>11-11:30 am</td>
 				<td>-</td>
-				<td>Cofee Break (Room X)</td>
+				<td>Cofee Break (Room TBD)</td>
 			</tr>
 			<tr>
 				<td>11:30-11:45 am</td>
 				<td>Student</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>11:45-12 pm</td>
 				<td>Student</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-<h3>Networking Lunch at X (Room X)</h3>
+<h3>Networking Lunch (Location TBD)</h3>
 
-<h4>Session X (Room X)</h4>
+<h4>Scientific Talks (Room TBD)</h4>
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -368,22 +359,22 @@ nav-menu: true
 			<tr>
 				<td>2-2:30 pm</td>
 				<td>PI</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>2:30-3 pm</td>
 				<td>PI</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>3-3:15 pm</td>
 				<td>Student</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>3:15-3:30 pm</td>
 				<td>Student</td>
-				<td>Talk title</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>3:30-3:45 pm</td>
@@ -394,49 +385,10 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>3:45-4:30pm: Coffee Break (Room X)</h3>
-
-<h4>Session X (Room X)</h4>
-<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Time</th>
-				<th>Who</th>
-				<th>What</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>4:30-4:45 pm</td>
-				<td>Student</td>
-				<td>Talk title</td>
-			</tr>
-			<tr>
-				<td>4:45-5 pm</td>
-				<td>Student</td>
-				<td>Talk title</td>
-			</tr>
-			<tr>
-				<td>5-5:30 pm</td>
-				<td>PI</td>
-				<td>Talk title</td>
-			</tr>
-			<tr>
-				<td>5:30-6 pm</td>
-				<td>PI</td>
-				<td>Talk title</td>
-			</tr>
-			<tr>
-				<td>6-6:15 pm</td>
-				<td>-</td>
-				<td>Session summary and Q&A</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-
-<h3>6:15-7:45pm: Poster Session 2 + Happy Hour (Room X)</h3>
+<h3>3:45-4:30 pm: Coffee Break (Room TBD)</h3>
+<h3>4:45-5 pm: Group Photo (Location TBD)</h3>
+<h3>5-6:30 pm: Roundtable Discussion (Room TBD)</h3>
+<h3>6:30-6:45 pm: Closing Remakrs (Room TBD)</h3>
 
 </div>
 </section>
