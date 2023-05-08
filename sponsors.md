@@ -18,7 +18,7 @@ nav-menu: true
 
 	<!-- Content -->
 	<!-- <h2 id="content">Sample Content</h2> -->
-	<p><a href="http://iniciativa-proxima.org/" target="_blank" rel="noopener noreferrer">Iniciativa Proxima</a> and the Proxima Symposium are entirely supported by sponsors and donations.</p>
+	<p><a href="http://iniciativa-proxima.org/" target="_blank" rel="noopener noreferrer">Iniciativa Proxima</a> and the Proxima Symposium are entirely supported by sponsors and donations. The 2023 edition of the Proxima Symposium is being organized in collaboration with Yale University and Monell Chemical Senses Center.</p>
 	
 	<h3>We are thankful for the support from:</h3>
 

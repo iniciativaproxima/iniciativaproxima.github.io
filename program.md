@@ -40,21 +40,22 @@ nav-menu: true
 	</header>
 	
 	<ul>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
+		<li>Amber Alhadeff (Monell Chemical Senses Center, USA)</li>
+		<li>Angelina Bilate (Rockefeller University, USA)</li>
+		<li>Bassem Hassam (ICM, France)</li>
+		<li>Bernice Lo (Sidra Medicine, Qatar)</li>
+		<li>Constantina Theofanopoulou (Rockefeller University, USA)</li>
+		<li>Esther Florsheim (Arizona State University, USA)</li>
+		<li>Gustavo Menezes (UFMG, Brazil)</li>
+		<li>Ivan de Araujo (Mount Sinai, USA)</li>
+		<li>Ken Loh (Yale University, USA)</li>
+		<li>Mariana Byndloss (Vanderbilt University, USA)</li>
+		<li>Matthew Carter (Williams College, USA)</li>
+		<li>Misha Ahrens (Janelia Research Campus, USA)</li>
+		<li>Nathan Upham (Arizona State University, USA)</li>
+		<li>Tamas Horvath (Yale University, USA)</li>
+		<li>Valentina Parma (Monell Chemical Senses Center, USA) </li>
+		<li>Vishwa Deep Dixit (Yale University, USA)</li>
 		<li><a href="https://proximasymposium.org/register.html" rel="noopener noreferrer">You? Apply to present!</a></li>
 	</ul>
 
