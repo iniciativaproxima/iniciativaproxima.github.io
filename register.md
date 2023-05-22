@@ -24,7 +24,7 @@ nav-menu: false
 
 	<p><a href="https://forms.gle/RSQqAAQ7t6EciGD26" class="button next" target="_blank" rel="noopener noreferrer">Click to register</a></p>
 
-	<p>In the interest of prioritizing trainees that will benefit from the conference, we require that you submit a youtube link for a 1:30 minutes video, in English, answering the following question: <b><i>What do you like the most about science and how will the symposium advance your career?</i></b></p>
+	<p>In the interest of prioritizing trainees that will benefit from the conference, we require that you submit a YouTube link for a 1:30 minutes video, in English, answering the following question: <b><i>What do you like the most about science and how will the symposium advance your career?</i></b></p>
 
 	<div class="row 200%">
 		<div class="12u 12u$(medium)">
