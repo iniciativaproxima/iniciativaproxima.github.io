@@ -74,8 +74,8 @@ nav-menu: false
 					<div class="2u"></div>
 				</div>
 			</div>
-		</div>
-	</div>
+		<!-- </div> -->
+	<!-- </div> -->
 
 	<h2>Payment information</h2>
 
