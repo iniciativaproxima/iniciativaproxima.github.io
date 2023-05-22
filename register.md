@@ -22,6 +22,8 @@ nav-menu: false
 
 	<p>The registration fee includes two happy hours (Monday and Tuesday), five coffee breaks, one workshop (Tuesday) and one networking lunch with the speakers (Wednesday).</p>
 
+	<p><a href="https://forms.gle/RSQqAAQ7t6EciGD26" class="button next">Click to register</a></p>
+
 	<p>In the interest of prioritizing trainees that will benefit from the conference, we require that you submit a youtube link for a 1:30 minutes video, in English, answering the following question: <b><i>What do you like the most about science and how will the symposium advance your career?</i></b></p>
 
 	<div class="row 200%">
@@ -76,7 +78,7 @@ nav-menu: false
 	</div>
 
 	<h2>Policy on registration cancellation</h2>
-	
+
 	<p>All registration cancellation requests must be submitted in writing to xx@xx.com. Cancelation requests received before XX will incur a cancellation fee of $. Cancelation requests after this date will not be permitted. Registration fees may be transferred to another person.</p>
 	
 	<h2>Travel Grants</h2>
@@ -99,7 +101,7 @@ nav-menu: false
 
 	<p>Abstract title should appear in <b>bold</b>, capitalized, and have up to 100 characters (not including spaces). Abstract body text must have a maximum of 500 words. Please keep the following structure in mind when writing your abstract: Background (introduction, aims), methodology, results and conclusion. Please include 3 to 5 keywords. You may optionally include up to one figure, which must be accompanied by a caption. Font should be Times New Roman, font size at least 12-point, with 1.5 line spacing, justified. Margins should be at least 0.5".</p>
 
-	<p><a href="https://docs.google.com/document/d/1APQ15gE3Ehx1uKSWF4OS2VMNaUPLxZYsm9d4qqosYgU/edit" class="button next">Abstract template</a></p>
+	<p><a href="https://docs.google.com/document/d/17q53-9GHjA5dVBm_eg8wFMeN3zhfjyUbFMUKjRWZnis/edit?usp=sharing" class="button next">Abstract template</a></p>
 
 	<p>Each participant is allowed to submit <b>one</b> abstract as the <b>presenting</b> author. You may be an author in more than one abstract but will not be allowed to present more than one. Please verify you abstracts for clearness, conciseness, and correctness of spelling and grammar in advance of submission. Each submitted abstract should only have one presenting author. Abstracts must be submitted in English and if selected for presentation, all content (talk or poster) must be presented in English.</p>
 
