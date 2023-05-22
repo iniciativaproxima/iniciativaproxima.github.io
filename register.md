@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Registration
-description: Adopt a student. Support social education.
-image: assets/images/pic06.jpg
+description: Register for the 2023 Proxima Symposium.
+image: assets/images/porto-alegre.jpg
 nav-menu: false
 ---
 
