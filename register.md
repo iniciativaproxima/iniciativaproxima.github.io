@@ -83,7 +83,7 @@ nav-menu: false
 
 	<h2>Policy on registration cancellation</h2>
 
-	<p>All registration cancellation requests must be submitted in writing to xx@xx.com. Cancelation requests received before XX will incur a cancellation fee of $. Cancelation requests after this date will not be permitted. Registration fees may be transferred to another person.</p>
+	<p>All registration cancellation requests must be submitted in writing to contato@iniciativa-proxima.org. Cancelation requests received before XX will incur a cancellation fee of $. Cancelation requests after this date will not be permitted. Registration fees may be transferred to another person.</p>
 	
 	<h2>Travel Grants</h2>
 
