@@ -24,7 +24,12 @@ nav-menu: false
 
 	<p>In the interest of prioritizing trainees that will benefit from the conference, we require that you submit a youtube link for a 1:30 minutes video, in English, answering the following question: <b><i>What do you like the most about science and how will the symposium advance your career?</i></b></p>
 
-	<div class="table-wrapper">
+	<div class="row 200%">
+		<div class="12u 12u$(medium)">
+			<div class="box alt">
+				<div class="row 100% uniform">
+				<div class="4u"></div>
+	<div class="4u table-wrapper">
 		<table class="alt">
 			<thead>
 				<tr>
@@ -63,6 +68,11 @@ nav-menu: false
 				</tr>
 			</tbody>
 		</table>
+	</div>
+	<div class="4u"></div>
+				</div>
+			</div>
+		</div>
 	</div>
 
 	<h2>Policy on registration cancellation</h2>
