@@ -28,8 +28,8 @@ nav-menu: false
 		<div class="12u 12u$(medium)">
 			<div class="box alt">
 				<div class="row 100% uniform">
-				<div class="4u"></div>
-	<div class="4u table-wrapper">
+				<div class="2u"></div>
+	<div class="8u table-wrapper">
 		<table class="alt">
 			<thead>
 				<tr>
@@ -69,7 +69,7 @@ nav-menu: false
 			</tbody>
 		</table>
 	</div>
-	<div class="4u"></div>
+	<div class="2u"></div>
 				</div>
 			</div>
 		</div>
