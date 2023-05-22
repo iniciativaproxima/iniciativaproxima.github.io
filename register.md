@@ -74,8 +74,8 @@ nav-menu: false
 					<div class="2u"></div>
 				</div>
 			</div>
-		<!-- </div> -->
-	<!-- </div> -->
+		</div>
+	</div>
 
 	<h2>Payment information</h2>
 
@@ -117,6 +117,6 @@ nav-menu: false
 
 	<p>For question on abstract submission, please send an email to xxx.</p>
 
-	</div>
-</section>
-</div>
+	<!-- </div> -->
+<!-- </section> -->
+<!-- </div> -->
