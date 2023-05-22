@@ -87,7 +87,7 @@ nav-menu: false
 	
 	<h2>Travel Grants</h2>
 
-	<p>More information soon.</p>
+	<p>We will provide travel awards to a select number of students that were part of the Iniciativa Proxima Mentoring Program. More information soon.</p>
 
 	<h2>Abstract submission</h2>
 
@@ -103,7 +103,7 @@ nav-menu: false
 
 	<h3>Guidelines for abstract submission</h3>
 
-	<p>Abstract title should appear in <b>bold</b>, capitalized, and have up to 100 characters (not including spaces). Abstract body text must have a maximum of 500 words. Please keep the following structure in mind when writing your abstract: Background (introduction, aims), methodology, results and conclusion. Please include 3 to 5 keywords. You may optionally include up to one figure, which must be accompanied by a caption. Font should be Times New Roman, font size at least 12-point, with 1.5 line spacing, justified. Margins should be at least 0.5".</p>
+	<p>Abstract title should appear in <b>bold</b>, capitalized, and have up to 100 characters (not including spaces). Abstract body text must have a maximum of 500 words. Please keep the following structure in mind when writing your abstract: Background (introduction, aims), methodology, results and conclusion. Please include 3 to 5 keywords. You may optionally include up to one figure, which must be accompanied by a caption. Font should be Times New Roman, font size at least 12-point, with 1.5 line spacing, justified. Margins should be at least 0.5". Abstract must be submitted as a PDF file.</p>
 
 	<p><a href="https://docs.google.com/document/d/17q53-9GHjA5dVBm_eg8wFMeN3zhfjyUbFMUKjRWZnis/edit?usp=sharing" class="button next" target="_blank" rel="noopener noreferrer">Abstract template</a></p>
 
@@ -115,7 +115,7 @@ nav-menu: false
 
 	<p>Abstract submissions will be evaluated on the basis of the following criteria: significance, originality, clarity and relevance to the symposium audience. Selected abstracts will be informed if they were selected for Poster or Oral presentation.</p>
 
-	<p>For question on abstract submission, please send an email to xxx.</p>
+	<p>For question on abstract submission, please send an email to contato@iniciativa-proxima.org.</p>
 
 	<!-- </div> -->
 <!-- </section> -->
