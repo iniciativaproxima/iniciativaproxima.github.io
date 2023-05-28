@@ -22,11 +22,11 @@ nav-menu: true
 
 	<!-- <p><a href="http://iniciativa-proxima.org/" target="_blank" rel="noopener noreferrer">Iniciativa Proxima</a> and the Proxima Symposium are entirely supported by sponsors and donations. The 2023 edition of the Proxima Symposium is being organized in collaboration with Yale University and Monell Chemical Senses Center.</p> -->
 	
-	<h3>We are thankful for the Institutional support from:</h3>
+	<h4>We are thankful for the Institutional support from:</h4>
 
 	<ul>
-		<li><h3><a href="https://world.yale.edu/about/office-international-affairs" target="_blank" rel="noopener noreferrer">Yale Office of International Affairs</a></h3></li>
-		<li><h3><a href="https://clais.macmillan.yale.edu" target="_blank" rel="noopener noreferrer">Council on Latin American & Iberian Studies (CLAIS) at The MacMillan Center</a></h3></li>
+		<li><a href="https://world.yale.edu/about/office-international-affairs" target="_blank" rel="noopener noreferrer">Yale Office of International Affairs</a></li>
+		<li><a href="https://clais.macmillan.yale.edu" target="_blank" rel="noopener noreferrer">Council on Latin American & Iberian Studies (CLAIS) at The MacMillan Center</a></li>
 	</ul> 
 
 	<h4>We invite you to join us as a sponsor for our umbrella programs, including the Proxima Symposium in December 2023, which is critical to realizing this future.</h4>
