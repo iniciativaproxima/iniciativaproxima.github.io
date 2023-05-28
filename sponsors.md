@@ -18,11 +18,11 @@ nav-menu: true
 
 	<!-- Content -->
 	<!-- <h2 id="content">Sample Content</h2> -->
-	<p>Iniciativa Proxima leverages the power of science and education to drive social changes. We invite you to join us as a sponsor for our umbrella programs, including the Proxima Symposium.</p>
+	<p>Iniciativa Proxima leverages the power of science and education to drive social changes. We are thankful for the Institutional support from:</p>
 
 	<!-- <p><a href="http://iniciativa-proxima.org/" target="_blank" rel="noopener noreferrer">Iniciativa Proxima</a> and the Proxima Symposium are entirely supported by sponsors and donations. The 2023 edition of the Proxima Symposium is being organized in collaboration with Yale University and Monell Chemical Senses Center.</p> -->
 	
-	<h4>We are thankful for the Institutional support from:</h4>
+	<!-- <h4></h4> -->
 
 	<ul>
 		<li><a href="https://world.yale.edu/about/office-international-affairs" target="_blank" rel="noopener noreferrer">Yale Office of International Affairs</a></li>
