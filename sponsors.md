@@ -18,12 +18,9 @@ nav-menu: true
 
 	<!-- Content -->
 	<!-- <h2 id="content">Sample Content</h2> -->
-	<p>Iniciativa Proxima leverages the power of science and education to drive social changes. We are thankful for the Institutional support from:</p>
-
 	<!-- <p><a href="http://iniciativa-proxima.org/" target="_blank" rel="noopener noreferrer">Iniciativa Proxima</a> and the Proxima Symposium are entirely supported by sponsors and donations. The 2023 edition of the Proxima Symposium is being organized in collaboration with Yale University and Monell Chemical Senses Center.</p> -->
 	
-	<!-- <h4></h4> -->
-
+	<p>Iniciativa Proxima leverages the power of science and education to drive social changes. We are thankful for the Institutional support from:</p>
 	<ul>
 		<li><a href="https://world.yale.edu/about/office-international-affairs" target="_blank" rel="noopener noreferrer">Yale Office of International Affairs</a></li>
 		<li><a href="https://clais.macmillan.yale.edu" target="_blank" rel="noopener noreferrer">Council on Latin American & Iberian Studies (CLAIS) at The MacMillan Center</a></li>
