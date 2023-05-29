@@ -18,13 +18,15 @@ nav-menu: false
 
 	<!-- Content -->
 	
-	<h2>Regular Registration</h2>
+	<!-- <h2>Symposium Registration</h2> -->
 
 	<p>The registration fee includes two happy hours (Monday and Tuesday), five coffee breaks, one workshop (Tuesday) and one networking lunch with the speakers (Wednesday).</p>
 
-	<p><a href="https://forms.gle/RSQqAAQ7t6EciGD26" class="button next" target="_blank" rel="noopener noreferrer">Click to register</a></p>
+	<p>In the interest of prioritizing early-career trainees (undergraduate and master's students), we require that you submit a YouTube link for a video up to 90 seconds, in English, answering the following question: <b><i>What do you like the most about science and how will the symposium advance your career?</i></b></p>
 
-	<p>In the interest of prioritizing early-career trainees (undergraduate and master's students) that will benefit from the conference, we require that you submit a YouTube link for a 1:30 minutes video, in English, answering the following question: <b><i>What do you like the most about science and how will the symposium advance your career?</i></b></p>
+	<p>We are accepting Abstract submissions for those interested in presenting (oral or poster). You must submit your Abstract information when registering. See below for rules and guidelines for your Abstract submission.</p>
+
+	<p><a href="https://forms.gle/RSQqAAQ7t6EciGD26" class="button next" target="_blank" rel="noopener noreferrer">Click to register</a></p>
 
 	<div class="row 200%">
 		<div class="12u 12u$(medium)">
@@ -87,7 +89,7 @@ nav-menu: false
 	
 	<h2>Travel Grants</h2>
 
-	<p>We will provide travel awards to a select number of students that were part of the Iniciativa Proxima Mentoring Program. More information soon.</p>
+	<p>We will provide travel grants to a select number of students that were part of the Iniciativa Proxima Mentoring Program. More information soon.</p>
 
 	<h2>Abstract submission</h2>
 
@@ -97,8 +99,8 @@ nav-menu: false
 
 	<h3>Key dates</h3>
 	<ul class="alt">
-		<li>Abstract submissions opens: May X, 2023</li>
-		<li>Abstract submissions closes: July X, 2023</li>
+		<li>Abstract submissions opens: May 29th, 2023</li>
+		<li>Abstract submissions closes: July 15th, 2023</li>
 	</ul>
 
 	<h3>Guidelines for abstract submission</h3>
