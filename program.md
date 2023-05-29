@@ -35,6 +35,9 @@ nav-menu: true
 	</div>
 </div> -->
 
+	<h3>The Proxima Symposium will happen on December 11-13.</h3>
+	<h3>Full schedule and activities for each day will soon be available.</h3>
+
 	<header class="major">
 		<h2>Confirmed speakers</h2>
 	</header>
@@ -63,8 +66,6 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Program -->
-<h3>The Proxima Symposium will happen on December 11-13.</h3>
-<h3>Full schedule and activities for each day will soon be available.</h3>
 
 
 <!-- <a href="" class="button special big" onclick="return false;" style="cursor:default">Day 1: Monday</a>
