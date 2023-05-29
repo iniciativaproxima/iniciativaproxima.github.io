@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 
-<div class="row">
+<!-- <div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>Badge pickup.</h3>
 		<p>Your badge is your entrance for all Symposium activities and events, and must be worn at all the times. Badge pickup will be available during the following hours.
@@ -33,36 +33,37 @@ nav-menu: true
 		<h3>Poster sessions.</h3>
 		<p>The poster sessions will be held from 6:15 to 7:45 pm on Monday and Tuesday. If you are presenting, please arrive at least 15 minutes early to set up your poster.</p>
 	</div>
-</div>
+</div> -->
 
 	<header class="major">
 		<h2>Confirmed speakers</h2>
 	</header>
 	
 	<ul>
-		<li>Amber Alhadeff (Monell Chemical Senses Center, USA)</li>
-		<li>Angelina Bilate (Rockefeller University, USA)</li>
-		<li>Bassem Hassam (ICM, France)</li>
-		<li>Bernice Lo (Sidra Medicine, Qatar)</li>
-		<li>Constantina Theofanopoulou (Rockefeller University, USA)</li>
-		<li>Esther Florsheim (Arizona State University, USA)</li>
-		<li>Gustavo Menezes (UFMG, Brazil)</li>
-		<li>Ivan de Araujo (Mount Sinai, USA)</li>
-		<li>Ken Loh (Yale University, USA)</li>
-		<li>Mariana Byndloss (Vanderbilt University, USA)</li>
-		<li>Matthew Carter (Williams College, USA)</li>
-		<li>Matthew Suttor (Yale University, USA)</li>
-		<li>Misha Ahrens (Janelia Research Campus, USA)</li>
-		<li>Nathan Upham (Arizona State University, USA)</li>
-		<li>Tamas Horvath (Yale University, USA)</li>
-		<li>Valentina Parma (Monell Chemical Senses Center, USA) </li>
-		<li>Vishwa Deep Dixit (Yale University, USA)</li>
+		<li><b>Amber Alhadeff</b> (Monell Chemical Senses Center, USA)</li>
+		<li><b>Angelina Bilate</b> (Rockefeller University, USA)</li>
+		<li><b>Bassem Hassam</b> (ICM, France)</li>
+		<li><b>Bernice Lo</b> (Sidra Medicine, Qatar)</li>
+		<li><b>Constantina Theofanopoulou</b> (Rockefeller University, USA)</li>
+		<li><b>Esther Florsheim</b> (Arizona State University, USA)</li>
+		<li><b>Gustavo Menezes</b> (UFMG, Brazil)</li>
+		<li><b>Ivan de Araujo</b> (Mount Sinai, USA)</li>
+		<li><b>Ken Loh</b> (Yale University, USA)</li>
+		<li><b>Mariana Byndloss</b> (Vanderbilt University, USA)</li>
+		<li><b>Matthew Carter</b> (Williams College, USA)</li>
+		<li><b>Matthew Suttor</b> (Yale University, USA)</li>
+		<li><b>Misha Ahrens</b> (Janelia Research Campus, USA)</li>
+		<li><b>Nathan Upham</b> (Arizona State University, USA)</li>
+		<li><b>Tamas Horvath</b> (Yale University, USA)</li>
+		<li><b>Valentina Parma</b> (Monell Chemical Senses Center, USA) </li>
+		<li><b>Vishwa Deep Dixit</b> (Yale University, USA)</li>
 		<li><a href="https://proximasymposium.org/register.html" rel="noopener noreferrer">You? Apply to present!</a></li>
 	</ul>
 
 <hr class="major" />
 
 <!-- Program -->
+<h3>The Proxima Symposium will happen on December 11-13.</h3>
 <h3>Full schedule and activities for each day will soon be available.</h3>
 
 
