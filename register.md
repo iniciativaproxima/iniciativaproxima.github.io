@@ -23,7 +23,7 @@ nav-menu: false
 
 	<p>In the interest of prioritizing early-career trainees (undergraduate and master's students), we require that you submit a YouTube link for a video up to 90 seconds, in English, answering the following question: <b><i>What do you like the most about science and how will the symposium advance your career?</i></b></p>
 	<p>We are accepting Abstract submissions for those interested in presenting (oral or poster). You must submit your Abstract information when registering. See below for rules and guidelines for your Abstract submission.</p>
-	<p>The registration fee includes two happy hours, five coffee breaks, one workshop, and one networking lunch with the speakers.</p>
+	<p>The registration fee includes two happy hours, five coffee breaks, one workshop, and one networking lunch with the speakers over 3 full days (December 11-13).</p>
 	<p><a href="https://forms.gle/RSQqAAQ7t6EciGD26" class="button next" target="_blank" rel="noopener noreferrer">Click to register</a></p>
 
 	<div class="row 200%">
@@ -79,11 +79,11 @@ nav-menu: false
 
 	<h2>Payment information</h2>
 
-	<p>More information soon.</p>
+	<p>Payment for registration will be through the Brazilian electronic payment system PIX. Once your registration is confirmed, you will receive an email with payment instructions. <br><i>The PIX number for the Proxima Symposium is 15.709.219/0001-31.</i></p>
 
 	<h2>Policy on registration cancellation</h2>
 
-	<p>All registration cancellation requests must be submitted in writing to contato@iniciativa-proxima.org. Cancelation requests received before XX will incur a cancellation fee of $. Cancelation requests after this date will not be permitted. Registration fees may be transferred to another person.</p>
+	<p>All registration cancellation requests must be submitted in writing to contato@iniciativa-proxima.org. Cancelation requests received XX days before the Symposium will incur a cancellation fee of $. Cancelation requests after this date will not be permitted. Registration fees may be transferred to another person.</p>
 	
 	<h2>Travel Grants</h2>
 
