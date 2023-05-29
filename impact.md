@@ -23,13 +23,13 @@ image: assets/images/pic01.jpg
 
 		<h4>Come back soon for a full report on previous editions of the Symposium and their impact on trainees' careers.</h4>
 
-		<!-- <hr class="major" />
+		<hr class="major" />
 
 		<header class="major">
 			<h1>Impact</h1>
 		</header>
 		<h3 id="content">Connecting students with opportunity</h3>
 		<p>In the news</p>
-</div> -->
+	</div>
 </section>
 </div>
