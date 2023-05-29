@@ -57,7 +57,7 @@ nav-menu: true
 		<li><b>Tamas Horvath</b> (Yale University, USA)</li>
 		<li><b>Valentina Parma</b> (Monell Chemical Senses Center, USA) </li>
 		<li><b>Vishwa Deep Dixit</b> (Yale University, USA)</li>
-		<li><a href="https://proximasymposium.org/register.html" rel="noopener noreferrer">You? Apply to present!</a></li>
+		<li><a href="https://proximasymposium.org/register.html" rel="noopener noreferrer"><b>You?</b> Apply to present!</a></li>
 	</ul>
 
 <hr class="major" />
