@@ -38,8 +38,11 @@ nav-menu: true
 	<h3>The Proxima Symposium will happen on December 11-13.</h3>
 	<h3>Full schedule and activities for each day will soon be available.</h3>
 
+	<hr class="major" />
+
+	
 	<header class="major">
-		<h2>Confirmed speakers</h2>
+		<h3>Confirmed speakers</h3>
 	</header>
 	
 	<ul>
@@ -68,7 +71,7 @@ nav-menu: true
 <!-- Program -->
 
 
-<!-- <a href="" class="button special big" onclick="return false;" style="cursor:default">Day 1: Monday</a>
+<!-- <a href="" class="button special big" onclick="return false;" style="cursor:default">Day 1: Monday 12/11</a>
 
 <br>
 <br>
@@ -178,7 +181,7 @@ nav-menu: true
 
 <hr class="major" />
 
-<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 2: Tuesday</a>
+<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 2: Tuesday 12/12</a>
 
 <br>
 <br>
@@ -298,7 +301,7 @@ nav-menu: true
 
 <hr class="major" />
 
-<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 3: Wednesday</a>
+<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 3: Wednesday 12/13</a>
 
 <br>
 <br>
