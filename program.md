@@ -68,7 +68,9 @@ nav-menu: true
 <br>
 <br>
 
-<h4>Opening Session (Room TBD)</h4>
+<h3>Full schedule will soon be available.</h3>
+
+<!-- <h4>Opening Session (Room TBD)</h4>
 
 <div class="table-wrapper" >
 	<table>
@@ -389,7 +391,7 @@ nav-menu: true
 <h3>4:45-5 pm: Group Photo (Location TBD)</h3>
 <h3>5-6:30 pm: Roundtable Discussion (Room TBD)</h3>
 <h3>6:30-6:45 pm: Closing Remarks (Room TBD)</h3>
-
+ -->
 </div>
 </section>
 </div>
