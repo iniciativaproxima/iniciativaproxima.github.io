@@ -90,9 +90,13 @@ nav-menu: true
 	</ul>
 
 	<h4>Contact information for Sponship Packages</h4>
+	In Brazil:
 	<ul>
-		<li>In Brazil: Pedro Schuch Mallmann, President of Fundo Amanhã - pedro@fundoamanha.com</li>
-		<li>In the United States of America: Marcelo de O. Dietrich, Director, Iniciativa Proxima - marcelo.dietrich@yale.edu</li>
+		<li>Pedro Schuch Mallmann, President of Fundo Amanhã - pedro@fundoamanha.com</li>
+	</ul>
+	In the United States of America:
+	<ul>
+		<li>Marcelo de O. Dietrich, Director, Iniciativa Proxima - marcelo.dietrich@yale.edu</li>
 	</ul>
 
 	</div>
