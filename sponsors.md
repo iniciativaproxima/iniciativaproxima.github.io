@@ -86,10 +86,11 @@ nav-menu: true
 	<h3>Other Sponsors - any amount</h3>
 	At this level of sponsorship, you would have the following benefits:
 	<ul>
-		<li>Logo presentation on Iniciativa Proxima website • Logo on event signage.</li>
+		<li>Logo presentation on Iniciativa Proxima website</li>
+		<li>Logo on event signage.</li>
 	</ul>
 
-	<h4>Contact information for Sponship Packages</h4>
+	<h3>Contact information for Sponship Packages</h3>
 	In Brazil:
 	<ul>
 		<li>Pedro Schuch Mallmann, President of Fundo Amanhã - pedro@fundoamanha.com</li>
