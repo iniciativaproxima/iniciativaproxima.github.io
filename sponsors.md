@@ -19,7 +19,7 @@ nav-menu: true
 	<!-- Content -->
 	<!-- <h2 id="content">Sample Content</h2> -->
 	<!-- <p><a href="http://iniciativa-proxima.org/" target="_blank" rel="noopener noreferrer">Iniciativa Proxima</a> and the Proxima Symposium are entirely supported by sponsors and donations. The 2023 edition of the Proxima Symposium is being organized in collaboration with Yale University and Monell Chemical Senses Center.</p> -->
-	
+
 	<p>Iniciativa Proxima leverages the power of science and education to drive social changes. We are thankful for the Institutional support from:</p>
 	<ul>
 		<li><a href="https://world.yale.edu/about/office-international-affairs" target="_blank" rel="noopener noreferrer">Yale Office of International Affairs</a></li>
@@ -88,6 +88,13 @@ nav-menu: true
 	<ul>
 		<li>Logo presentation on Iniciativa Proxima website • Logo on event signage.</li>
 	</ul>
+
+	<h4>Contact information for Sponship Packages</h4>
+	<ul>
+		<li>In Brazil: Pedro Schuch Mallmann, President of Fundo Amanhã - pedro@fundoamanha.com</li>
+		<li>In the United States of America: Marcelo de O. Dietrich, Director, Iniciativa Proxima - marcelo.dietrich@yale.edu</li>
+	</ul>
+
 	</div>
 </section>
 </div>
