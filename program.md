@@ -63,16 +63,16 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Program -->
-<h3>Full schedule will soon be available.</h3>
+<h3>Full schedule and activities for each day will soon be available.</h3>
 
 
-<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 1: Monday</a>
+<!-- <a href="" class="button special big" onclick="return false;" style="cursor:default">Day 1: Monday</a>
 
 <br>
 <br>
 
 
-<!-- <h4>Opening Session (Room TBD)</h4>
+<h4>Opening Session (Room TBD)</h4>
 
 <div class="table-wrapper" >
 	<table>
@@ -172,7 +172,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>5:45-7:00 pm: Poster Session 1 + Happy Hour (Room TBD)</h3> -->
+<h3>5:45-7:00 pm: Poster Session 1 + Happy Hour (Room TBD)</h3>
 
 <hr class="major" />
 
@@ -181,7 +181,7 @@ nav-menu: true
 <br>
 <br>
 
-<!-- <h4>Workshop (Room TBD)</h4>
+<h4>Workshop (Room TBD)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -292,7 +292,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>5:45-7 pm: Poster Session 2 + Happy Hour (Room TBD)</h3> -->
+<h3>5:45-7 pm: Poster Session 2 + Happy Hour (Room TBD)</h3>
 
 <hr class="major" />
 
@@ -301,7 +301,7 @@ nav-menu: true
 <br>
 <br>
 
-<!-- <h4>Scientific Talks (Room TBD)</h4>
+<h4>Scientific Talks (Room TBD)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -392,8 +392,9 @@ nav-menu: true
 <h3>3:45-4:30 pm: Coffee Break (Room TBD)</h3>
 <h3>4:45-5 pm: Group Photo (Location TBD)</h3>
 <h3>5-6:30 pm: Roundtable Discussion (Room TBD)</h3>
-<h3>6:30-6:45 pm: Closing Remarks (Room TBD)</h3> -->
+<h3>6:30-6:45 pm: Closing Remarks (Room TBD)</h3>
 
+ -->
 </div>
 </section>
 </div>
