@@ -54,19 +54,6 @@ nav-menu: true
 		<h2 id="team">Proxima Symposium Team</h2>
 	</header>
 
-	<h2>Steering Committee</h2>
-	<div class="row 200%">
-		<div class="12u$ 12u$(medium)">
-			<div class="box alt">
-				<div class="row 100% uniform">
-					<div class="3u"><a href="https://zimmer-lab.org/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/eduardo.png %}" alt="" /></span>Eduardo Rigon Zimmer (UFRGS)</a></div>
-					<div class="3u"><a href="https://www.dietrich-lab.org" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/dietrich.png %}" alt="" /></span>Marcelo O. Dietrich (Yale University)</a></div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<hr class="major" />
 	<h2>Scientific Committee</h2>
 
 	<div class="row 200%">
@@ -108,6 +95,20 @@ nav-menu: true
 			</div>
 		</div>
 	</div>
+
+	<hr class="major" />
+	<h2>Steering Committee</h2>
+	<div class="row 200%">
+		<div class="12u$ 12u$(medium)">
+			<div class="box alt">
+				<div class="row 100% uniform">
+					<div class="3u"><a href="https://zimmer-lab.org/" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/eduardo.png %}" alt="" /></span>Eduardo Rigon Zimmer (UFRGS)</a></div>
+					<div class="3u"><a href="https://www.dietrich-lab.org" target="_blank" rel="noopener noreferrer"><span class="image"><img src="{% link assets/images/people/dietrich.png %}" alt="" /></span>Marcelo O. Dietrich (Yale University)</a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
 
 </div>
 </section>
