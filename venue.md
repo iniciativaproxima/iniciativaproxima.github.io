@@ -108,20 +108,23 @@ nav-menu: true
 		<h4>Casa de Cultura Mario Quintana</h4>
 		<p>The Casa de Cultura Mario Quintana (CCMQ) is a cultural center in Porto Alegre, Rio Grande do Sul, one of the largest and best installed in Brazil. It is located in the historic Hotel Majestic building, which had its heyday between the 1930s and the 1950s. Among its famous guests were former presidents Getúlio Vargas and João Goulart and artists such as Vicente Celestino, Virginia Lane and Francisco Alves. The house was named in homage to one of the main Brazilian poets, Mário Quintana, who lived at the hotel between 1968 and 1980, in apartment 217.
 
+		<br>
 		<b>Address:</b> R. dos Andradas, 736 - Centro Histórico, Porto Alegre - RS
-		<b>Website:</b> <a href="https://www.ccmq.com.br/" target="_blank" rel="noopener noreferrer">Casa de Cultura Mario Quintana</a></p></p>
+		<br>
+		<b>Website:</b> <a href="https://www.ccmq.com.br/" target="_blank" rel="noopener noreferrer">Casa de Cultura Mario Quintana</a></p>
 
 		<h4>Fundacao Ibere Camargo</h4>
 		<p>Fundação Iberê was created in 1995, with the mission of preserving, researching and disseminating the work of Iberê Camargo, as well as bringing the public closer to what is two great names of Brazilian art from the 20th century, stimulating reflection on art, culture and education through transdisciplinary programs and the promotion of their own artistic production.
-
+		<br>
 		Get to know the Iberê Foundation through a Google virtual tour by <a href="https://artsandculture.google.com/streetview/funda%C3%A7%C3%A3o-iber%C3%AA-camargo/nQGzgB_jYf5zug?hl=pt-BR&sv_h=-20&sv_p=0&sv_pid=_ybpZzb1JdN0MZxcsmvbkg&sv_lid=1160682781413569545&sv_lng=-51.245600288100206&sv_lat=-30.077941317605827&sv_z=1.0000000000000002" target="_blank" rel="noopener noreferrer">clicking here</a>.
-
+		<br>
 		<b>Address:</b> Av. Padre Cacique, 2000 - Cristal, Porto Alegre - RS
+		<br>
 		Website: <a href="http://iberecamargo.org.br/" target="_blank" rel="noopener noreferrer">Ibere Camargo</a></p>
 
 		<h4>Praça da Alfândega</h4>
 		<p>The place, in itself a postcard of the city, houses in its surroundings cultural spaces, such as Santander Cultural, the Museum of Art of Rio Grande do Sul and the Memorial of RS. Make the most of it and follow Rua dos Andradas towards Casa de Cultura Mário Quintana and Igreja das Dores (oldest church in POA), with its monumental staircase.
-
+		<br>
 		<b>Address:</b> Rua dos Andradas 1020 Centro Histórico, Porto Alegre - RS</p>
 
 	</div>
