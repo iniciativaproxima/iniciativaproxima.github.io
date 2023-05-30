@@ -40,9 +40,9 @@ nav-menu: true
 
 	<hr class="major" />
 
-	
+
 	<header class="major">
-		<h3>Confirmed speakers</h3>
+		<h3>Confirmed scientists</h3>
 	</header>
 	
 	<ul>
