@@ -6,8 +6,6 @@ image: assets/images/pic06.jpg
 nav-menu: true
 ---
 
-<META HTTP-EQUIV='Content-Security-Policy' CONTENT="frame-src https://secure.yale.imodules.com;">
-
 <!-- Main -->
 <div id="main" class="alt">
 
