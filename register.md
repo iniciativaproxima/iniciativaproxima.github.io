@@ -115,7 +115,7 @@ nav-menu: false
 
 	<p>Abstract submissions will be evaluated on the basis of the following criteria: significance, originality, clarity and relevance to the symposium audience. Selected abstracts will be informed if they were selected for Poster or Oral presentation.</p>
 
-	<p>For question on abstract submission, please send an email to contato@iniciativa-proxima.org.</p>
+	<p>For question on abstract submission, please send an email to registration@proximasymposium.org.</p>
 
 	<!-- </div> -->
 <!-- </section> -->
