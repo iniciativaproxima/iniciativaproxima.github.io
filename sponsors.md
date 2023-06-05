@@ -6,6 +6,8 @@ image: assets/images/pic06.jpg
 nav-menu: true
 ---
 
+<META HTTP-EQUIV='Content-Security-Policy' CONTENT="frame-src https://secure.yale.imodules.com;">
+
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -22,9 +24,9 @@ nav-menu: true
 
 	<p>Even a small donation can make a big difference. Your contribution will help us run our mentorship program, host impactful symposiums, initiate new projects, and empower us to hire full-time team members to enhance our efforts. More importantly, your gift aids in equipping the next generation of scientists with the tools and resources they need to drive scientific innovation and contribute to their communities.</p>
 
-	<p>Consider this: a recurring donation of just $30 a month for two years can support the average cost of one student to travel to the Proxima Symposium from anywhere in Brazil. This not only decreases the opportunity gap for students from less privileged regions but also enables them to learn, grow, and contribute in ways they might not otherwise have had the opportunity to.</p>
+	<p>Consider this: a recurring donation of just $30 a month for two years can support the average cost of one student to travel to the Proxima Symposium from anywhere in Brazil. This decreases the opportunity gap for students from less privileged regions and enables them to learn, grow, and contribute in ways they might not otherwise have had the opportunity to.</p>
 
-	<p>Join us in our commitment to young Brazilian scientists by making a one-time gift or setting up a recurrent donation. Together, we can create a vibrant, inclusive scientific community that embraces collaboration and drives societal impact.</p>
+	<p>Join us in our commitment to young Brazilian scientists by making a one-time gift or setting up a recurring donation. Together, we can create a vibrant, inclusive scientific community that embraces collaboration and drives societal impact.</p>
 
 
 		<header class="major">
