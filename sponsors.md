@@ -12,10 +12,8 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-
-
 		<header class="major">
-			<h1>Empower Young Brazilian Scientists<br>Donate to Iniciativa Proxima</h1>
+			<h1>Empower Young Brazilian Scientists</h1>
 		</header>
 
 	<p>Iniciativa Proxima thrives on a mission to close the opportunity gap in science and foster community values within young Brazilian scientists. Our work thus far, powered by volunteer efforts, the Yale Office of International Affairs, and the laboratory of Dr. Marcelo Dietrich, has been transformative. Yet, we need your support to continue this vital work and expand our impact.</p>
@@ -107,7 +105,7 @@ nav-menu: true
 
 	<h3>Donation instructions</h3>
 
-	Please use the form below for donations. <b>Under 'ADDITIONAL OPTIONS', please add "Gift to Iniciativa Proxima" in the comments/additional instructions field.
+	<p>Please use the form below for donations. <b>Under 'ADDITIONAL OPTIONS', please add "Gift to Iniciativa Proxima" in the comments/additional instructions field.</b></p>
 
 	<a href="https://secure.yale.imodules.com/s/1667/52/cart/form.aspx?sid=1667&gid=52&pgid=5594&cid=14277&bledit=1&dids=645.&_ga=2.248654727.1827790529.1685539200-1257581893.1629912448" target="_blank" rel="noopener noreferrer"><i>Click here to open the form in a new window</i></a>.
 	
