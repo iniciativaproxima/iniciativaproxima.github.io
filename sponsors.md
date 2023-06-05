@@ -105,18 +105,9 @@ nav-menu: true
 		<li>Logo on event signage.</li>
 	</ul>
 
-	<h3>Donations information for Sponship Packages</h3>
-
+	<h3>Donation instructions</h3>
 
 	Please use the form below for donations. <b>Under 'ADDITIONAL OPTIONS', please add "Gift to Iniciativa Proxima" in the comments/additional instructions field.
-
-
-	<div class="row 75% uniform">
-		{% raw %}
-		<iframe src="https://secure.yale.imodules.com/s/1667/52/cart/form.aspx?sid=1667&gid=52&pgid=5594&cid=14277&bledit=1&dids=645.&_ga=2.248654727.1827790529.1685539200-1257581893.1629912448" height="315" width="100%" allowfullscreen="" frameborder="0">
-    	</iframe>
-		{% endraw %}
-	</div>
 
 	<a href="https://secure.yale.imodules.com/s/1667/52/cart/form.aspx?sid=1667&gid=52&pgid=5594&cid=14277&bledit=1&dids=645.&_ga=2.248654727.1827790529.1685539200-1257581893.1629912448" target="_blank" rel="noopener noreferrer"><i>Click here to open the form in a new window</i></a>.
 	
