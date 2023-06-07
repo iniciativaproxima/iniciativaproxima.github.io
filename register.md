@@ -39,7 +39,7 @@ nav-menu: false
 			</dd>
 		<dt>Postdoctoral researchers and Professors: October 3 - October 23</dt>
 			<dd>
-				<p>During this registration period, postdoctoral researchers and professors from any institution may register. Abstract submission is optional and conditional on availability.</p>
+				<p>During this registration period, postdoctoral researchers and professors from any institution may register.</p>
 			</dd>
 	</dl>
 	

@@ -33,7 +33,7 @@ nav-menu: true
 	<br>
 	<br>
 
-	<h4>If you have questions, please contact us at sponsor@proximasymposium.org</h4>
+	<h4>If you have any questions, please contact us at sponsor@proximasymposium.org</h4>
 
 	</div>
 </section>
