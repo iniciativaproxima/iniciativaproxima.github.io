@@ -28,7 +28,7 @@ nav-menu: true
 
 	<p>Please use the button below to access the dotation form. Under 'ADDITIONAL OPTIONS', <b>please add "Gift to Iniciativa Proxima" in the comments/additional instructions field</b>.</p>
 
-	<a href="https://secure.yale.imodules.com/s/1667/52/cart/form.aspx?sid=1667&gid=52&pgid=5594&cid=14277&bledit=1&dids=645.&_ga=2.248654727.1827790529.1685539200-1257581893.1629912448" class="button special big" target="_blank" rel="noopener noreferrer"><i>Support Iniciativa Proxima</i></a>.
+	<a href="https://secure.yale.imodules.com/s/1667/52/cart/form.aspx?sid=1667&gid=52&pgid=5594&cid=14277&bledit=1&dids=645.&_ga=2.248654727.1827790529.1685539200-1257581893.1629912448" class="button special big" target="_blank" rel="noopener noreferrer"><i>Support Iniciativa Proxima</i></a>
 	
 	<br>
 	<br>
