@@ -22,8 +22,27 @@ nav-menu: false
 
 
 	<p>In the interest of prioritizing early-career trainees (undergraduate and master's students), we require that you submit a YouTube link for a video up to 90 seconds, in English, answering the following question: <b><i>What do you like the most about science and how will the symposium advance your career?</i></b></p>
-	<p>We are accepting Abstract submissions for those interested in presenting (oral or poster). You must submit your Abstract information when registering. See below for rules and guidelines for your Abstract submission.</p>
+	<p>We are accepting Abstract submissions for those interested in presenting (oral or poster presentation). You must submit your Abstract information when registering. See below for rules and guidelines for your Abstract submission.</p>
+
 	<p>The registration fee includes two happy hours, five coffee breaks, one workshop, and one networking lunch with the speakers over 3 full days (December 11-13).</p>
+
+	<h3>Key registration dates</h3>
+
+	<dl>
+		<dt>Iniciativa Proxima Scholars and Associates: June 7 - July 17</dt>
+			<dd>
+				<p>During this registration perdiod, only Iniciativa Proxima affiliates will be able to register. All submissions must include an abstract.</p>
+			</dd>
+		<dt>Undergraduate and Graduate students: September 2 - October 2</dt>
+			<dd>
+				<p>During this registration period, undergraduate and graduate students from any institution may register. Abstract submission is optional and conditional on availability.</p>
+			</dd>
+		<dt>Postdocotral researchers and Professors: October 3 - October 23</dt>
+			<dd>
+				<p>During this registration period, undergraduate and graduate students from any institution may register. Abstract submission is optional and conditional on availability.</p>
+			</dd>
+	</dl>
+	
 	<p><a href="https://forms.gle/RSQqAAQ7t6EciGD26" class="button next" target="_blank" rel="noopener noreferrer">Click to register</a></p>
 
 	<div class="row 200%">
@@ -94,12 +113,6 @@ nav-menu: false
 	<p>To request financial support (e.g., registration waiver or a travel grant), you <b>must</b> submit an abstract.
 
 	<p>Register for the Proxima Symposium and apply to be selected for an oral or poster presentation. The Scientific Committee will select up to 12 abstract submissions to present as short talks (15 minutes presentation). In addition, up to 60 abstract submissions will be selected for poster presentations (concurrent with the happy hour on Monday or Tuesday). Undergraduate and graduate students are strongly encouraged to submit an abstract.</p>
-
-	<h3>Key dates</h3>
-	<ul class="alt">
-		<li>Abstract submissions opens: May 29th, 2023</li>
-		<li>Abstract submissions closes: July 15th, 2023</li>
-	</ul>
 
 	<h3>Guidelines for abstract submission</h3>
 
