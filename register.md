@@ -102,7 +102,7 @@ nav-menu: false
 
 	<h2>Policy on registration cancellation</h2>
 
-	<p>All registration cancellation requests must be submitted in writing to registration@proximasymposium.org. Cancelation requests received 30 days before the Symposium will incur a cancellation fee of R$25. Cancelation requests after this date will not be permitted. Registration fees may be transferred to another person.</p>
+	<p>All registration cancellation requests must be submitted in writing to registration@proximasymposium.org. Cancelation requests received 30 days before the Symposium will incur a cancellation fee equal to 50% of the registration value. Cancelation requests after this date will not be permitted. Registration fees may be transferred to another person.</p>
 	
 	<h2>Travel Grants</h2>
 
