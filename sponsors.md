@@ -40,10 +40,10 @@ nav-menu: true
 		<li>Quarterly sponsor mention on Iniciativa Proxima social media by @iniproxima</li>
 		<li>Prominent logo presentation on social media and event materials, print and digital, distributed by the Iniciativa Proxima and our partners.</li>
 		<li>Prominent presentation of logo on event signage.</li>
-		<li>Opportunity to speak about your mission in connection to education as a driver for social change.</li>
+		<!-- <li>Opportunity to speak about your mission in connection to education as a driver for social change.</li> -->
 		<li>Your sponsorship included in event coverage in publications, annual report, and news published by Yale News.</li>
 		<li>Your sponsorship included in additional event media coverage.</li>
-		<li>An open invitation to discuss other potential benefits that would be of interest.</li>
+		<!-- <li>An open invitation to discuss other potential benefits that would be of interest.</li> -->
 		<li>Four free registrations to attend the conference.</li>
 	</ul> 
 
@@ -57,7 +57,7 @@ nav-menu: true
 		<li>Logo on event signage.</li>
 		<li>Your sponsorship included in event coverage in publications, annual report, and news published by Yale News.</li>
 		<li>Your sponsorship included in additional event media coverage.</li>
-		<li>An open invitation to discuss other potential benefits that would be of interest.</li>
+		<!-- <li>An open invitation to discuss other potential benefits that would be of interest.</li> -->
 		<li>Two free registrations to attend the conference.</li>
 	</ul>
 
