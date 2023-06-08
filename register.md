@@ -64,7 +64,7 @@ nav-menu: false
 									<td>Free</td>
 								</tr>
 								<tr>
-									<td>2021/2022 Proxima Scholars</td>
+									<td>2021/2022 Proxima Associates</td>
 									<td>50</td>
 								</tr>
 								<tr>
