@@ -60,11 +60,11 @@ nav-menu: false
 							</thead>
 							<tbody>
 								<tr>
-									<td>Iniciativa Proxima Scholars</td>
+									<td>2021/2022 Proxima Scholars</td>
 									<td>Free</td>
 								</tr>
 								<tr>
-									<td>Iniciativa Proxima Associates</td>
+									<td>2021/2022 Proxima Scholars</td>
 									<td>50</td>
 								</tr>
 								<tr>
