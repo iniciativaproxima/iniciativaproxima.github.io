@@ -29,7 +29,7 @@ nav-menu: false
 	<h3>Key registration dates</h3>
 
 	<dl>
-		<dt>2021/2022 Iniciativa Proxima Scholars and Associates: June 7 - July 17</dt>
+		<dt>2021/2022 Iniciativa Proxima Scholars and Associates: June 2 - July 17</dt>
 			<dd>
 				<p>During this registration perdiod, only Iniciativa Proxima affiliates will be able to register. All submissions must include an abstract. <b>Abstract acceptance will be sent by August 27.</b></p>
 			</dd>
