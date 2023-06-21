@@ -33,7 +33,7 @@ nav-menu: true
 	<br>
 	<br>
 
-	<h3>Contact information for Sponship Packages</h3>
+	<h3>Contact information for Donations</h3>
 	In Brazil:
 	<ul>
 		<li>Pedro Schuch Mallmann, President of Fundo Amanhã - pedro@fundoamanha.com</li>
