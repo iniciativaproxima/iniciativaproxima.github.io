@@ -33,6 +33,17 @@ nav-menu: true
 	<br>
 	<br>
 
+	<h3>Contact information for Sponship Packages</h3>
+	In Brazil:
+	<ul>
+		<li>Pedro Schuch Mallmann, President of Fundo Amanhã - pedro@fundoamanha.com</li>
+		<li>Ricardo Calle Lautert, Captação Fundo Amanhã -  ricardo@fundoamanha.com</li>
+	</ul>
+	In the United States of America:
+	<ul>
+		<li>Marcelo de O. Dietrich, Director, Iniciativa Proxima - marcelo.dietrich@yale.edu</li>
+	</ul>
+
 	<h4>If you have any questions, please contact us at sponsor@proximasymposium.org</h4>
 
 	</div>

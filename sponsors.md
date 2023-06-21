@@ -94,6 +94,7 @@ nav-menu: true
 	In Brazil:
 	<ul>
 		<li>Pedro Schuch Mallmann, President of Fundo Amanhã - pedro@fundoamanha.com</li>
+		<li>Ricardo Calle Lautert, Captação Fundo Amanhã -  ricardo@fundoamanha.com</li>
 	</ul>
 	In the United States of America:
 	<ul>
