@@ -103,6 +103,8 @@ nav-menu: true
 
 	<h4>For general questions, please email sponsor@proximasymposium.org</h4>
 
+	<h4>We also invite you to make a donation our umbrella programs, including the Proxima Symposium in December 2023. <a href="https://proximasymposium.org/donate.html" target="_blank" rel="noopener noreferrer"><i>Click here for more information</i></a>.</h4>
+
 	</div>
 </section>
 </div>

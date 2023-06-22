@@ -46,6 +46,8 @@ nav-menu: true
 
 	<h4>If you have any questions, please contact us at sponsor@proximasymposium.org</h4>
 
+	<h4>We also invite you to join us as a sponsor for our umbrella programs, including the Proxima Symposium in December 2023. <a href="https://proximasymposium.org/sponsors.html" target="_blank" rel="noopener noreferrer"><i>Click here for more information</i></a>.</h4>
+
 	</div>
 </section>
 </div>
