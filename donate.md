@@ -1,7 +1,7 @@
 ---
 layout: about
-title: Be a Donor
-description: Support Iniciativa Proxima
+title: Support Iniciativa Proxima
+description: Empower the next generation of scientists
 image: assets/images/donate-small.jpeg
 nav-menu: true
 ---
@@ -26,9 +26,9 @@ nav-menu: true
 
 	<h3>Donation instructions</h3>
 
-	<p>Please use the button below to access the dotation form. Under 'ADDITIONAL OPTIONS', <b>please add "Gift to Iniciativa Proxima" in the comments/additional instructions field</b>.</p>
+	<p><mark>Please use the button below to access the dotation form. Under 'ADDITIONAL OPTIONS', <b>please add "Gift to Iniciativa Proxima" in the comments/additional instructions field</b>.</mark></p>
 
-	<a href="https://secure.yale.imodules.com/s/1667/52/cart/form.aspx?sid=1667&gid=52&pgid=5594&cid=14277&bledit=1&dids=645.&_ga=2.248654727.1827790529.1685539200-1257581893.1629912448" class="button special big" target="_blank" rel="noopener noreferrer"><i>Support Iniciativa Proxima</i></a>
+	<a href="https://secure.yale.imodules.com/s/1667/52/cart/form.aspx?sid=1667&gid=52&pgid=5594&cid=14277&bledit=1&dids=645.&_ga=2.248654727.1827790529.1685539200-1257581893.1629912448" class="button special big" target="_blank" rel="noopener noreferrer" style="background-color: rgba(255,0,0,0.3);"><i>Support Iniciativa Proxima</i></a>
 	
 	<br>
 	<br>
