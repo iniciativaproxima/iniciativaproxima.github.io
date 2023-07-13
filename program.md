@@ -46,19 +46,21 @@ nav-menu: true
 	</header>
 	
 	<ul>
+		<li><b>Alex Cristino</b> (Griffith University, AU)</li>
 		<li><b>Amber Alhadeff</b> (Monell Chemical Senses Center, USA)</li>
 		<li><b>Angelina Bilate</b> (Rockefeller University, USA)</li>
 		<li><b>Bassem Hassam</b> (ICM, France)</li>
 		<li><b>Bernice Lo</b> (Sidra Medicine, Qatar)</li>
 		<li><b>Constantina Theofanopoulou</b> (Rockefeller University, USA)</li>
+		<li><b>Claudia Valeggia</b> (Yale University, USA)</li>
 		<li><b>Esther Florsheim</b> (Arizona State University, USA)</li>
 		<li><b>Gustavo Menezes</b> (UFMG, Brazil)</li>
 		<li><b>Ivan de Araujo</b> (Mount Sinai, USA)</li>
-		<li><b>Ken Loh</b> (Yale University, USA)</li>
+		<!-- <li><b>Ken Loh</b> (Yale University, USA)</li> -->
 		<li><b>Mariana Byndloss</b> (Vanderbilt University, USA)</li>
 		<li><b>Matthew Carter</b> (Williams College, USA)</li>
 		<li><b>Matthew Suttor</b> (Yale University, USA)</li>
-		<li><b>Misha Ahrens</b> (Janelia Research Campus, USA)</li>
+		<!-- <li><b>Misha Ahrens</b> (Janelia Research Campus, USA)</li> -->
 		<li><b>Nathan Upham</b> (Arizona State University, USA)</li>
 		<li><b>Tamas Horvath</b> (Yale University, USA)</li>
 		<li><b>Valentina Parma</b> (Monell Chemical Senses Center, USA) </li>
