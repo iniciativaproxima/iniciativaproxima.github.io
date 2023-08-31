@@ -24,7 +24,7 @@ nav-menu: false
 	<p>In the interest of prioritizing early-career trainees (undergraduate and master's students), we require that you submit a YouTube link for a video up to 90 seconds, in English, answering the following question: <b><i>What do you like the most about science and how will the symposium advance your career?</i></b></p>
 	<p>We are accepting Abstract submissions for those interested in presenting (oral or poster presentation). You must submit your Abstract information when registering. See below for rules and guidelines for your Abstract submission.</p>
 
-	<p>The registration fee includes two happy hours, five coffee breaks, one workshop, and one networking lunch with the speakers over 3 full days (December 11-13).</p>
+	<p>The registration fee includes two happy hours, five coffee breaks, one workshop, and one networking lunch with the speakers over 3 full days (December 11-13). Given limited availability, priority will be given to applicants who submit an abstract for presentation.</p>
 
 	<h3>Key registration dates</h3>
 
@@ -98,7 +98,9 @@ nav-menu: false
 
 	<h2>Payment information</h2>
 
-	<p>Payment for registration will be through the Brazilian electronic payment system PIX. Once your registration is confirmed, you will receive an email with payment instructions. <br><i>The PIX number for the Proxima Symposium is 15.709.219/0001-31.</i></p>
+	<p>Payment for registration will be through the Brazilian electronic payment system PIX. Following the end of the registration deadline (see table above), you will receive an email indicating if your registration is confirmed and payment instructions.
+	<!-- <br><i>The PIX number for the Proxima Symposium is 15.709.219/0001-31.</i> -->
+	</p>
 
 	<h2>Policy on registration cancellation</h2>
 
