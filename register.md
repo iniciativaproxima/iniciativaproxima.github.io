@@ -24,7 +24,7 @@ nav-menu: false
 	<p>In the interest of prioritizing early-career trainees (undergraduate and master's students), we require that you submit a YouTube link for a video up to 90 seconds, in English, answering the following question: <b><i>What do you like the most about science and how will the symposium advance your career?</i></b></p>
 	<p>We are accepting Abstract submissions for those interested in presenting (oral or poster presentation). You must submit your Abstract information when registering. See below for rules and guidelines for your Abstract submission.</p>
 
-	<p>The registration fee includes two happy hours, five coffee breaks, one workshop, and one networking lunch with the speakers over 3 full days (December 11-13). The registration also includes the optional Pre-Symposium Roundtable and Workshop on December 10. Given limited availability, priority will be given to applicants who submit an abstract for presentation.</p>
+	<p>The registration fee includes two happy hours, five coffee breaks, one workshop, and one networking lunch with the speakers over 3 full days (December 11-13). The registration also includes the optional Pre-Symposium Workshop on December 10. Given limited availability, priority will be given to applicants who submit an abstract for presentation.</p>
 
 	<h3>Key registration dates</h3>
 
