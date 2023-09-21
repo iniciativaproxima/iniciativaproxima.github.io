@@ -28,7 +28,7 @@ nav-menu: true
 
 	<p><mark>Please use the button below to access our crowdfunding campaign with Fundo Amanhã in Brazil. Become an Ambassador for our campaign and spread the news in your local communities!</mark></p>
 
-	<a href="https://campaign.doare.org/campanha/f12cfae5-08c5-4127-8f6c-54165073c770/fundo-amanha-e-iniciativa-proxima-juntos-em-prol-dos-jovens-cientistas-brasileiros!/fundo-amanha" class="button big next" target="_blank" rel="noopener noreferrer" style="background-color: rgba(255,0,0,0.3);"><i>Support Iniciativa Proxima</i></a>
+	<a href="https://campaign.doare.org/campanha/f12cfae5-08c5-4127-8f6c-54165073c770/fundo-amanha-e-iniciativa-proxima-juntos-em-prol-dos-jovens-cientistas-brasileiros!/fundo-amanha" class="button big next" target="_blank" rel="noopener noreferrer" style="background-color: #1f4a23;"><i>Support Iniciativa Proxima</i></a>
 
 	<br>
 	<br>
