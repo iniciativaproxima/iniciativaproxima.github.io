@@ -36,7 +36,7 @@ nav-menu: true
 </div> -->
 
 	<h3>The Proxima Symposium will happen on December 11-13.</h3>
-	<h3>A Pre-Symposium Workshop on the Frontier of Biological and Biomedical Sciences will happen on December 10.</h3>
+	<h3>A pre-symposium workshop will take place on December 10th and will discuss the Frontiers of Biological and Biomedical Sciences: Personalized Medicine.</h3>
 	<h3>Full schedule and activities for each day will soon be available.</h3>
 
 	<hr class="major" />
