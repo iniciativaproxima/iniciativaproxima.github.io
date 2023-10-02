@@ -36,7 +36,7 @@ nav-menu: true
 </div> -->
 
 	<h3>The Proxima Symposium will happen on December 11-13.</h3>
-	<h3>A pre-symposium workshop will take place on December 10th and will discuss the Frontiers of Biological and Biomedical Sciences: Personalized Medicine.</h3>
+	<h3>A pre-symposium workshop will take place on December 10th and will discuss the Frontiers of Biological and Biomedical Sciences: Personalized Medicine. It will zone in on critical personalized medicine themes such as Genomics, Biomarkers, and Imaging. Leading scientists including Luis Saraiva, Bernice Lo, Eduardo Zimmer, and Alex Cristino will helm the discussions, personifying their expert insights.</h3>
 	<h3>Full schedule and activities for each day will soon be available.</h3>
 
 	<hr class="major" />
@@ -54,9 +54,11 @@ nav-menu: true
 		<li><b>Bernice Lo</b> (Sidra Medicine, Qatar)</li>
 		<li><b>Constantina Theofanopoulou</b> (Rockefeller University, USA)</li>
 		<li><b>Claudia Valeggia</b> (Yale University, USA)</li>
+		<li><b>Eduardo Zimmer</b> (UFRGS, Brazil)</li>
 		<li><b>Esther Florsheim</b> (Arizona State University, USA)</li>
 		<li><b>Gustavo Menezes</b> (UFMG, Brazil)</li>
-		<li><b>Ivan de Araujo</b> (Mount Sinai, USA)</li>
+		<li><b>Ivan de Araujo</b> (Max Planck Institute, Germany)</li>
+		<li><b>Luis Saraiva</b> (Sidra Medcine, Qatar)</li>
 		<!-- <li><b>Ken Loh</b> (Yale University, USA)</li> -->
 		<li><b>Mariana Byndloss</b> (Vanderbilt University, USA)</li>
 		<li><b>Matthew Carter</b> (Williams College, USA)</li>
