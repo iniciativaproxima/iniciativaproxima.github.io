@@ -37,9 +37,9 @@ nav-menu: false
 			<dd>
 				<p>During this registration period, undergraduate and graduate students from any institution may register. Abstract submission is optional and conditional on availability.</p>
 			</dd>
-		<dt>Postdoctoral researchers and Professors: October 3 - October 23</dt>
+		<dt>Open to everyone: October 3 - October 30 <mark>(new date!)</mark></dt>
 			<dd>
-				<p>During this registration period, in addittion to undergraduate and graduate students, postdoctoral researchers and professors from any institution may register.</p>
+				<p>During this registration period, anyone interested in attending the Symposium may register. Abstract submissions will not be accepted and participants are not elible for a travel award.</p>
 			</dd>
 	</dl>
 	
