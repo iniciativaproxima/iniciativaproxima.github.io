@@ -24,6 +24,7 @@ nav-menu: true
 	<ul>
 		<li><a href="https://world.yale.edu/about/office-international-affairs" target="_blank" rel="noopener noreferrer">Yale Office of International Affairs</a></li>
 		<li><a href="https://clais.macmillan.yale.edu" target="_blank" rel="noopener noreferrer">Council on Latin American & Iberian Studies (CLAIS) at The MacMillan Center</a></li>
+		<li><a href="https://www.hospitalmoinhos.org.br/institucional" target="_blank" rel="noopener noreferrer">Hospital Moinhos de Vento</a></li>
 	</ul> 
 
 	<h4>We invite you to join us as a sponsor for our umbrella programs, including the Proxima Symposium in December 2023, which is critical to realizing this future.</h4>
