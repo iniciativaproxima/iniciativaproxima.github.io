@@ -421,13 +421,17 @@ nav-menu: true
 			<tr>
 				<td>3:40-4:00 pm</td>
 				<td>-</td>
-				<td>Session summary and Q&A</td>
+				<td>Daily summary and Q&A</td>
+			</tr>
+			<tr>
+				<td>4:00-4:45 pm</td>
+				<td>-</td>
+				<td>Coffee Break (Room TBD)</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-<h3>4:00-4:45 pm: Coffee Break (Room TBD)</h3>
 <h3>4:45-5 pm: Group Photo (Location TBD)</h3>
 <h3>5-6:30 pm: Roundtable Discussion (Room TBD)</h3>
 <h3>6:30-6:45 pm: Closing Remarks (Room TBD)</h3>
