@@ -77,6 +77,32 @@ nav-menu: true
 <!-- Program -->
 
 
+<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 0: Sunday 12/10</a>
+
+<br>
+<br>
+
+
+<h4>Pre-symposium workshop (Hospital Moinhos de Vento - Room TBD)</h4>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Who</th>
+				<th>What</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>TBA</td>
+				<td>Luis Saraiva, Bernice Lo, Eduardo Zimmer, and Alex Cristino</td>
+				<td>Frontiers of Biological and Biomedical Sciences: Personalized Medicine</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
 <a href="" class="button special big" onclick="return false;" style="cursor:default">Day 1: Monday 12/11</a>
 
 <br>
