@@ -95,7 +95,7 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>9:30-10:15 am</td>
+				<td>9:00-12:00 am</td>
 				<td>Matthew Suttor</td>
 				<td>Creative Thinking in Arts and Science</td>
 			</tr>
@@ -303,17 +303,17 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>4:30-4:45 pm</td>
-				<td>Student 32</td>
-				<td>TBD</td>
+				<td>Cecília Horta Ramalho Pinto</td>
+				<td>Machine learning algorithm approach to complete blood count can predict early Covid-19 outcome</td>
 			</tr>
 			<tr>
 				<td>4:45-5:00 pm</td>
-				<td>Student 10</td>
-				<td>TBD</td>
+				<td>Rubens Renato de Sousa Carmo</td>
+				<td>Epidemiological profile for tuberculosis of people incarcerated in a penitentiary in the coastal plain of piauí</td>
 			</tr>
 			<tr>
 				<td>5:00-5:30 pm</td>
-				<td>Constantina</td>
+				<td>Constantina Theofanopoulou</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
@@ -368,8 +368,8 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>11:30-11:45 am</td>
-				<td>Student 20</td>
-				<td>TBD</td>
+				<td>Bruna de Souza Lima</td>
+				<td>The modulation of the endoplasmic reticulum stress pathway in maternal obesity induced by high-fat diet</td>
 			</tr>
 			<tr>
 				<td>11:45-12:00 pm</td>
@@ -395,13 +395,13 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>2-2:15 pm</td>
-				<td>Student 13</td>
-				<td>TBD</td>
+				<td>Louise Castro de Jesus</td>
+				<td>Behavioral effects of non-aversive handling and enriched housing in female swiss mice</td>
 			</tr>
 			<tr>
 				<td>2:15-2:30 pm</td>
-				<td>Student 59</td>
-				<td>TBD</td>
+				<td>Leonardo Blankenburg Lins Barroso Arruda</td>
+				<td>Investigation of malonyl-CoA reductase enzyme variants for optimizing bioproduction of 3-hydroxypropionic acid in yeast</td>
 			</tr>
 			<tr>
 				<td>2:30-3:00 pm</td>
