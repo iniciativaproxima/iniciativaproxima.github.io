@@ -13,31 +13,33 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 
-<!-- <div class="row">
+<div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>Badge pickup.</h3>
 		<p>Your badge is your entrance for all Symposium activities and events, and must be worn at all the times. Badge pickup will be available during the following hours.
 		<ul>
-			<li>Monday, December 11: 12 - 4 pm </li>
-			<li>Tuesday, December 12: 8 - 11 am </li>
-			<li>Wednesday, December 13: 8 - 11 am </li>
+			<li>Monday, December 11: 9:30 am - 5:30 pm </li>
+			<li>Tuesday, December 12: 9 am - 5:30 pm </li>
+			<li>Wednesday, December 13: 9 am - 11 am </li>
 		</ul>
 		</p>
 
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Symposium hours.</h3>
-		<p>All Symposium activities will be held in the UFRGS Centro Cultural building. Please see the schedule for room details.</p>
+		<h3>Pre-symposium Workshop.</h3>
+		<p>A pre-symposium workshop will take place on December 10th and will discuss the Frontiers of Biological and Biomedical Sciences: Personalized Medicine. It will zone in on critical personalized medicine themes such as Genomics, Biomarkers, and Imaging. Leading scientists including Luis Saraiva, Bernice Lo, Eduardo Zimmer, and Alex Cristino will helm the discussions, personifying their expert insights.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Poster sessions.</h3>
-		<p>The poster sessions will be held from 6:15 to 7:45 pm on Monday and Tuesday. If you are presenting, please arrive at least 15 minutes early to set up your poster.</p>
+		<p>The poster sessions will be held from 5:45 to 7:00 pm on Monday and Tuesday. If you are presenting, please arrive at least 15 minutes early to set up your poster.</p>
 	</div>
-</div> -->
+</div>
 
+	<!--
 	<h3>The Proxima Symposium will happen on December 11-13.</h3>
 	<h3>A pre-symposium workshop will take place on December 10th and will discuss the Frontiers of Biological and Biomedical Sciences: Personalized Medicine. It will zone in on critical personalized medicine themes such as Genomics, Biomarkers, and Imaging. Leading scientists including Luis Saraiva, Bernice Lo, Eduardo Zimmer, and Alex Cristino will helm the discussions, personifying their expert insights.</h3>
 	<h3>Full schedule and activities for each day will soon be available.</h3>
+	
 
 	<hr class="major" />
 
@@ -59,139 +61,28 @@ nav-menu: true
 		<li><b>Gustavo Menezes</b> (UFMG, Brazil)</li>
 		<li><b>Ivan de Araujo</b> (Max Planck Institute, Germany)</li>
 		<li><b>Luis Saraiva</b> (Sidra Medcine, Qatar)</li>
-		<!-- <li><b>Ken Loh</b> (Yale University, USA)</li> -->
 		<li><b>Mariana Byndloss</b> (Vanderbilt University, USA)</li>
 		<li><b>Matthew Carter</b> (Williams College, USA)</li>
 		<li><b>Matthew Suttor</b> (Yale University, USA)</li>
-		<!-- <li><b>Misha Ahrens</b> (Janelia Research Campus, USA)</li> -->
 		<li><b>Nathan Upham</b> (Arizona State University, USA)</li>
 		<li><b>Tamas Horvath</b> (Yale University, USA)</li>
 		<li><b>Valentina Parma</b> (Monell Chemical Senses Center, USA) </li>
 		<li><b>Vishwa Deep Dixit</b> (Yale University, USA)</li>
 		<li><a href="https://proximasymposium.org/register.html" rel="noopener noreferrer"><b>You?</b> Apply to present!</a></li>
 	</ul>
+	-->
 
 <hr class="major" />
 
 <!-- Program -->
 
 
-<!-- <a href="" class="button special big" onclick="return false;" style="cursor:default">Day 1: Monday 12/11</a>
+<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 1: Monday 12/11</a>
 
 <br>
 <br>
 
-
-<h4>Opening Session (Room TBD)</h4>
-
-<div class="table-wrapper" >
-	<table>
-		<thead>
-			<tr>
-				<th>Time</th>
-				<th>Who</th>
-				<th>What</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>1:45-2 pm</td>
-				<td>Scientific Committee</td>
-				<td>Introductory remarks</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-
-<h4>Scientific Talks (Room TBD)</h4>
-
-<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Time</th>
-				<th>Who</th>
-				<th>What</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>2-2:30 pm</td>
-				<td>PI</td>
-				<td>TBD</td>
-			</tr>
-			<tr>
-				<td>2:30-3 pm</td>
-				<td>PI</td>
-				<td>TBD</td>
-			</tr>
-			<tr>
-				<td>3-3:15 pm</td>
-				<td>Student</td>
-				<td>TBD</td>
-			</tr>
-			<tr>
-				<td>3:15-3:30 pm</td>
-				<td>Student</td>
-				<td>TBD</td>
-			</tr>
-			<tr>
-				<td>3:30-3:45 pm</td>
-				<td>-</td>
-				<td>Session summary and Q&A</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-
-<h3>3:45-4:30 pm: Coffee Break (Room TBD)</h3>
-
-<h4>Scientific Talks (Room TBD)</h4>
-
-<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Time</th>
-				<th>Who</th>
-				<th>What</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>4:30-4:45 pm</td>
-				<td>Student</td>
-				<td>TBD</td>
-			</tr>
-			<tr>
-				<td>4:45-5 pm</td>
-				<td>Student</td>
-				<td>TBD</td>
-			</tr>
-			<tr>
-				<td>5-5:30 pm</td>
-				<td>PI</td>
-				<td>TBD</td>
-			</tr>
-			<tr>
-				<td>5:30-5:45 pm</td>
-				<td>-</td>
-				<td>Session summary and Q&A</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-
-<h3>5:45-7:00 pm: Poster Session 1 + Happy Hour (Room TBD)</h3>
-
-<hr class="major" />
-
-<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 2: Tuesday 12/12</a>
-
-<br>
-<br>
-
-<h4>Workshop (Room TBD)</h4>
+<h4>Workshop (UFRGS Centro Cultural - Room TBD)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -206,23 +97,72 @@ nav-menu: true
 			<tr>
 				<td>9:30-10:15 am</td>
 				<td>Matthew Suttor</td>
-				<td>Workshop on Art & Creativity</td>
-			</tr>
-			<tr>
-				<td>10:15-10:45 am</td>
-				<td>-</td>
-				<td>Coffee Break</td>
-			</tr>
-			<tr>
-				<td>10:45-12 pm</td>
-				<td>-</td>
-				<td>Mentoring session with speakers</td>
+				<td>Creative Thinking in Arts and Science</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-<h3>12-2 pm: Lunch</h3>
+<h3>12:00-2:00 pm: Lunch</h3>
+
+<h4>Opening Session (UFRGS Centro Cultural - Room TBD)</h4>
+
+<div class="table-wrapper" >
+	<table>
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Who</th>
+				<th>What</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>2:00-2:15 pm</td>
+				<td>Organizing Commiittee</td>
+				<td>Introductory remarks</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<h4>Scientific Talks (UFRGS Centro Cultural - Room TBD)</h4>
+
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Who</th>
+				<th>What</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>2:15-2:45 pm</td>
+				<td>Bernice Lo</td>
+				<td>TBD</td>
+			</tr>
+			<tr>
+				<td>2:45-3:15 pm</td>
+				<td>Luis Saraiva</td>
+				<td>TBD</td>
+			</tr>
+			<tr>
+				<td>3:15-3:30 pm</td>
+				<td>Student 9</td>
+				<td>TBD</td>
+			</tr>
+			<tr>
+				<td>3:30-3:45 pm</td>
+				<td>Student 43</td>
+				<td>TBD</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<h3>3:45-4:30 pm: Coffee Break (Room TBD)</h3>
 
 <h4>Scientific Talks (Room TBD)</h4>
 
@@ -237,29 +177,112 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>2-2:30 pm</td>
-				<td>PI</td>
+				<td>4:30-4:45 pm</td>
+				<td>Student 22</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>2:30-3 pm</td>
-				<td>PI</td>
+				<td>4:45-5:00 pm</td>
+				<td>Student 2</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>3-3:15 pm</td>
-				<td>Student</td>
+				<td>5:00-5:30 pm</td>
+				<td>Claudia Vallegia</td>
+				<td>TBD</td>
+			</tr>
+			<tr>
+				<td>5:30-5:45 pm</td>
+				<td>-</td>
+				<td>Daily summary and Q&A</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<h3>5:45-7:00 pm: Poster Session 1 + Happy Hour (Room TBD)</h3>
+
+<hr class="major" />
+
+<a href="" class="button special big" onclick="return false;" style="cursor:default">Day 2: Tuesday 12/12</a>
+
+<br>
+<br>
+
+<h4>Scientific Talks (Room TBD)</h4>
+
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Who</th>
+				<th>What</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>9:30-10:00 am</td>
+				<td>Ivan de Araujo</td>
+				<td>TBD</td>
+			</tr>
+			<tr>
+				<td>10:00-10:30 am</td>
+				<td>Mariana Byndloss</td>
+				<td>TBD</td>
+			</tr>
+			<tr>
+				<td>10:30-11:00 am</td>
+				<td>Esther Florsheim</td>
+				<td>TBD</td>
+			</tr>
+			<tr>
+				<td>11:00-12:00 am</td>
+				<td>-</td>
+				<td>Cofee chat with invited Scientists</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<h3>12:00-2:00 pm: Lunch</h3>
+
+<h4>Scientific Talks (Room TBD)</h4>
+
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Who</th>
+				<th>What</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>2:00-2:30 pm</td>
+				<td>Bassem Hassam</td>
+				<td>TBD</td>
+			</tr>
+			<tr>
+				<td>2:30-3:00 pm</td>
+				<td>Gustavo Menezes</td>
+				<td>TBD</td>
+			</tr>
+			<tr>
+				<td>3:00-3:15 pm</td>
+				<td>Student 18</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>3:15-3:30 pm</td>
-				<td>Student</td>
+				<td>Student 61</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>3:30-3:45 pm</td>
-				<td>-</td>
-				<td>Session summary and Q&A</td>
+				<td>Student 65</td>
+				<td>TBD</td>
 			</tr>
 		</tbody>
 	</table>
@@ -280,29 +303,29 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>4:30-4:45 pm</td>
-				<td>Student</td>
+				<td>Student 32</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>4:45-5 pm</td>
-				<td>Student</td>
+				<td>4:45-5:00 pm</td>
+				<td>Student 10</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>5-5:30 pm</td>
-				<td>PI</td>
+				<td>5:00-5:30 pm</td>
+				<td>Constantina</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>5:30-5:45 pm</td>
 				<td>-</td>
-				<td>Session summary and Q&A</td>
+				<td>Daily summary and Q&A</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-<h3>5:45-7 pm: Poster Session 2 + Happy Hour (Room TBD)</h3>
+<h3>5:45-7:00 pm: Poster Session 2 + Happy Hour (Room TBD)</h3>
 
 <hr class="major" />
 
@@ -324,40 +347,40 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>9:30-10 am</td>
-				<td>PI</td>
+				<td>9:30-10:00 am</td>
+				<td>Tamas Horvath</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>10-10:30 am</td>
-				<td>PI</td>
+				<td>10:00-10:30 am</td>
+				<td>Amber Alhadeff</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>10:30-11 am</td>
-				<td>PI</td>
+				<td>10:30-11:00 am</td>
+				<td>Matthew Carter</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>11-11:30 am</td>
+				<td>11:00-11:30 am</td>
 				<td>-</td>
 				<td>Cofee Break (Room TBD)</td>
 			</tr>
 			<tr>
 				<td>11:30-11:45 am</td>
-				<td>Student</td>
+				<td>Student 20</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>11:45-12 pm</td>
-				<td>Student</td>
+				<td>11:45-12:00 pm</td>
+				<td>Student 47</td>
 				<td>TBD</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-<h3>Networking Lunch (Location TBD)</h3>
+<h3>12:00-2:00 pm: Lunch</h3>
 
 <h4>Scientific Talks (Room TBD)</h4>
 <div class="table-wrapper">
@@ -372,12 +395,12 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>2-2:30 pm</td>
-				<td>PI</td>
+				<td>Student 13</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>2:30-3 pm</td>
-				<td>PI</td>
+				<td>Student 59</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
@@ -387,7 +410,17 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>3:15-3:30 pm</td>
-				<td>Student</td>
+				<td>Nathan Upham</td>
+				<td>TBD</td>
+			</tr>
+			<tr>
+				<td>3-3:15 pm</td>
+				<td>Gustavo Madeira Santana</td>
+				<td>TBD</td>
+			</tr>
+			<tr>
+				<td>3:15-3:30 pm</td>
+				<td>Rafael Dai Pra</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
@@ -404,7 +437,7 @@ nav-menu: true
 <h3>5-6:30 pm: Roundtable Discussion (Room TBD)</h3>
 <h3>6:30-6:45 pm: Closing Remarks (Room TBD)</h3>
 
- -->
+
 </div>
 </section>
 </div>
