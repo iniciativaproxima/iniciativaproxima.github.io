@@ -150,13 +150,13 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>3:15-3:30 pm</td>
-				<td>Student 9</td>
-				<td>TBD</td>
+				<td>Tabata Araujo Spolidoro Mattos</td>
+				<td>Investigation of the role of tdg and tp53 in esophageal squamous cell carcinoma differentiation process</td>
 			</tr>
 			<tr>
 				<td>3:30-3:45 pm</td>
-				<td>Student 43</td>
-				<td>TBD</td>
+				<td>Christian Limberger</td>
+				<td>Exploring the link between brain energy metabolism and regional vulnerability in alzheimer's disease</td>
 			</tr>
 		</tbody>
 	</table>
@@ -178,13 +178,13 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>4:30-4:45 pm</td>
-				<td>Student 22</td>
-				<td>TBD</td>
+				<td>Pedro Henrique Coelho Cordeiro</td>
+				<td>Low-cost device for measuring intracranial temperature dynamics in small rodents</td>
 			</tr>
 			<tr>
 				<td>4:45-5:00 pm</td>
-				<td>Student 2</td>
-				<td>TBD</td>
+				<td>Jorley Santos da Silva</td>
+				<td>Microbial ecology influence on antibiotic resistance genes distribution: a metagenomic approach</td>
 			</tr>
 			<tr>
 				<td>5:00-5:30 pm</td>
@@ -271,18 +271,18 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>3:00-3:15 pm</td>
-				<td>Student 18</td>
-				<td>TBD</td>
+				<td>Méllanie Amanda Silva Ferreira</td>
+				<td>Pyriproxyfen exposure affects neuronal differentiation and components of vertebrae and spinal cord</td>
 			</tr>
 			<tr>
 				<td>3:15-3:30 pm</td>
-				<td>Student 61</td>
-				<td>TBD</td>
+				<td>Marlise Moreira</td>
+				<td>Home transcranial electrical stimulation for treatment of resistant depression: preliminary results</td>
 			</tr>
 			<tr>
 				<td>3:30-3:45 pm</td>
-				<td>Student 65</td>
-				<td>TBD</td>
+				<td>Luiz Filipe Bastos Mendes</td>
+				<td>Impact of CUMS and ketamine on circRNA expression profiles in the rat hippocampus</td>
 			</tr>
 		</tbody>
 	</table>
@@ -373,8 +373,8 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>11:45-12:00 pm</td>
-				<td>Student 47</td>
-				<td>TBD</td>
+				<td>Clara Avelar Mendes de Vasconcellos</td>
+				<td>Semaglutide preserves brain microcirculation and neurovascular unit integrity in metabolic syndrome</td>
 			</tr>
 		</tbody>
 	</table>
@@ -394,37 +394,32 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>2-2:30 pm</td>
+				<td>2-2:15 pm</td>
 				<td>Student 13</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>2:30-3 pm</td>
+				<td>2:15-2:30 pm</td>
 				<td>Student 59</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>3-3:15 pm</td>
-				<td>Student</td>
-				<td>TBD</td>
-			</tr>
-			<tr>
-				<td>3:15-3:30 pm</td>
+				<td>2:30-3:00 pm</td>
 				<td>Nathan Upham</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>3-3:15 pm</td>
+				<td>3:00-3:20 pm</td>
 				<td>Gustavo Madeira Santana</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>3:15-3:30 pm</td>
+				<td>3:20-3:40 pm</td>
 				<td>Rafael Dai Pra</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>3:30-3:45 pm</td>
+				<td>3:40-4:00 pm</td>
 				<td>-</td>
 				<td>Session summary and Q&A</td>
 			</tr>
@@ -432,11 +427,12 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>3:45-4:30 pm: Coffee Break (Room TBD)</h3>
+<h3>4:00-4:45 pm: Coffee Break (Room TBD)</h3>
 <h3>4:45-5 pm: Group Photo (Location TBD)</h3>
 <h3>5-6:30 pm: Roundtable Discussion (Room TBD)</h3>
 <h3>6:30-6:45 pm: Closing Remarks (Room TBD)</h3>
 
+<h3>7:15 pm: Networking Dinner (Location TBD)</h3>
 
 </div>
 </section>
