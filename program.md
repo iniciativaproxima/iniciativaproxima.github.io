@@ -27,7 +27,7 @@ nav-menu: true
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Pre-symposium Workshop.</h3>
-		<p>A pre-symposium workshop will take place on December 10th and will discuss the Frontiers of Biological and Biomedical Sciences: Personalized Medicine. It will zone in on critical personalized medicine themes such as Genomics, Biomarkers, and Imaging. Leading scientists including Luis Saraiva, Bernice Lo, Eduardo Zimmer, and Alex Cristino will helm the discussions, personifying their expert insights.</p>
+		<p>A pre-symposium workshop will take place on December 10th at Hospital Moinhos de Vento and will discuss the Frontiers of Biological and Biomedical Sciences: Personalized Medicine. It will zone in on critical personalized medicine themes such as Genomics, Biomarkers, and Imaging. Leading scientists including Luis Saraiva, Bernice Lo, Eduardo Zimmer, and Alex Cristino will helm the discussions, personifying their expert insights.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Poster sessions.</h3>
