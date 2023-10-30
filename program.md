@@ -239,7 +239,7 @@ nav-menu: true
 			<tr>
 				<td>11:00-12:00 am</td>
 				<td>-</td>
-				<td>Cofee chat with invited Scientists</td>
+				<td>Coffee chat with invited Scientists</td>
 			</tr>
 		</tbody>
 	</table>
@@ -364,7 +364,7 @@ nav-menu: true
 			<tr>
 				<td>11:00-11:30 am</td>
 				<td>-</td>
-				<td>Cofee Break (Room TBD)</td>
+				<td>Coffee Break (Room TBD)</td>
 			</tr>
 			<tr>
 				<td>11:30-11:45 am</td>
