@@ -167,11 +167,36 @@ nav-menu: true
 			<tr>
 				<td>2:15-2:45 pm</td>
 				<td>Bernice Lo</td>
-				<td>TBD</td>
+				<td>Molecular Detectives Investigating Rare Diseases for Precision Medicine</td>
 			</tr>
 			<tr>
 				<td>2:45-3:15 pm</td>
-				<td>Luis Saraiva</td>
+				<td>TBDOutreach & Community Service
+2023 Selected Mentor - Cientifico Latino x Simons Foundation Mentorship Initiative. cientificolatino.com/gsmi Mentorship program targeting graduate school applicants from minoritized backgrounds.
+2023 Co-Organizer - Proxima Symposium. proximasymposium.org
+International symposium on biological sciences targeting young scientists from underrepresented populations.
+2023 Mentoring Coordinator - Iniciativa Proxima Mentoring Program Mentoring and training for Brazilian undergraduate and master students.
+2022 - 2023 2021 - 2023
+2022 - 2023
+Graduate Student Member - MCDB Diversity, Equity and Inclusion Committee
+Department of Molecular, Cellular and Developmental Biology
+Content Leader - Yale Neuroscience Outreach Program
+Neuroscience workshops with local schools throughout the year, with over 600 kids reached. (e.g., Cooperative Arts and Humanities High School, Talented and Gifted Program,
+Health Careers Academy Pathway, Hillhouse High School, Gateway Community College )
+Volunteer - OpenLabs Outreach Initiatives
+Outreach events with the local community, including Science Haven, Science Cafe, and Flipped Science Fair. Volunteer - Yale Pathways to Science Summer Workshops
+2022 - 2023
+2022 Graduate Leader - NSF Research Experiences for Undergraduates, and
+2021 - 2022
+Wu Tsai Institute Undergraduate Summer Research Program
+Mentoring and professional development for undergraduate students doing summer research. Funded by the Physics, Engineering and Biology Program and the Wu Tsai Institute.
+Mentees: Arianna Rodriguez (now PhD at Yale), Nathan Wu (now Undergraduate at Yale University) Mentor - Iniciativa Proxima Mentoring Program
+Mentoring and training for Brazilian undergraduate and master students. iniciativa-proxima.org Mentees - (2021): Renata Proa (now PhD at Columbia), Fernanda de Souza Valente (now Med. School), (2022): Amanda Yanke (now Postgrad at NYU), Giullia Braga (now BME at Grenoble INP)
+2021 Graduate Leader/Mentor - Wu Tsai Institute MIND Scholar Program
+Mentoring and professional development for undergraduate students. wti.yale.edu Mentees: George Mourgkos (now at Yale), Jenna Salameh (now at UChicago)
+2021 Volunteer - Yale Brain Education Week
+Neuroscience workshops for 6th-12th grade students
+2019 Co-organizer - Yale-CAPES Seminars in Biomedical Sciences. sbsbrazil.org</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
@@ -215,7 +240,7 @@ nav-menu: true
 			<tr>
 				<td>5:00-5:30 pm</td>
 				<td>Claudia Vallegia</td>
-				<td>TBD</td>
+				<td>The health of indigenous people in northern Argentina: A biosocial and biocultural approach</td>
 			</tr>
 			<tr>
 				<td>5:30-5:45 pm</td>
@@ -250,17 +275,17 @@ nav-menu: true
 			<tr>
 				<td>9:30-10:00 am</td>
 				<td>Ivan de Araujo</td>
-				<td>TBD</td>
+				<td>Neural circuits that integrate body and brain</td>
 			</tr>
 			<tr>
 				<td>10:00-10:30 am</td>
 				<td>Mariana Byndloss</td>
-				<td>TBD</td>
+				<td>Role of microbiota and intestinal epithelial interactions in childhood obesity</td>
 			</tr>
 			<tr>
 				<td>10:30-11:00 am</td>
 				<td>Esther Florsheim</td>
-				<td>TBD</td>
+				<td>Your mind on allergies – how the immune system shapes behavior</td>
 			</tr>
 			<tr>
 				<td>11:00-12:00 am</td>
@@ -288,7 +313,7 @@ nav-menu: true
 			<tr>
 				<td>2:00-2:30 pm</td>
 				<td>Bassem Hassam</td>
-				<td>TBD</td>
+				<td>Developmental emergence of specificity in neuronal circuit wiring</td>
 			</tr>
 			<tr>
 				<td>2:30-3:00 pm</td>
@@ -340,7 +365,7 @@ nav-menu: true
 			<tr>
 				<td>5:00-5:30 pm</td>
 				<td>Constantina Theofanopoulou</td>
-				<td>TBD</td>
+				<td>Neurobiology of social communication: from speech to dance</td>
 			</tr>
 			<tr>
 				<td>5:30-5:45 pm</td>
@@ -380,7 +405,7 @@ nav-menu: true
 			<tr>
 				<td>10:00-10:30 am</td>
 				<td>Amber Alhadeff</td>
-				<td>TBD</td>
+				<td>The power of hunger</td>
 			</tr>
 			<tr>
 				<td>10:30-11:00 am</td>
@@ -432,34 +457,43 @@ nav-menu: true
 			<tr>
 				<td>2:30-3:00 pm</td>
 				<td>Nathan Upham</td>
+				<td>Phylodynamics of mammal species and their pathogens</td>
+			</tr>
+			<tr>
+				<td>3:00-3:15 pm</td>
+				<td>Renata Proa</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>3:00-3:20 pm</td>
+				<td>3:15-3:35 pm</td>
 				<td>Gustavo Madeira Santana</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>3:20-3:40 pm</td>
+				<td>3:35-3:55 pm</td>
 				<td>Rafael Dai Pra</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>3:40-4:00 pm</td>
+				<td>3:55-4:10 pm</td>
 				<td>-</td>
 				<td>Daily summary and Q&A</td>
 			</tr>
 			<tr>
-				<td>4:00-4:45 pm</td>
+				<td>4:10-4:55 pm</td>
 				<td>-</td>
 				<td>Coffee Break (Room TBD)</td>
+			</tr>
+			<tr>
+				<td>4:55-5:05 pm</td>
+				<td>-</td>
+				<td>Group Photo (Location TBD)</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-<h3>4:45-5 pm: Group Photo (Location TBD)</h3>
-<h3>5-6:30 pm: Roundtable Discussion (Room TBD)</h3>
+<h3>5:05-6:30 pm: Roundtable Discussion (Room TBD)</h3>
 <h3>6:30-6:45 pm: Closing Remarks (Room TBD)</h3>
 
 <h3>7:15 pm: Networking Dinner (Location TBD)</h3>
