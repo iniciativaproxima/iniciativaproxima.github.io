@@ -455,20 +455,20 @@ nav-menu: true
 				<td>Daily summary and Q&A</td>
 			</tr>
 			<tr>
-				<td>4:10-4:55 pm</td>
-				<td>-</td>
-				<td>Coffee Break (Room TBD)</td>
-			</tr>
-			<tr>
-				<td>4:55-5:05 pm</td>
+				<td>4:10-4:20 pm</td>
 				<td>-</td>
 				<td>Group Photo (Location TBD)</td>
+			</tr>
+			<tr>
+				<td>4:20-5:10 pm</td>
+				<td>-</td>
+				<td>Coffee Break (Room TBD)</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-<h3>5:05-6:30 pm: Roundtable Discussion (Room TBD)</h3>
+<h3>5:10-6:30 pm: Roundtable Discussion (Room TBD)</h3>
 <h3>6:30-6:45 pm: Closing Remarks (Room TBD)</h3>
 
 <h3>7:15 pm: Networking Dinner (Location TBD)</h3>
