@@ -167,7 +167,7 @@ nav-menu: true
 			<tr>
 				<td>2:15-2:45 pm</td>
 				<td>Bernice Lo</td>
-				<td>Molecular Detectives Investigating Rare Diseases for Precision Medicine</td>
+				<td>Molecular detectives investigating rare diseases for precision medicine</td>
 			</tr>
 			<tr>
 				<td>2:45-3:15 pm</td>
