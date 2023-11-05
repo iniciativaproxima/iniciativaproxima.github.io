@@ -129,7 +129,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>12:00-2:00 pm: Lunch</h3>
+<h3>12:00-2:00 pm: Lunch (not provided)</h3>
 
 <h4>Opening Session (UFRGS Centro Cultural - Room TBD)</h4>
 
@@ -271,7 +271,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>12:00-2:00 pm: Lunch</h3>
+<h3>12:00-2:00 pm: Lunch (not provided)</h3>
 
 <h4>Scientific Talks (Room TBD)</h4>
 
@@ -406,7 +406,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>12:00-2:00 pm: Lunch</h3>
+<h3>12:00-2:00 pm: Lunch (not provided)</h3>
 
 <h4>Scientific Talks (Room TBD)</h4>
 <div class="table-wrapper">
