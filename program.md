@@ -95,7 +95,7 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>TBA</td>
+				<td>3:00-6:00 pm</td>
 				<td>Luis Saraiva, Bernice Lo, Eduardo Zimmer, and Alex Cristino</td>
 				<td>Frontiers of Biological and Biomedical Sciences: Personalized Medicine</td>
 			</tr>
