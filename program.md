@@ -375,7 +375,7 @@ nav-menu: true
 			<tr>
 				<td>9:30-10:00 am</td>
 				<td>Tamas Horvath</td>
-				<td>TBD</td>
+				<td>Hunger drives life</td>
 			</tr>
 			<tr>
 				<td>10:00-10:30 am</td>
@@ -385,7 +385,7 @@ nav-menu: true
 			<tr>
 				<td>10:30-11:00 am</td>
 				<td>Matthew Carter</td>
-				<td>TBD</td>
+				<td>The power of sleep on the power of hunger</td>
 			</tr>
 			<tr>
 				<td>11:00-11:30 am</td>
