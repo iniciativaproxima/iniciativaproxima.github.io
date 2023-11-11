@@ -18,8 +18,12 @@ nav-menu: false
 
 	<!-- Content -->
 	
-	<!-- <h2>Symposium Registration</h2> -->
+	<h3>Registrations are now closed.</h3>
 
+	<p>Registration for the 2023 Proxima Symposium are closed as of Novemeber 1st.</p>
+	<p><b>For presenters:</b> <u><a href="{% link assets/files/instructions_presentations.pdf %}">Click here</a></u> for instructions on how to prepare your poster or oral presentation.</p>
+
+	<hr class="major" />
 
 	<p>In the interest of prioritizing early-career trainees (undergraduate and master's students), we require that you submit a YouTube link for a video up to 90 seconds, in English, answering the following question: <b><i>What do you like the most about science and how will the symposium advance your career?</i></b></p>
 	<p>We are accepting Abstract submissions for those interested in presenting (oral or poster presentation). You must submit your Abstract information when registering. See below for rules and guidelines for your Abstract submission.</p>
