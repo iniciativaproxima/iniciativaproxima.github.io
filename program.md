@@ -83,7 +83,7 @@ nav-menu: true
 <br>
 
 
-<h4>Pre-symposium workshop (Hospital Moinhos de Vento - Room TBD)</h4>
+<h4>Pre-symposium workshop (Hospital Moinhos de Vento - Auditório Moinhos - Térreo Bloco B - Rua Tiradentes, 333)</h4>
 <div class="table-wrapper">
 	<table>
 		<thead>
