@@ -437,7 +437,7 @@ nav-menu: true
 			<tr>
 				<td>15:00-15:20</td>
 				<td>Gustavo Madeira Santana</td>
-				<td>TBD</td>
+				<td>Flies can smell motion</td>
 			</tr>
 			<tr>
 				<td>15:20-15:40</td>
