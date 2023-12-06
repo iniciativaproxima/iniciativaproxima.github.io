@@ -297,7 +297,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>15:00-15:15</td>
-				<td>Méllanieanda Silva Ferreira</td>
+				<td>Melanie Amanda Silva Ferreira</td>
 				<td>Pyriproxyfen exposure affects neuronal differentiation and components of vertebrae and spinal cord</td>
 			</tr>
 			<tr>
@@ -442,7 +442,7 @@ nav-menu: true
 			<tr>
 				<td>15:20-15:40</td>
 				<td>Rafael Dai Pra</td>
-				<td>TBD</td>
+				<td>Neurophysiological mechanisms of sexual maturation in a mammalian hibernator</td>
 			</tr>
 			<tr>
 				<td>15:40-15:55</td>
