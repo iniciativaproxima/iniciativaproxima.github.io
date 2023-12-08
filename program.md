@@ -374,24 +374,19 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>9:30-10:00</td>
+				<td>10:00-10:30</td>
 				<td>Tamas Horvath (Yale University)</td>
 				<td>Hunger drives life</td>
 			</tr>
 			<tr>
-				<td>10:00-10:30</td>
+				<td>10:30-11:00</td>
 				<td>Amber Alhadeff (Monell Chemical Senses Center)</td>
 				<td>The power of hunger</td>
 			</tr>
 			<tr>
-				<td>10:30-11:00</td>
+				<td>11:00-11:30</td>
 				<td>Matthew Carter (Williams College)</td>
 				<td>The power of sleep on the power of hunger</td>
-			</tr>
-			<tr>
-				<td>11:00-11:30</td>
-				<td>-</td>
-				<td>Coffee Break (3rd floor, sala Abacateiro)</td>
 			</tr>
 			<tr>
 				<td>11:30-11:45</td>
