@@ -227,7 +227,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>17:45-19:00: Poster Session 1 + Happy Hour (Room TBD)</h3>
+<h3>17:45-19:00: Poster Session 1 (Room TBD)</h3>
 
 <hr class="major" />
 
@@ -266,7 +266,7 @@ nav-menu: true
 			<tr>
 				<td>11:00-12:00</td>
 				<td>-</td>
-				<td>Coffee chat with invited Scientists</td>
+				<td>Roundtable with Scientists</td>
 			</tr>
 		</tbody>
 	</table>
@@ -294,7 +294,7 @@ nav-menu: true
 			<tr>
 				<td>14:30-15:00</td>
 				<td>Gustavo Menezes (UFMG)</td>
-				<td>TBD</td>
+				<td>Pioneering high dimensional in vivo imaging for a shift in the brazilian scientific landscape</td>
 			</tr>
 			<tr>
 				<td>15:00-15:15</td>
@@ -352,7 +352,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>17:45-19:00: Poster Session 2 + Happy Hour (Room TBD)</h3>
+<h3>17:45-19:00: Poster Session 2 (Room TBD)</h3>
 
 <hr class="major" />
 
