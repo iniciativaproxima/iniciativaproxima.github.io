@@ -109,7 +109,7 @@ nav-menu: true
 <br>
 <br>
 
-<h4>Workshop (UFRGS Centro Cultural - Room TBD)</h4>
+<h4>Workshop (UFRGS Centro Cultural - 3rd floor, sala Jacarandá)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -132,7 +132,7 @@ nav-menu: true
 
 <h3>12:00-14:00: Lunch (not provided)</h3>
 
-<h4>Opening Session (UFRGS Centro Cultural - Room TBD)</h4>
+<h4>Opening Session (UFRGS Centro Cultural - 3rd floor, sala Jacarandá)</h4>
 
 <div class="table-wrapper" >
 	<table>
@@ -153,7 +153,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h4>Scientific Talks (UFRGS Centro Cultural - Room TBD)</h4>
+<h4>Scientific Talks (UFRGS Centro Cultural - 3rd floor, sala Jacarandá)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -189,9 +189,9 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>15:45-16:30: Coffee Break (Room TBD)</h3>
+<h3>15:45-16:30: Coffee Break (3rd floor, sala Abacateiro)</h3>
 
-<h4>Scientific Talks (Room TBD)</h4>
+<h4>Scientific Talks (3rd floor, sala Jacarandá)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -227,7 +227,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>17:45-19:00: Poster Session 1 (Room TBD)</h3>
+<h3>17:45-19:00: Poster Session 1 (3rd floor, sala Abacateiro)</h3>
 
 <hr class="major" />
 
@@ -236,7 +236,7 @@ nav-menu: true
 <br>
 <br>
 
-<h4>Scientific Talks (Room TBD)</h4>
+<h4>Scientific Talks (3rd floor, sala Jacarandá)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -274,7 +274,7 @@ nav-menu: true
 
 <h3>12:00-14:00: Lunch (not provided)</h3>
 
-<h4>Scientific Talks (Room TBD)</h4>
+<h4>Scientific Talks (3rd floor, sala Jacarandá)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -315,9 +315,9 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>15:45-16:40: Coffee Break (Room TBD)</h3>
+<h3>15:45-16:40: Coffee Break (3rd floor, sala Abacateiro)</h3>
 
-<h4>Scientific Talks (Room TBD)</h4>
+<h4>Scientific Talks (3rd floor, sala Jacarandá)</h4>
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -352,7 +352,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>17:45-19:00: Poster Session 2 (Room TBD)</h3>
+<h3>17:45-19:00: Poster Session 2 (3rd floor, sala Abacateiro)</h3>
 
 <hr class="major" />
 
@@ -361,7 +361,7 @@ nav-menu: true
 <br>
 <br>
 
-<h4>Scientific Talks (Room TBD)</h4>
+<h4>Scientific Talks (3rd floor, sala Jacarandá)</h4>
 
 <div class="table-wrapper">
 	<table>
@@ -391,7 +391,7 @@ nav-menu: true
 			<tr>
 				<td>11:00-11:30</td>
 				<td>-</td>
-				<td>Coffee Break (Room TBD)</td>
+				<td>Coffee Break (3rd floor, sala Abacateiro)</td>
 			</tr>
 			<tr>
 				<td>11:30-11:45</td>
@@ -409,7 +409,7 @@ nav-menu: true
 
 <h3>12:00-14:00: Lunch (not provided)</h3>
 
-<h4>Scientific Talks (Room TBD)</h4>
+<h4>Scientific Talks (3rd floor, sala Jacarandá)</h4>
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -458,14 +458,14 @@ nav-menu: true
 			<tr>
 				<td>16:10-17:00</td>
 				<td>-</td>
-				<td>Coffee Break (Room TBD)</td>
+				<td>Coffee Break (3rd floor, sala Abacateiro)</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-<h3>17:00-18:30: Roundtable Discussion (Room TBD)</h3>
-<h3>18:30-18:45: Closing Remarks (Room TBD)</h3>
+<h3>17:00-18:30: Roundtable Discussion (3rd floor, sala Jacarandá)</h3>
+<h3>18:30-18:45: Closing Remarks (3rd floor, sala Jacarandá)</h3>
 
 <h3>19:15: Networking Dinner (Location TBD)</h3>
 
