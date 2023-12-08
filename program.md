@@ -35,8 +35,8 @@ nav-menu: true
 	</div>
 </div>
 
-	<!--
-	<h3>The Proxima Symposium will happen on December 11-13.</h3>
+	
+	<!-- <h3>The Proxima Symposium will happen on December 11-13.</h3>
 	<h3>A pre-symposium workshop will take place on December 10th and will discuss the Frontiers of Biological and Biomedical Sciences: Personalized Medicine. It will zone in on critical personalized medicine themes such as Genomics, Biomarkers, and Imaging. Leading scientists including Luis Saraiva, Bernice Lo, Eduardo Zimmer, and Alex Cristino will helm the discussions, personifying their expert insights.</h3>
 	<h3>Full schedule and activities for each day will soon be available.</h3>
 	
@@ -47,30 +47,31 @@ nav-menu: true
 	<header class="major">
 		<h3>Confirmed scientists</h3>
 	</header>
-	
+	 -->
+<!-- 	<h3>Confirmed invited scientists</h3>
 	<ul>
 		<li><b>Alex Cristino</b> (Griffith University, AU)</li>
-		<li><b>Amber Alhadeff</b> (Monell Chemical Senses Center, USA)</li>
-		<li><b>Angelina Bilate</b> (Rockefeller University, USA)</li>
-		<li><b>Bassem Hassam</b> (ICM, France)</li>
-		<li><b>Bernice Lo</b> (Sidra Medicine, Qatar)</li>
-		<li><b>Constantina Theofanopoulou</b> (Rockefeller University, USA)</li>
-		<li><b>Claudia Valeggia</b> (Yale University, USA)</li>
-		<li><b>Eduardo Zimmer</b> (UFRGS, Brazil)</li>
-		<li><b>Esther Florsheim</b> (Arizona State University, USA)</li>
-		<li><b>Gustavo Menezes</b> (UFMG, Brazil)</li>
-		<li><b>Ivan de Araujo</b> (Max Planck Institute, Germany)</li>
-		<li><b>Luis Saraiva</b> (Sidra Medcine, Qatar)</li>
-		<li><b>Mariana Byndloss</b> (Vanderbilt University, USA)</li>
-		<li><b>Matthew Carter</b> (Williams College, USA)</li>
-		<li><b>Matthew Suttor</b> (Yale University, USA)</li>
-		<li><b>Nathan Upham</b> (Arizona State University, USA)</li>
-		<li><b>Tamas Horvath</b> (Yale University, USA)</li>
-		<li><b>Valentina Parma</b> (Monell Chemical Senses Center, USA) </li>
-		<li><b>Vishwa Deep Dixit</b> (Yale University, USA)</li>
+		<li><b>Amber Alhadeff</b> (Monell Chemical Senses Center)</li>
+		<li><b>Angelina Bilate</b> (Rockefeller University)</li>
+		<li><b>Bassem Hassam</b> (ICM)</li>
+		<li><b>Bernice Lo</b> (Sidra Medicine)</li>
+		<li><b>Constantina Theofanopoulou</b> (Rockefeller University)</li>
+		<li><b>Claudia Valeggia</b> (Yale University)</li>
+		<li><b>Eduardo Zimmer</b> (UFRGS)</li>
+		<li><b>Esther Florsheim</b> (Arizona State University)</li>
+		<li><b>Gustavo Menezes</b> (UFMG)</li>
+		<li><b>Ivan de Araujo</b> (Max Planck Institute)</li>
+		<li><b>Luis Saraiva</b> (Sidra Medcine)</li>
+		<li><b>Mariana Byndloss</b> (Vanderbilt University)</li>
+		<li><b>Matthew Carter</b> (Williams College)</li>
+		<li><b>Matthew Suttor</b> (Yale University)</li>
+		<li><b>Nathan Upham</b> (Arizona State University)</li>
+		<li><b>Tamas Horvath</b> (Yale University)</li>
+		<li><b>Valentina Parma</b> (Monell Chemical Senses Center) </li>
+		<li><b>Vishwa Deep Dixit</b> (Yale University)</li>
 		<li><a href="https://proximasymposium.org/register.html" rel="noopener noreferrer"><b>You?</b> Apply to present!</a></li>
 	</ul>
-	-->
+	 -->
 
 <hr class="major" />
 
@@ -122,7 +123,7 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>9:00-12:00</td>
-				<td>Matthew Suttor</td>
+				<td>Matthew Suttor (Yale University)</td>
 				<td>Creative Thinking in Arts and Science</td>
 			</tr>
 		</tbody>
@@ -166,13 +167,13 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>14:15-14:45</td>
-				<td>Bernice Lo</td>
-				<td>Molecular detectives investigating rare diseases for precision medicine</td>
+				<td>Luis Saraiva (Sidra Medcine)</td>
+				<td>Deconstructing rare diseases with functional genomics - a middle eastern adventure</td>
 			</tr>
 			<tr>
 				<td>14:45-15:15</td>
-				<td>TBD</td>
-				<td>TBD</td>
+				<td>Bernice Lo (Sidra Medicine)</td>
+				<td>Molecular detectives investigating rare diseases for precision medicine</td>
 			</tr>
 			<tr>
 				<td>15:15-15:30</td>
@@ -214,7 +215,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>17:00-17:30</td>
-				<td>Claudia Vallegia</td>
+				<td>Claudia Valeggia (Yale University)</td>
 				<td>The health of indigenous people in northern Argentina: A biosocial and biocultural approach</td>
 			</tr>
 			<tr>
@@ -249,7 +250,7 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>9:30-10:00</td>
-				<td>Ivan de Araujo</td>
+				<td>Ivan de Araujo (Max Planck Institute)</td>
 				<td>Neural circuits that integrate body and brain</td>
 			</tr>
 			<tr>
@@ -259,7 +260,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>10:30-11:00</td>
-				<td>Esther Florsheim</td>
+				<td>Esther Florsheim (Arizona State University)</td>
 				<td>Your mind on allergies – how the immune system shapes behavior</td>
 			</tr>
 			<tr>
@@ -287,12 +288,12 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>14:00-14:30</td>
-				<td>Bassem Hassam</td>
+				<td>Bassem Hassam (ICM)</td>
 				<td>Developmental emergence of specificity in neuronal circuit wiring</td>
 			</tr>
 			<tr>
 				<td>14:30-15:00</td>
-				<td>Gustavo Menezes</td>
+				<td>Gustavo Menezes (UFMG)</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
@@ -339,7 +340,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>17:10-17:30</td>
-				<td>Renata Proa</td>
+				<td>Renata Proa (Columbia University)</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
@@ -374,17 +375,17 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>9:30-10:00</td>
-				<td>Tamas Horvath</td>
+				<td>Tamas Horvath (Yale University)</td>
 				<td>Hunger drives life</td>
 			</tr>
 			<tr>
 				<td>10:00-10:30</td>
-				<td>Amber Alhadeff</td>
+				<td>Amber Alhadeff (Monell Chemical Senses Center)</td>
 				<td>The power of hunger</td>
 			</tr>
 			<tr>
 				<td>10:30-11:00</td>
-				<td>Matthew Carter</td>
+				<td>Matthew Carter (Williams College)</td>
 				<td>The power of sleep on the power of hunger</td>
 			</tr>
 			<tr>
@@ -431,17 +432,17 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>14:30-15:00</td>
-				<td>Nathan Upham</td>
+				<td>Nathan Upham (Arizona State University)</td>
 				<td>Phylodynamics of mammal species and their pathogens</td>
 			</tr>
 			<tr>
 				<td>15:00-15:20</td>
-				<td>Gustavo Madeira Santana</td>
+				<td>Gustavo Madeira Santana (Yale University)</td>
 				<td>Flies can smell motion</td>
 			</tr>
 			<tr>
 				<td>15:20-15:40</td>
-				<td>Rafael Dai Pra</td>
+				<td>Rafael Dai Pra (Yale University)</td>
 				<td>Neurophysiological mechanisms of sexual maturation in a mammalian hibernator</td>
 			</tr>
 			<tr>
