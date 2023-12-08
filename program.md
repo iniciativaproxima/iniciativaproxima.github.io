@@ -260,8 +260,8 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>10:30-11:00</td>
-				<td>Esther Florsheim (Arizona State University)</td>
-				<td>Your mind on allergies – how the immune system shapes behavior</td>
+				<td>Stephania Libreros (Yale University)</td>
+				<td>Healing from within: How Inflammation Resolves</td>
 			</tr>
 			<tr>
 				<td>11:00-12:00</td>
@@ -432,8 +432,8 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>14:30-15:00</td>
-				<td>Nathan Upham (Arizona State University)</td>
-				<td>Phylodynamics of mammal species and their pathogens</td>
+				<td>TBD</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>15:00-15:20</td>
