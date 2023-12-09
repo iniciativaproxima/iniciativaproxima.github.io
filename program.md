@@ -27,7 +27,7 @@ nav-menu: true
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Pre-symposium Workshop.</h3>
-		<p>A pre-symposium workshop will take place on December 10th at Hospital Moinhos de Vento and will discuss the Frontiers of Biological and Biomedical Sciences: Personalized Medicine. It will zone in on critical personalized medicine themes such as Genomics, Biomarkers, and Imaging. Leading scientists including Luis Saraiva, Eduardo Zimmer, and Alex Cristino will helm the discussions, personifying their expert insights.</p>
+		<p>A pre-symposium workshop will take place on December 10th at Hospital Moinhos de Vento and will discuss the Frontiers of Biological and Biomedical Sciences: Personalized Medicine. It will zone in on critical personalized medicine themes such as Genomics, Biomarkers, and Imaging. Leading scientists, including Luis Saraiva and Eduardo Zimmer, will helm the discussions, personifying their expert insights.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Poster sessions.</h3>
@@ -97,7 +97,7 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>15:00-18:00</td>
-				<td>Luis Saraiva, Eduardo Zimmer, and Alex Cristino</td>
+				<td>Luis Saraiva, Eduardo Zimmer</td>
 				<td>Frontiers of Biological and Biomedical Sciences: Personalized Medicine</td>
 			</tr>
 		</tbody>
@@ -250,12 +250,12 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>9:30-10:00</td>
-				<td>Ivan de Araujo (Max Planck Institute)</td>
-				<td>Neural circuits that integrate body and brain</td>
+				<td>Alex Cristino (Griffith University, AU)</td>
+				<td>TBD</td>
 			</tr>
 			<tr>
 				<td>10:00-10:30</td>
-				<td>Mariana Byndloss</td>
+				<td>Mariana Byndloss (Vanderbilt University)</td>
 				<td>Role of microbiota and intestinal epithelial interactions in childhood obesity</td>
 			</tr>
 			<tr>
@@ -288,7 +288,7 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>14:00-14:30</td>
-				<td>Bassem Hassam (ICM)</td>
+				<td>Bassem Hassam (ICM, Paris)</td>
 				<td>Developmental emergence of specificity in neuronal circuit wiring</td>
 			</tr>
 			<tr>
@@ -427,18 +427,18 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>14:30-15:00</td>
-				<td>TBD</td>
-				<td>TBD</td>
-			</tr>
-			<tr>
-				<td>15:00-15:20</td>
 				<td>Gustavo Madeira Santana (Yale University)</td>
 				<td>Flies can smell motion</td>
 			</tr>
 			<tr>
-				<td>15:20-15:40</td>
+				<td>15:00-15:20</td>
 				<td>Rafael Dai Pra (Yale University)</td>
 				<td>Neurophysiological mechanisms of sexual maturation in a mammalian hibernator</td>
+			</tr>
+			<tr>
+				<td>15:20-15:40</td>
+				<td>Ivan de Araujo (Max Planck Institute)</td>
+				<td>Neural circuits that integrate body and brain</td>
 			</tr>
 			<tr>
 				<td>15:40-15:55</td>
@@ -462,7 +462,7 @@ nav-menu: true
 <h3>17:00-18:30: Roundtable Discussion (3rd floor, sala Jacarandá)</h3>
 <h3>18:30-18:45: Closing Remarks (3rd floor, sala Jacarandá)</h3>
 
-<h3>19:15: Networking Dinner (Salão de Festas Edifício Spot - Rua General Lima e Silva 757 - Ap 1305)</h3>
+<h3>19:15: Networking Dinner (Rua General Lima e Silva 757 - Ap 1305 - Salão de Festas Edifício Spot)</h3>
 
 </div>
 </section>
