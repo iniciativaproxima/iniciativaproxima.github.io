@@ -462,7 +462,7 @@ nav-menu: true
 <h3>17:00-18:30: Roundtable Discussion (3rd floor, sala Jacarandá)</h3>
 <h3>18:30-18:45: Closing Remarks (3rd floor, sala Jacarandá)</h3>
 
-<h3>19:15: Networking Dinner (Location TBD)</h3>
+<h3>19:15: Networking Dinner (Salão de Festas Edifício Spot - Rua General Lima e Silva 757 - Ap 1305)</h3>
 
 </div>
 </section>
