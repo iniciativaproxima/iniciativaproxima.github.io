@@ -264,8 +264,8 @@ nav-menu: true
 				<td>Healing from within: How Inflammation Resolves</td>
 			</tr>
 			<tr>
-				<td>-</td>
 				<td>11:30-12:30</td>
+				<td>-</td>
 				<td>Roundtable with Scientists</td>
 			</tr>
 		</tbody>
