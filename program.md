@@ -298,7 +298,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>15:00-15:15</td>
-				<td>Melanie Amanda Silva Ferreira</td>
+				<td>Méllanie Amanda Silva Ferreira</td>
 				<td>Pyriproxyfen exposure affects neuronal differentiation and components of vertebrae and spinal cord</td>
 			</tr>
 			<tr>
