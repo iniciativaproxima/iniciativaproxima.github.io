@@ -341,7 +341,7 @@ nav-menu: true
 			<tr>
 				<td>17:10-17:30</td>
 				<td>Renata Proa (Columbia University)</td>
-				<td>TBD</td>
+				<td>Beyond Boundaries: Ventures in Neuroscience, Artificial Intelligence, Healthcare and Social Equity</td>
 			</tr>
 			<tr>
 				<td>17:30-17:45</td>
