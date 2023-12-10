@@ -249,30 +249,30 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>9:30-10:00</td>
+				<td>10:00-10:30</td>
 				<td>Alex Cristino (Griffith University, AU)</td>
 				<td>TBD</td>
 			</tr>
 			<tr>
-				<td>10:00-10:30</td>
+				<td>10:30-11:00</td>
 				<td>Mariana Byndloss (Vanderbilt University)</td>
 				<td>Role of microbiota and intestinal epithelial interactions in childhood obesity</td>
 			</tr>
 			<tr>
-				<td>10:30-11:00</td>
+				<td>11:00-11:30</td>
 				<td>Stephania Libreros (Yale University)</td>
 				<td>Healing from within: How Inflammation Resolves</td>
 			</tr>
 			<tr>
-				<td>11:00-12:00</td>
 				<td>-</td>
+				<td>11:30-12:30</td>
 				<td>Roundtable with Scientists</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-<h3>12:00-14:00: Lunch (not provided)</h3>
+<h3>12:30-14:00: Lunch (not provided)</h3>
 
 <h4>Scientific Talks (3rd floor, sala Jacarandá)</h4>
 
