@@ -122,7 +122,7 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>9:00-12:00</td>
+				<td>10:00-12:00</td>
 				<td>Matthew Suttor (Yale University)</td>
 				<td>Creative Thinking in Arts and Science</td>
 			</tr>
