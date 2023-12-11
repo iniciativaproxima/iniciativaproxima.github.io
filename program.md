@@ -436,22 +436,22 @@ nav-menu: true
 				<td>Neurophysiological mechanisms of sexual maturation in a mammalian hibernator</td>
 			</tr>
 			<tr>
-				<td>15:20-15:40</td>
+				<td>15:20-15:50</td>
+				<td>Mychael Lourenço (UFRJ)</td>
+				<td>TBD</td>
+			</tr>
+			<tr>
+				<td>15:50-16:20</td>
 				<td>Ivan de Araujo (Max Planck Institute)</td>
 				<td>Neural circuits that integrate body and brain</td>
 			</tr>
 			<tr>
-				<td>15:40-15:55</td>
+				<td>16:20</td>
 				<td>-</td>
-				<td>Daily summary and Q&A</td>
+				<td>Group Photo</td>
 			</tr>
 			<tr>
-				<td>15:55-16:10</td>
-				<td>-</td>
-				<td>Group Photo (Location TBD)</td>
-			</tr>
-			<tr>
-				<td>16:10-17:00</td>
+				<td>16:25-17:25</td>
 				<td>-</td>
 				<td>Coffee Break (3rd floor, sala Abacateiro)</td>
 			</tr>
@@ -459,7 +459,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>17:00-18:30: Roundtable Discussion (3rd floor, sala Jacarandá)</h3>
+<h3>17:25-18:30: Roundtable Discussion (3rd floor, sala Jacarandá)</h3>
 <h3>18:30-18:45: Closing Remarks (3rd floor, sala Jacarandá)</h3>
 
 <h3>19:15: Networking Dinner (Rua General Lima e Silva 757 - Ap 1305 - Salão de Festas Edifício Spot)</h3>
