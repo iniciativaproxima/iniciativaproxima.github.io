@@ -189,7 +189,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>15:45-16:30: Coffee Break (3rd floor, sala Abacateiro)</h3>
+<h3>15:45-16:30: Coffee Break (3rd floor lobby)</h3>
 
 <h4>Scientific Talks (3rd floor, sala Jacarandá)</h4>
 
@@ -315,7 +315,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>15:45-16:40: Coffee Break (3rd floor, sala Abacateiro)</h3>
+<h3>15:45-16:40: Coffee Break (3rd floor lobby)</h3>
 
 <h4>Scientific Talks (3rd floor, sala Jacarandá)</h4>
 <div class="table-wrapper">
@@ -340,8 +340,8 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>17:10-17:30</td>
-				<td>Renata Proa (Columbia University)</td>
-				<td>Beyond Boundaries: Ventures in Neuroscience, Artificial Intelligence, Healthcare and Social Equity</td>
+				<td>Rafael Dai Pra (Yale University)</td>
+				<td>Neurophysiological mechanisms of sexual maturation in a mammalian hibernator</td>
 			</tr>
 			<tr>
 				<td>17:30-17:45</td>
@@ -426,14 +426,14 @@ nav-menu: true
 				<td>Investigation of malonyl-CoA reductase enzyme variants for optimizing bioproduction of 3-hydroxypropionic acid in yeast</td>
 			</tr>
 			<tr>
+				<td>15:00-15:20</td>
+				<td>Renata Proa (Columbia University)</td>
+				<td>Beyond Boundaries: Ventures in Neuroscience, Artificial Intelligence, Healthcare and Social Equity</td>
+			</tr>
+			<tr>
 				<td>14:30-15:00</td>
 				<td>Gustavo Madeira Santana (Yale University)</td>
 				<td>Flies can smell motion</td>
-			</tr>
-			<tr>
-				<td>15:00-15:20</td>
-				<td>Rafael Dai Pra (Yale University)</td>
-				<td>Neurophysiological mechanisms of sexual maturation in a mammalian hibernator</td>
 			</tr>
 			<tr>
 				<td>15:20-15:50</td>
@@ -453,7 +453,7 @@ nav-menu: true
 			<tr>
 				<td>16:25-17:25</td>
 				<td>-</td>
-				<td>Coffee Break (3rd floor, sala Abacateiro)</td>
+				<td>Coffee Break (3rd floor lobby)</td>
 			</tr>
 		</tbody>
 	</table>
