@@ -438,7 +438,7 @@ nav-menu: true
 			<tr>
 				<td>15:20-15:50</td>
 				<td>Mychael Lourenço (UFRJ)</td>
-				<td>TBD</td>
+				<td>Metabolic and inflammatory mechanisms of memory failure in Alzheimer's disease</td>
 			</tr>
 			<tr>
 				<td>15:50-16:20</td>
