@@ -221,7 +221,7 @@ nav-menu: true
 			<tr>
 				<td>17:30-17:45</td>
 				<td>-</td>
-				<td>Daily summary and Q&A</td>
+				<td>Q&A and announcements</td>
 			</tr>
 		</tbody>
 	</table>
@@ -346,7 +346,7 @@ nav-menu: true
 			<tr>
 				<td>17:30-17:45</td>
 				<td>-</td>
-				<td>Daily summary and Q&A</td>
+				<td>Q&A and announcements</td>
 			</tr>
 		</tbody>
 	</table>
