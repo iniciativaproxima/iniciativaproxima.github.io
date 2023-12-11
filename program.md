@@ -215,8 +215,8 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>17:00-17:30</td>
-				<td>Claudia Valeggia (Yale University)</td>
-				<td>The health of indigenous people in northern Argentina: A biosocial and biocultural approach</td>
+				<td>Alex Cristino (Griffith University, AU)</td>
+				<td>Unlocking precision medicine: A systems biology perspective</td>
 			</tr>
 			<tr>
 				<td>17:30-17:45</td>
@@ -250,8 +250,8 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>10:00-10:30</td>
-				<td>Alex Cristino (Griffith University, AU)</td>
-				<td>TBD</td>
+				<td>Claudia Valeggia (Yale University)</td>
+				<td>The health of indigenous people in northern Argentina: A biosocial and biocultural approach</td>
 			</tr>
 			<tr>
 				<td>10:30-11:00</td>
