@@ -288,7 +288,7 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>14:00-14:30</td>
-				<td>Bassem Hassam (ICM, Paris)</td>
+				<td>Bassem Hassan (ICM, Paris)</td>
 				<td>Developmental emergence of specificity in neuronal circuit wiring</td>
 			</tr>
 			<tr>
