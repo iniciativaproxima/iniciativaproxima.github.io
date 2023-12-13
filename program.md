@@ -426,32 +426,32 @@ nav-menu: true
 				<td>Investigation of malonyl-CoA reductase enzyme variants for optimizing bioproduction of 3-hydroxypropionic acid in yeast</td>
 			</tr>
 			<tr>
-				<td>15:00-15:20</td>
+				<td>14:30-14:50</td>
 				<td>Renata Proa (Columbia University)</td>
 				<td>Beyond Boundaries: Ventures in Neuroscience, Artificial Intelligence, Healthcare and Social Equity</td>
 			</tr>
 			<tr>
-				<td>14:30-15:00</td>
+				<td>14:50-15:10</td>
 				<td>Gustavo Madeira Santana (Yale University)</td>
 				<td>Flies can smell motion</td>
 			</tr>
 			<tr>
-				<td>15:20-15:50</td>
+				<td>15:10-15:40</td>
 				<td>Mychael Lourenço (UFRJ)</td>
 				<td>Metabolic and inflammatory mechanisms of memory failure in Alzheimer's disease</td>
 			</tr>
 			<tr>
-				<td>15:50-16:20</td>
+				<td>15:40-16:10</td>
 				<td>Ivan de Araujo (Max Planck Institute)</td>
 				<td>Neural circuits that integrate body and brain</td>
 			</tr>
 			<tr>
-				<td>16:20</td>
+				<td>16:10</td>
 				<td>-</td>
 				<td>Group Photo</td>
 			</tr>
 			<tr>
-				<td>16:25-17:25</td>
+				<td>16:20-17:00</td>
 				<td>-</td>
 				<td>Coffee Break (3rd floor lobby)</td>
 			</tr>
@@ -459,7 +459,7 @@ nav-menu: true
 	</table>
 </div>
 
-<h3>17:25-18:30: Roundtable Discussion (3rd floor, sala Jacarandá)</h3>
+<h3>17:00-18:30: Roundtable Discussion (3rd floor, sala Jacarandá)</h3>
 <h3>18:30-18:45: Closing Remarks (3rd floor, sala Jacarandá)</h3>
 
 <h3>19:15: Networking Dinner (Rua General Lima e Silva 757 - Ap 1305 - Salão de Festas Edifício Spot)</h3>
