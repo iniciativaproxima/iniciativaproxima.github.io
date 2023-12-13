@@ -441,26 +441,26 @@ nav-menu: true
 				<td>Metabolic and inflammatory mechanisms of memory failure in Alzheimer's disease</td>
 			</tr>
 			<tr>
-				<td>15:40-16:10</td>
+				<td>15:40-16:20</td>
+				<td>-</td>
+				<td>Coffee Break (3rd floor lobby)</td>
+			</tr>
+			<tr>
+				<td>16:20-16:50</td>
 				<td>Ivan de Araujo (Max Planck Institute)</td>
 				<td>Neural circuits that integrate body and brain</td>
 			</tr>
 			<tr>
-				<td>16:10</td>
+				<td>16:50-17:00</td>
 				<td>-</td>
 				<td>Group Photo</td>
-			</tr>
-			<tr>
-				<td>16:20-17:00</td>
-				<td>-</td>
-				<td>Coffee Break (3rd floor lobby)</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-<h3>17:00-18:30: Roundtable Discussion (3rd floor, sala Jacarandá)</h3>
-<h3>18:30-18:45: Closing Remarks (3rd floor, sala Jacarandá)</h3>
+<h3>17:00-17:45: Roundtable Discussion (3rd floor, sala Jacarandá)</h3>
+<h3>17:45-18:00: Closing Remarks (3rd floor, sala Jacarandá)</h3>
 
 <h3>19:15: Networking Dinner (Rua General Lima e Silva 757 - Ap 1305 - Salão de Festas Edifício Spot)</h3>
 
